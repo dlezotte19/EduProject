@@ -1,0 +1,4370 @@
+Age	Gender	Ethnic Group Description	Subject Catalog Nbr	Instruction Mode Group	Session	Official Grade	
+21	Male	Asian	ACG2021	1	8	B	
+21	Female	Asian	ACG2021	1	8	W	
+21	Female	White	ACG2021	2	8	A	
+25	Female	White	ACG2021	1	8	WF	
+22	Female	White	ACG2021	1	8	B	
+20	Male	White	ACG2021	3	8	A	
+21	Female	White	ACG2021	1	8	C	
+21	Female	White	ACG2021	2	8	A	
+22	Female	White	ACG2021	2	8	C	
+22	Male	Asian	ACG2021	2	8	B	
+33	Male	White	ACG2021	3	8	A	
+22	Male	White	ACG2021	1	8	B	
+40	Male	White	ACG2021	2	8	A	
+28	Male	White	ACG2021	1	8	F	
+31	Female	White	ACG2021	3	8	F	
+22	Female	White	ACG2021	1	8	F	
+22	Female	White	ACG2021	1	8	A	
+23	Female	White	ACG2021	1	8	B	
+22	Female	White	ACG2021	1	8	A	
+39	Female	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	B	
+20	Male	Black/African American	ACG2021	3	8	A	
+24	Female	White	ACG2021	1	8	A	
+23	Male	White	ACG2021	3	8	C	
+34	Female	White	ACG2021	1	8	A	
+24	Male	White	ACG2021	1	8	B	
+21	Female	White	ACG2021	1	8	A	
+25	Male	White	ACG2021	1	8	C	
+21	Male	White	ACG2021	1	8	WF	
+34	Female	White	ACG2021	1	8	W	
+24	Female	White	ACG2021	3	8	C	
+22	Female	Asian	ACG2021	1	8	A	
+23	Male	White	ACG2021	1	8	A	
+47	Male	Black/African American	ACG2021	3	8	C	
+21	Female	Asian	ACG2021	1	8	B	
+53	Female	White	ACG2021	1	8	A	
+29	Male	White	ACG2021	3	8	B	
+23	Female	White	ACG2021	1	8	C	
+22	Female	White	ACG2021	1	8	D	
+21	Female	White	ACG2021	2	8	A	
+23	Male	Hispanic/Latino	ACG2021	2	8	A	
+24	Female	White	ACG2021	1	8	B	
+23	Female	Hispanic/Latino	ACG2021	1	8	C	
+26	Male	White	ACG2021	1	8	W	
+26	Male	White	ACG2021	3	8	A	
+21	Female	White	ACG2021	1	8	F	
+21	Female	White	ACG2021	3	8	B	
+27	Female	Black/African American	ACG2021	1	8	F	
+22	Female	White	ACG2021	1	8	A	
+53	Male	Black/African American	ACG2021	1	8	W	
+20	Female	White	ACG2021	3	8	A	
+21	Male	White	ACG2021	2	8	W	
+24	Male	White	ACG2021	1	8	A	
+23	Male	White	ACG2021	1	8	B	
+23	Male	White	ACG2021	1	8	B	
+22	Male	White	ACG2021	2	8	B	
+22	Male	White	ACG2021	1	8	B	
+22	Female	Asian	ACG2021	1	8	A	
+32	Unknown	Hispanic/Latino	ACG2021	3	8	F	
+32	Unknown	Hispanic/Latino	ACG2021	1	8	WF	
+21	Female	White	ACG2021	3	8	A	
+26	Female	White	ACG2021	1	8	A	
+23	Unknown	White	ACG2021	3	8	A	
+21	Male	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	2	8	B	
+21	Male	White	ACG2021	1	8	WF	
+21	Unknown	White	ACG2021	1	8	A	
+42	Male	White	ACG2021	1	8	B	
+23	Male	White	ACG2021	2	8	A	
+24	Female	White	ACG2021	3	8	B	
+28	Male	Asian	ACG2021	2	8	A	
+36	Female	White	ACG2021	3	8	WF	
+23	Female	White	ACG2021	2	8	C	
+22	Male	White	ACG2021	2	8	B	
+19	Female	White	ACG2021	1	8	A	
+53	Female	White	ACG2021	1	8	A	
+23	Female	White	ACG2021	2	8	A	
+37	Male	Multi-Ethnic	ACG2021	1	8	A	
+23	Female	White	ACG2021	3	8	C	
+23	Female	Black/African American	ACG2021	1	8	W	
+27	Female	Native Hawaiian/Oth Pac Island	ACG2021	1	8	D	
+30	Male	White	ACG2021	1	8	A	
+49	Male	Hispanic/Latino	ACG2021	1	8	B	
+25	Male	White	ACG2021	2	8	B	
+40	Female	Hispanic/Latino	ACG2021	1	8	F	
+40	Female	Hispanic/Latino	ACG2021	1	8	D	
+21	Female	White	ACG2021	1	8	B	
+19	Female	White	ACG2021	3	8	B	
+21	Male	Multi-Ethnic	ACG2021	1	8	F	
+21	Male	Hispanic/Latino	ACG2021	2	8	A	
+19	Female	White	ACG2021	1	8	C	
+22	Female	Hispanic/Latino	ACG2021	3	8	B	
+21	Female	Hispanic/Latino	ACG2021	2	8	B	
+36	Female	White	ACG2021	1	8	B	
+34	Male	Hispanic/Latino	ACG2021	2	8	C	
+20	Male	White	ACG2021	1	8	A	
+43	Female	Hispanic/Latino	ACG2021	1	8	B	
+45	Female	White	ACG2021	1	8	F	
+45	Female	White	ACG2021	1	8	F	
+26	Female	White	ACG2021	3	8	B	
+19	Female	Asian	ACG2021	3	8	B	
+20	Male	Hispanic/Latino	ACG2021	3	8	B	
+64	Male	Black/African American	ACG2021	3	8	F	
+23	Male	White	ACG2021	3	8	C	
+21	Male	White	ACG2021	3	8	A	
+20	Female	White	ACG2021	1	8	A	
+41	Female	White	ACG2021	1	8	A	
+23	Male	White	ACG2021	3	8	W	
+23	Male	White	ACG2021	1	8	B	
+23	Male	White	ACG2021	1	8	A	
+23	Female	Hispanic/Latino	ACG2021	3	8	A	
+56	Female	White	ACG2021	3	8	C	
+22	Male	White	ACG2021	1	8	B	
+21	Male	White	ACG2021	1	8	W	
+21	Male	White	ACG2021	2	8	WF	
+21	Male	White	ACG2021	3	8	F	
+22	Female	White	ACG2021	3	8	A	
+22	Male	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+34	Female	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	3	8	F	
+32	Male	Hispanic/Latino	ACG2021	1	8	WF	
+39	Male	White	ACG2021	1	8	F	
+24	Male	White	ACG2021	2	8	B	
+20	Female	White	ACG2021	2	8	B	
+31	Female	White	ACG2021	2	8	A	
+22	Female	Asian	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	C	
+22	Male	White	ACG2021	2	8	W	
+35	Female	Asian	ACG2021	3	8	B	
+22	Male	White	ACG2021	3	8	B	
+46	Male	American Indian/Alaska Native	ACG2021	1	8	WF	
+22	Female	White	ACG2021	2	8	W	
+46	Female	Hispanic/Latino	ACG2021	2	8	W	
+21	Male	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+23	Female	Black/African American	ACG2021	2	8	B	
+23	Male	Hispanic/Latino	ACG2021	1	8	B	
+22	Female	Hispanic/Latino	ACG2021	3	8	A	
+23	Female	White	ACG2021	2	8	C	
+22	Female	White	ACG2021	1	8	A	
+25	Female	White	ACG2021	2	8	A	
+22	Female	White	ACG2021	1	8	B	
+22	Male	White	ACG2021	1	8	WF	
+23	Female	White	ACG2021	1	8	A	
+28	Male	White	ACG2021	1	8	A	
+27	Male	White	ACG2021	3	8	A	
+23	Male	White	ACG2021	1	8	W	
+23	Male	White	ACG2021	1	8	B	
+22	Male	White	ACG2021	1	8	B	
+37	Female	White	ACG2021	1	8	F	
+26	Female	White	ACG2021	1	8	C	
+22	Female	Hispanic/Latino	ACG2021	2	8	A	
+49	Female	Black/African American	ACG2021	1	8	D	
+23	Male	White	ACG2021	1	8	C	
+24	Female	White	ACG2021	1	8	W	
+59	Female	White	ACG2021	1	8	C	
+22	Female	White	ACG2021	1	8	F	
+22	Female	White	ACG2021	3	8	C	
+45	Male	White	ACG2021	1	8	A	
+24	Male	White	ACG2021	1	8	B	
+26	Male	White	ACG2021	1	8	A	
+38	Female	White	ACG2021	1	8	F	
+38	Female	White	ACG2021	1	8	C	
+28	Male	Black/African American	ACG2021	1	8	B	
+35	Male	Hispanic/Latino	ACG2021	1	8	C	
+38	Female	Asian	ACG2021	1	8	B	
+32	Male	White	ACG2021	1	8	W	
+35	Male	White	ACG2021	1	8	C	
+24	Female	White	ACG2021	1	8	WF	
+27	Female	Asian	ACG2021	3	8	C	
+23	Female	White	ACG2021	1	8	W	
+41	Male	White	ACG2021	2	8	A	
+26	Male	White	ACG2021	2	8	B	
+24	Female	White	ACG2021	2	8	C	
+24	Male	White	ACG2021	1	8	WF	
+35	Male	Multi-Ethnic	ACG2021	3	8	C	
+30	Female	Black/African American	ACG2021	3	8	B	
+32	Male	White	ACG2021	2	8	C	
+25	Male	Black/African American	ACG2021	1	8	B	
+25	Female	White	ACG2021	1	8	C	
+37	Female	White	ACG2021	1	8	A	
+24	Female	White	ACG2021	1	8	F	
+36	Female	White	ACG2021	1	8	C	
+35	Male	White	ACG2021	1	8	W	
+23	Male	White	ACG2021	1	8	A	
+28	Male	White	ACG2021	1	8	B	
+35	Female	Black/African American	ACG2021	1	8	B	
+23	Male	Asian	ACG2021	2	8	B	
+27	Female	Hispanic/Latino	ACG2021	1	8	B	
+25	Female	White	ACG2021	1	8	F	
+23	Female	White	ACG2021	1	8	D	
+23	Female	White	ACG2021	1	8	F	
+23	Female	White	ACG2021	1	8	B	
+24	Female	White	ACG2021	1	8	A	
+36	Male	White	ACG2021	1	8	F	
+25	Male	Black/African American	ACG2021	1	8	D	
+25	Male	Black/African American	ACG2021	1	8	B	
+23	Female	White	ACG2021	1	8	C	
+22	Female	Black/African American	ACG2021	1	8	D	
+22	Male	White	ACG2021	1	8	A	
+47	Male	White	ACG2021	2	8	A	
+49	Female	White	ACG2021	3	8	F	
+49	Female	White	ACG2021	3	8	C	
+38	Female	Black/African American	ACG2021	1	8	W	
+23	Male	Asian	ACG2021	2	8	A	
+39	Male	White	ACG2021	1	8	A	
+29	Female	Multi-Ethnic	ACG2021	1	8	WF	
+29	Female	Multi-Ethnic	ACG2021	1	8	C	
+22	Male	White	ACG2021	1	8	A	
+24	Female	White	ACG2021	1	8	W	
+24	Male	White	ACG2021	1	8	W	
+35	Male	White	ACG2021	1	8	C	
+24	Male	White	ACG2021	3	8	B	
+24	Male	Hispanic/Latino	ACG2021	3	8	B	
+31	Female	White	ACG2021	3	8	C	
+26	Male	Black/African American	ACG2021	1	8	A	
+34	Male	Asian	ACG2021	1	8	A	
+23	Unknown	Hispanic/Latino	ACG2021	1	8	C	
+25	Female	White	ACG2021	1	8	D	
+39	Female	Black/African American	ACG2021	1	8	C	
+22	Female	White	ACG2021	1	8	B	
+25	Female	White	ACG2021	1	8	D	
+21	Male	Asian	ACG2021	3	8	C	
+34	Male	Black/African American	ACG2021	3	8	F	
+34	Male	Black/African American	ACG2021	2	8	F	
+25	Female	White	ACG2021	2	8	C	
+40	Female	Not Specified	ACG2021	1	8	D	
+33	Male	Multi-Ethnic	ACG2021	1	8	A	
+44	Female	White	ACG2021	1	8	A	
+33	Female	White	ACG2021	1	8	A	
+28	Female	Hispanic/Latino	ACG2021	3	8	B	
+23	Female	Asian	ACG2021	3	8	A	
+31	Female	White	ACG2021	1	8	A	
+23	Male	Not Specified	ACG2021	1	8	C	
+29	Female	Hispanic/Latino	ACG2021	1	8	F	
+21	Female	Hispanic/Latino	ACG2021	1	8	F	
+21	Female	Hispanic/Latino	ACG2021	2	8	F	
+25	Male	White	ACG2021	1	8	F	
+23	Male	Hispanic/Latino	ACG2021	3	8	F	
+25	Female	Asian	ACG2021	2	8	A	
+27	Female	Hispanic/Latino	ACG2021	1	8	A	
+22	Male	American Indian/Alaska Native	ACG2021	2	8	A	
+43	Female	White	ACG2021	3	8	A	
+52	Male	Black/African American	ACG2021	1	8	C	
+25	Female	White	ACG2021	1	8	A	
+40	Female	Hispanic/Latino	ACG2021	3	8	A	
+21	Male	Asian	ACG2021	1	8	C	
+41	Male	White	ACG2021	1	8	WF	
+26	Female	Hispanic/Latino	ACG2021	1	8	A	
+32	Male	Not Specified	ACG2021	2	8	B	
+42	Female	White	ACG2021	2	8	A	
+21	Female	White	ACG2021	2	8	A	
+20	Male	Multi-Ethnic	ACG2021	1	8	F	
+22	Male	White	ACG2021	2	8	A	
+22	Female	Asian	ACG2021	3	8	A	
+27	Female	Hispanic/Latino	ACG2021	2	8	F	
+21	Female	Asian	ACG2021	1	8	A	
+21	Female	White	ACG2021	3	8	C	
+21	Female	White	ACG2021	1	8	B	
+20	Male	White	ACG2021	3	8	A	
+34	Male	White	ACG2021	1	8	B	
+21	Female	Multi-Ethnic	ACG2021	1	8	A	
+21	Female	White	ACG2021	2	8	A	
+21	Female	White	ACG2021	3	8	A	
+21	Female	Black/African American	ACG2021	1	8	D	
+21	Male	White	ACG2021	1	8	W	
+21	Male	White	ACG2021	3	8	B	
+21	Female	White	ACG2021	2	8	A	
+24	Male	White	ACG2021	3	8	A	
+23	Male	White	ACG2021	1	8	F	
+23	Female	Asian	ACG2021	1	8	B	
+57	Male	Black/African American	ACG2021	3	8	B	
+23	Male	Asian	ACG2021	1	8	A	
+23	Male	Asian	ACG2021	1	8	C	
+23	Female	Asian	ACG2021	1	8	B	
+25	Male	Asian	ACG2021	2	8	B	
+31	Female	Hispanic/Latino	ACG2021	1	8	A	
+22	Female	Asian	ACG2021	2	8	A	
+21	Male	White	ACG2021	3	8	B	
+61	Female	White	ACG2021	1	8	F	
+23	Female	White	ACG2021	1	8	A	
+22	Female	Hispanic/Latino	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	W	
+50	Male	Black/African American	ACG2021	2	8	WF	
+21	Male	Multi-Ethnic	ACG2021	3	8	F	
+22	Female	White	ACG2021	2	8	A	
+27	Female	Not Specified	ACG2021	2	8	W	
+22	Female	Hispanic/Latino	ACG2021	1	8	C	
+22	Female	White	ACG2021	2	8	B	
+24	Male	White	ACG2021	1	8	C	
+25	Male	White	ACG2021	1	8	A	
+44	Male	White	ACG2021	1	8	WF	
+34	Female	White	ACG2021	1	8	B	
+25	Female	White	ACG2021	1	8	W	
+42	Female	White	ACG2021	2	8	A	
+33	Female	White	ACG2021	1	8	C	
+24	Female	White	ACG2021	1	8	C	
+33	Female	American Indian/Alaska Native	ACG2021	1	8	A	
+22	Male	White	ACG2021	3	8	A	
+24	Female	White	ACG2021	2	8	B	
+23	Female	White	ACG2021	2	8	B	
+23	Female	White	ACG2021	1	8	B	
+24	Male	White	ACG2021	2	8	WF	
+26	Male	White	ACG2021	1	8	B	
+35	Male	White	ACG2021	1	8	B	
+46	Male	White	ACG2021	2	8	A	
+22	Female	White	ACG2021	2	8	C	
+24	Female	White	ACG2021	2	8	B	
+23	Female	Multi-Ethnic	ACG2021	1	8	B	
+36	Male	Black/African American	ACG2021	1	8	W	
+59	Female	Asian	ACG2021	3	8	A	
+23	Female	White	ACG2021	1	8	B	
+32	Male	White	ACG2021	1	8	A	
+38	Female	Black/African American	ACG2021	1	8	F	
+38	Female	Black/African American	ACG2021	3	8	C	
+25	Male	Hispanic/Latino	ACG2021	1	8	F	
+27	Male	Not Specified	ACG2021	1	8	W	
+21	Male	White	ACG2021	3	8	A	
+23	Male	White	ACG2021	2	8	A	
+24	Male	White	ACG2021	1	8	B	
+25	Male	Multi-Ethnic	ACG2021	1	8	C	
+22	Male	White	ACG2021	1	8	A	
+21	Female	Asian	ACG2021	1	8	B	
+36	Female	White	ACG2021	1	8	W	
+23	Male	White	ACG2021	2	8	W	
+24	Female	White	ACG2021	1	8	A	
+24	Female	White	ACG2021	1	8	F	
+22	Male	White	ACG2021	3	8	C	
+53	Male	Black/African American	ACG2021	1	8	B	
+27	Female	White	ACG2021	2	8	A	
+24	Male	White	ACG2021	2	8	A	
+24	Female	White	ACG2021	3	8	A	
+32	Male	White	ACG2021	1	8	A	
+24	Male	White	ACG2021	2	8	W	
+26	Male	White	ACG2021	1	8	F	
+28	Female	White	ACG2021	1	8	A	
+23	Female	White	ACG2021	1	8	C	
+22	Female	Black/African American	ACG2021	1	8	B	
+24	Female	White	ACG2021	1	8	B	
+34	Male	White	ACG2021	2	8	C	
+31	Female	Multi-Ethnic	ACG2021	3	8	W	
+52	Female	White	ACG2021	1	8	A	
+28	Male	Not Specified	ACG2021	1	8	A	
+24	Male	White	ACG2021	3	8	B	
+23	Male	White	ACG2021	1	8	F	
+23	Male	White	ACG2021	1	8	W	
+23	Male	White	ACG2021	3	8	B	
+56	Male	White	ACG2021	3	8	A	
+23	Male	White	ACG2021	1	8	D	
+23	Male	White	ACG2021	2	8	F	
+23	Female	Hispanic/Latino	ACG2021	3	8	A	
+23	Male	Hispanic/Latino	ACG2021	1	8	W	
+38	Female	White	ACG2021	2	8	B	
+23	Male	Asian	ACG2021	1	8	A	
+32	Male	White	ACG2021	1	8	C	
+50	Male	Black/African American	ACG2021	3	8	C	
+24	Male	White	ACG2021	3	8	C	
+37	Female	Black/African American	ACG2021	1	8	C	
+24	Female	White	ACG2021	3	8	B	
+24	Male	White	ACG2021	1	8	C	
+24	Male	White	ACG2021	1	8	F	
+24	Male	White	ACG2021	1	8	F	
+27	Male	White	ACG2021	1	8	C	
+25	Female	White	ACG2021	2	8	B	
+24	Male	White	ACG2021	3	8	A	
+24	Female	White	ACG2021	2	8	C	
+55	Female	White	ACG2021	3	8	A	
+32	Female	White	ACG2021	3	8	WF	
+25	Male	White	ACG2021	3	8	A	
+25	Male	Black/African American	ACG2021	2	8	A	
+23	Female	Black/African American	ACG2021	1	8	F	
+23	Female	White	ACG2021	1	8	C	
+22	Female	Asian	ACG2021	1	8	C	
+39	Male	White	ACG2021	1	8	A	
+24	Female	White	ACG2021	1	8	B	
+40	Male	Black/African American	ACG2021	2	8	A	
+24	Female	White	ACG2021	2	8	A	
+25	Male	White	ACG2021	1	8	F	
+25	Male	White	ACG2021	1	8	B	
+32	Male	Black/African American	ACG2021	3	8	C	
+42	Male	White	ACG2021	2	8	A	
+24	Female	Black/African American	ACG2021	1	8	WF	
+23	Female	Multi-Ethnic	ACG2021	1	8	A	
+35	Female	Asian	ACG2021	1	8	B	
+59	Female	White	ACG2021	1	8	W	
+23	Female	White	ACG2021	1	8	B	
+22	Male	White	ACG2021	3	8	B	
+27	Male	Hispanic/Latino	ACG2021	2	8	B	
+26	Male	Black/African American	ACG2021	1	8	WF	
+33	Male	Hispanic/Latino	ACG2021	1	8	B	
+24	Male	White	ACG2021	1	8	B	
+22	Male	White	ACG2021	2	8	WF	
+24	Female	White	ACG2021	1	8	W	
+22	Male	White	ACG2021	3	8	WF	
+23	Female	Hispanic/Latino	ACG2021	1	8	B	
+22	Male	White	ACG2021	3	8	B	
+23	Female	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	F	
+23	Female	Multi-Ethnic	ACG2021	2	8	F	
+22	Male	White	ACG2021	3	8	F	
+23	Female	White	ACG2021	2	8	C	
+34	Male	White	ACG2021	1	8	B	
+23	Female	Black/African American	ACG2021	1	8	B	
+22	Female	White	ACG2021	1	8	F	
+22	Female	White	ACG2021	1	8	B	
+23	Female	White	ACG2021	3	8	B	
+22	Male	Black/African American	ACG2021	2	8	B	
+51	Female	White	ACG2021	1	8	C	
+22	Female	White	ACG2021	3	8	A	
+21	Female	White	ACG2021	2	8	B	
+22	Male	White	ACG2021	2	8	C	
+22	Female	Hispanic/Latino	ACG2021	1	8	F	
+22	Female	Hispanic/Latino	ACG2021	1	8	C	
+23	Male	White	ACG2021	1	8	A	
+23	Male	Black/African American	ACG2021	3	8	A	
+22	Female	White	ACG2021	1	8	C	
+22	Male	White	ACG2021	1	8	B	
+21	Female	White	ACG2021	3	8	F	
+22	Female	Hispanic/Latino	ACG2021	1	8	B	
+21	Male	Black/African American	ACG2021	1	8	W	
+21	Male	White	ACG2021	3	8	C	
+23	Male	Hispanic/Latino	ACG2021	3	8	F	
+23	Male	Hispanic/Latino	ACG2021	2	8	A	
+22	Male	Hispanic/Latino	ACG2021	2	8	C	
+22	Female	White	ACG2021	2	8	B	
+22	Female	White	ACG2021	1	8	A	
+23	Female	Hispanic/Latino	ACG2021	1	8	B	
+22	Female	White	ACG2021	1	8	A	
+23	Unknown	White	ACG2021	1	8	B	
+23	Male	White	ACG2021	2	8	B	
+22	Female	Black/African American	ACG2021	2	8	C	
+22	Female	White	ACG2021	2	8	B	
+22	Female	White	ACG2021	2	8	A	
+22	Male	White	ACG2021	1	8	B	
+34	Female	Multi-Ethnic	ACG2021	3	8	A	
+23	Female	White	ACG2021	1	8	B	
+24	Male	White	ACG2021	1	8	C	
+31	Male	Black/African American	ACG2021	1	8	W	
+23	Male	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	W	
+21	Female	White	ACG2021	2	8	F	
+22	Female	Multi-Ethnic	ACG2021	1	8	A	
+24	Male	White	ACG2021	2	8	F	
+22	Female	Black/African American	ACG2021	2	8	C	
+31	Female	Black/African American	ACG2021	1	8	D	
+21	Male	White	ACG2021	1	8	B	
+30	Unknown	White	ACG2021	3	8	C	
+24	Male	White	ACG2021	2	8	C	
+24	Female	White	ACG2021	1	8	A	
+43	Female	White	ACG2021	3	8	A	
+23	Male	White	ACG2021	3	8	B	
+23	Male	Asian	ACG2021	2	8	B	
+24	Male	Hispanic/Latino	ACG2021	1	8	A	
+24	Male	Hispanic/Latino	ACG2021	2	8	D	
+23	Male	White	ACG2021	3	8	B	
+28	Female	Hispanic/Latino	ACG2021	3	8	B	
+25	Male	Not Specified	ACG2021	1	8	F	
+44	Unknown	White	ACG2021	1	8	WF	
+23	Female	White	ACG2021	3	8	C	
+31	Male	Black/African American	ACG2021	1	8	C	
+24	Male	White	ACG2021	2	8	B	
+24	Female	White	ACG2021	1	8	C	
+24	Male	White	ACG2021	2	8	C	
+24	Male	White	ACG2021	1	8	A	
+23	Male	Hispanic/Latino	ACG2021	1	8	W	
+23	Male	Hispanic/Latino	ACG2021	1	8	F	
+45	Female	White	ACG2021	1	8	B	
+53	Male	Not Specified	ACG2021	1	8	A	
+25	Female	Hispanic/Latino	ACG2021	2	8	F	
+25	Female	Hispanic/Latino	ACG2021	1	8	F	
+66	Male	Not Specified	ACG2021	1	8	C	
+24	Female	White	ACG2021	2	8	A	
+29	Female	Asian	ACG2021	2	8	B	
+41	Female	Asian	ACG2021	1	8	A	
+25	Female	White	ACG2021	1	8	A	
+22	Unknown	Black/African American	ACG2021	1	8	W	
+23	Female	White	ACG2021	1	8	A	
+27	Female	White	ACG2021	3	8	C	
+25	Female	White	ACG2021	1	8	B	
+25	Male	White	ACG2021	1	8	W	
+25	Male	Hispanic/Latino	ACG2021	3	8	C	
+30	Female	Not Specified	ACG2021	2	8	WF	
+24	Male	Hispanic/Latino	ACG2021	2	8	F	
+22	Male	White	ACG2021	1	8	B	
+23	Female	White	ACG2021	1	8	B	
+25	Unknown	Black/African American	ACG2021	2	8	D	
+24	Male	White	ACG2021	2	8	A	
+22	Unknown	White	ACG2021	1	8	A	
+24	Female	White	ACG2021	1	8	W	
+29	Female	White	ACG2021	1	8	B	
+30	Female	Asian	ACG2021	1	8	A	
+23	Male	Not Specified	ACG2021	3	8	C	
+57	Female	White	ACG2021	1	8	C	
+23	Unknown	White	ACG2021	1	8	A	
+33	Female	White	ACG2021	2	8	C	
+25	Female	White	ACG2021	1	8	B	
+25	Female	Black/African American	ACG2021	1	8	B	
+22	Female	White	ACG2021	2	8	A	
+23	Male	Asian	ACG2021	2	8	B	
+25	Male	White	ACG2021	2	8	A	
+25	Male	White	ACG2021	1	8	W	
+25	Female	White	ACG2021	3	8	B	
+40	Female	Multi-Ethnic	ACG2021	1	8	C	
+37	Male	Black/African American	ACG2021	1	8	W	
+31	Female	White	ACG2021	1	8	A	
+23	Female	White	ACG2021	2	8	W	
+27	Male	White	ACG2021	3	8	C	
+23	Female	Not Specified	ACG2021	2	8	C	
+24	Female	White	ACG2021	2	8	B	
+25	Female	White	ACG2021	2	8	C	
+25	Male	White	ACG2021	1	8	WF	
+37	Female	White	ACG2021	1	8	F	
+24	Male	White	ACG2021	2	8	B	
+24	Male	White	ACG2021	3	8	D	
+24	Male	White	ACG2021	2	8	D	
+21	Female	Hispanic/Latino	ACG2021	2	8	A	
+25	Male	Black/African American	ACG2021	1	8	F	
+25	Female	Asian	ACG2021	2	8	W	
+24	Female	White	ACG2021	3	8	A	
+24	Female	White	ACG2021	1	8	B	
+56	Female	White	ACG2021	2	8	A	
+25	Female	Asian	ACG2021	1	8	C	
+26	Unknown	White	ACG2021	1	8	B	
+25	Male	American Indian/Alaska Native	ACG2021	1	8	A	
+25	Female	Hispanic/Latino	ACG2021	2	8	B	
+23	Female	White	ACG2021	3	8	A	
+25	Male	White	ACG2021	2	8	C	
+25	Unknown	White	ACG2021	1	8	B	
+26	Unknown	White	ACG2021	3	8	C	
+24	Female	Hispanic/Latino	ACG2021	1	8	B	
+33	Female	White	ACG2021	1	8	A	
+26	Male	White	ACG2021	1	8	A	
+25	Male	White	ACG2021	3	8	C	
+22	Male	White	ACG2021	1	8	C	
+22	Male	White	ACG2021	1	8	WF	
+24	Female	Hispanic/Latino	ACG2021	2	8	A	
+26	Male	White	ACG2021	3	8	WF	
+27	Male	White	ACG2021	2	8	A	
+29	Female	White	ACG2021	1	8	A	
+29	Female	White	ACG2021	1	8	W	
+31	Male	White	ACG2021	1	8	A	
+23	Female	Asian	ACG2021	1	8	A	
+28	Male	White	ACG2021	1	8	C	
+24	Female	White	ACG2021	2	8	C	
+25	Male	White	ACG2021	1	8	F	
+30	Male	White	ACG2021	2	8	WF	
+23	Female	White	ACG2021	2	8	B	
+62	Female	White	ACG2021	1	8	B	
+24	Female	White	ACG2021	1	8	B	
+25	Male	White	ACG2021	1	8	C	
+41	Male	Black/African American	ACG2021	3	8	F	
+50	Male	Black/African American	ACG2021	3	8	F	
+25	Female	White	ACG2021	1	8	B	
+28	Male	Multi-Ethnic	ACG2021	1	8	A	
+24	Male	White	ACG2021	1	8	B	
+25	Male	White	ACG2021	3	8	A	
+31	Male	White	ACG2021	2	8	B	
+44	Male	Black/African American	ACG2021	1	8	C	
+24	Female	White	ACG2021	1	8	B	
+24	Female	White	ACG2021	1	8	B	
+47	Unknown	White	ACG2021	1	8	A	
+31	Female	Hispanic/Latino	ACG2021	1	8	C	
+34	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+21	Unknown	Not Specified	ACG2021	1	8	A	
+37	Female	Multi-Ethnic	ACG2021	1	8	A	
+27	Female	White	ACG2021	2	8	C	
+27	Unknown	White	ACG2021	1	8	B	
+21	Female	White	ACG2021	3	8	A	
+22	Unknown	Black/African American	ACG2021	1	8	A	
+22	Male	Hispanic/Latino	ACG2021	1	8	A	
+27	Female	White	ACG2021	1	8	A	
+26	Male	Hispanic/Latino	ACG2021	1	8	F	
+32	Male	Black/African American	ACG2021	1	8	B	
+21	Male	White	ACG2021	1	8	A	
+25	Male	Black/African American	ACG2021	1	8	D	
+19	Male	Asian	ACG2021	1	8	A	
+23	Male	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+21	Female	Hispanic/Latino	ACG2021	1	8	B	
+21	Female	White	ACG2021	1	8	A	
+24	Male	Black/African American	ACG2021	3	8	F	
+48	Male	Black/African American	ACG2021	1	8	B	
+20	Male	White	ACG2021	1	8	B	
+21	Female	White	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+23	Male	White	ACG2021	1	8	B	
+22	Female	White	ACG2021	1	8	A	
+23	Female	White	ACG2021	1	8	A	
+21	Male	Asian	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+23	Male	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	B	
+22	Unknown	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+23	Male	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+21	Male	Hispanic/Latino	ACG2021	1	8	A	
+23	Male	Asian	ACG2021	1	8	A	
+21	Female	Multi-Ethnic	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	WF	
+24	Male	White	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	8	A	
+22	Unknown	Black/African American	ACG2021	1	8	B	
+21	Unknown	White	ACG2021	1	8	A	
+22	Unknown	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	B	
+21	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+21	Male	Not Specified	ACG2021	1	8	A	
+22	Female	Hispanic/Latino	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+23	Male	White	ACG2021	1	8	A	
+21	Female	Black/African American	ACG2021	3	8	B	
+22	Male	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	B	
+22	Male	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+22	Female	Multi-Ethnic	ACG2021	1	8	A	
+21	Male	Hispanic/Latino	ACG2021	1	8	B	
+20	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+20	Male	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+20	Male	White	ACG2021	1	8	A	
+23	Female	White	ACG2021	1	8	A	
+44	Male	Black/African American	ACG2021	3	8	C	
+21	Female	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+22	Female	Asian	ACG2021	1	8	A	
+23	Male	Hispanic/Latino	ACG2021	1	8	B	
+22	Female	White	ACG2021	2	8	B	
+21	Male	White	ACG2021	1	8	A	
+21	Female	Asian	ACG2021	1	8	B	
+20	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+22	Female	Hispanic/Latino	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+22	Unknown	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+21	Female	Asian	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	B	
+23	Female	Hispanic/Latino	ACG2021	1	8	W	
+22	Male	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+21	Unknown		ACG2021	2	8	A	
+20	Female	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	WF	
+22	Male	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+22	Unknown	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	B	
+20	Female	White	ACG2021	1	8	A	
+21	Male	Asian	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+21	Male	Asian	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+23	Female	White	ACG2021	1	8	B	
+22	Male	White	ACG2021	1	8	A	
+20	Male	White	ACG2021	1	8	A	
+23	Male	Asian	ACG2021	1	8	A	
+20	Male	Black/African American	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	B	
+21	Female	White	ACG2021	1	8	A	
+20	Male	Asian	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	B	
+22	Male	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+21	Male	Hispanic/Latino	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+23	Male	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+22	Female	Black/African American	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+21	Female	Hispanic/Latino	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+21	Male	Hispanic/Latino	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	8	A	
+20	Unknown	White	ACG2021	1	8	B	
+22	Male	White	ACG2021	1	8	C	
+20	Female	Multi-Ethnic	ACG2021	3	8	A	
+21	Female	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+23	Unknown	Not Specified	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+23	Male	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+21	Male	Hispanic/Latino	ACG2021	1	8	W	
+21	Male	White	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	8	A	
+21	Unknown	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+22	Male	Black/African American	ACG2021	1	8	A	
+21	Female	Black/African American	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+21	Unknown	White	ACG2021	1	8	W	
+23	Male	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	B	
+21	Male	White	ACG2021	1	8	A	
+20	Male	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+23	Female	White	ACG2021	1	8	B	
+20	Unknown	White	ACG2021	1	8	A	
+24	Female	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+22	Male	Hispanic/Latino	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+22	Male	Black/African American	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+23	Female	White	ACG2021	1	8	B	
+21	Female	White	ACG2021	1	8	C	
+25	Male	White	ACG2021	1	8	W	
+22	Female	White	ACG2021	1	8	A	
+21	Male	Asian	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+21	Male	Not Specified	ACG2021	1	8	A	
+20	Unknown	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	2	8	A	
+21	Female	White	ACG2021	1	8	B	
+22	Female	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+22	Male	Asian	ACG2021	1	8	A	
+48	Male	White	ACG2021	1	8	W	
+20	Female	White	ACG2021	1	8	A	
+20	Male	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+21	Male	Hispanic/Latino	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+21	Unknown	White	ACG2021	2	8	A	
+21	Female	White	ACG2021	1	8	A	
+21	Unknown	White	ACG2021	1	8	B	
+45	Female	White	ACG2021	1	8	B	
+21	Female	White	ACG2021	1	8	A	
+23	Male	White	ACG2021	1	8	B	
+22	Unknown	Asian	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	B	
+21	Female	White	ACG2021	1	8	A	
+24	Female	White	ACG2021	1	8	B	
+21	Female	Asian	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+22	Female	Black/African American	ACG2021	2	8	W	
+21	Unknown	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	2	8	A	
+21	Male	White	ACG2021	2	8	A	
+21	Unknown		ACG2021	1	8	A	
+21	Unknown	White	ACG2021	1	8	A	
+22	Male	Asian	ACG2021	1	8	A	
+20	Male	White	ACG2021	3	8	A	
+37	Male	Black/African American	ACG2021	1	8	WF	
+29	Male	White	ACG2021	1	8	B	
+31	Female	White	ACG2021	1	8	B	
+30	Male	White	ACG2021	1	8	A	
+28	Male	White	ACG2021	1	8	C	
+26	Female	Hispanic/Latino	ACG2021	1	8	A	
+29	Male	Hispanic/Latino	ACG2021	1	8	B	
+27	Male	White	ACG2021	3	8	B	
+27	Male	Asian	ACG2021	3	8	F	
+28	Female	White	ACG2021	1	8	C	
+28	Female	White	ACG2021	1	8	B	
+29	Male	White	ACG2021	3	8	F	
+28	Male	Asian	ACG2021	1	8	D	
+26	Unknown	White	ACG2021	1	8	D	
+26	Female	White	ACG2021	1	8	B	
+27	Unknown	White	ACG2021	2	8	B	
+26	Male	White	ACG2021	1	8	C	
+27	Female	Hispanic/Latino	ACG2021	1	8	B	
+26	Male	White	ACG2021	3	8	W	
+40	Female	White	ACG2021	3	8	A	
+24	Female	White	ACG2021	2	8	B	
+28	Male	Asian	ACG2021	2	8	A	
+48	Female	Hispanic/Latino	ACG2021	1	8	C	
+27	Female	White	ACG2021	2	8	F	
+35	Female	White	ACG2021	1	8	B	
+26	Female	White	ACG2021	1	8	A	
+54	Female	White	ACG2021	1	8	A	
+27	Male	Asian	ACG2021	1	8	D	
+25	Female	White	ACG2021	1	8	W	
+24	Female	White	ACG2021	3	8	B	
+37	Female	Hispanic/Latino	ACG2021	1	8	B	
+37	Female	White	ACG2021	1	8	W	
+22	Female	White	ACG2021	1	8	A	
+24	Unknown	Black/African American	ACG2021	3	8	B	
+24	Female	Black/African American	ACG2021	1	8	B	
+26	Male	White	ACG2021	3	8	C	
+24	Male	White	ACG2021	1	8	A	
+31	Female	White	ACG2021	1	8	C	
+29	Female	White	ACG2021	1	8	B	
+26	Male	White	ACG2021	2	8	C	
+54	Unknown	White	ACG2021	1	8	W	
+21	Male	White	ACG2021	2	8	A	
+28	Male	White	ACG2021	2	8	W	
+51	Male	White	ACG2021	1	8	A	
+26	Male	White	ACG2021	1	8	B	
+28	Female	White	ACG2021	1	8	A	
+28	Female	White	ACG2021	2	8	A	
+26	Female	White	ACG2021	1	8	W	
+27	Male	Hispanic/Latino	ACG2021	3	8	A	
+25	Female	White	ACG2021	1	8	W	
+26	Female	White	ACG2021	1	8	F	
+42	Female	White	ACG2021	1	8	B	
+25	Female	White	ACG2021	1	8	B	
+26	Male	White	ACG2021	1	8	A	
+26	Male	Hispanic/Latino	ACG2021	1	8	B	
+19	Male	White	ACG2021	1	8	B	
+26	Female	White	ACG2021	1	8	A	
+27	Female	White	ACG2021	1	8	B	
+27	Female	White	ACG2021	3	8	F	
+23	Male	White	ACG2021	3	8	C	
+26	Male	Hispanic/Latino	ACG2021	1	8	A	
+56	Female	Black/African American	ACG2021	1	8	C	
+34	Male	White	ACG2021	1	8	B	
+60	Female	White	ACG2021	3	8	A	
+54	Female	Black/African American	ACG2021	1	8	D	
+59	Female	White	ACG2021	1	8	A	
+61	Female	White	ACG2021	1	8	C	
+64	Female	White	ACG2021	1	8	B	
+56	Female	White	ACG2021	3	8	A	
+60	Female	Black/African American	ACG2021	1	8	C	
+55	Female	White	ACG2021	1	8	A	
+58	Male	White	ACG2021	1	8	W	
+50	Female	White	ACG2021	1	8	A	
+53	Female	White	ACG2021	1	8	WF	
+53	Female	Black/African American	ACG2021	3	8	A	
+52	Male	White	ACG2021	3	8	A	
+55	Male	White	ACG2021	1	8	A	
+52	Male	White	ACG2021	1	8	A	
+51	Female	Black/African American	ACG2021	1	8	W	
+60	Female	White	ACG2021	1	8	A	
+49	Female	White	ACG2021	2	8	A	
+49	Male	White	ACG2021	1	8	B	
+47	Female	White	ACG2021	1	8	B	
+48	Male	White	ACG2021	1	8	C	
+52	Female	White	ACG2021	2	8	C	
+50	Female	White	ACG2021	2	8	A	
+46	Male	White	ACG2021	1	8	A	
+47	Female	Black/African American	ACG2021	2	8	B	
+47	Female	White	ACG2021	1	8	A	
+47	Female	White	ACG2021	3	8	A	
+45	Female	White	ACG2021	3	8	W	
+55	Female	White	ACG2021	1	8	C	
+46	Female	White	ACG2021	1	8	W	
+52	Male	White	ACG2021	1	8	A	
+47	Female	Hispanic/Latino	ACG2021	1	8	B	
+46	Male	White	ACG2021	2	8	W	
+50	Male	White	ACG2021	1	8	B	
+47	Male	White	ACG2021	1	8	A	
+44	Female	White	ACG2021	1	8	A	
+54	Female	White	ACG2021	3	8	A	
+54	Female	Hispanic/Latino	ACG2021	1	8	W	
+46	Female	Black/African American	ACG2021	3	8	B	
+49	Female	White	ACG2021	3	8	A	
+44	Male	White	ACG2021	1	8	B	
+44	Female	Black/African American	ACG2021	1	8	A	
+43	Female	White	ACG2021	1	8	WF	
+44	Male	White	ACG2021	3	8	A	
+45	Male	Hispanic/Latino	ACG2021	3	8	C	
+44	Female	Black/African American	ACG2021	1	8	F	
+49	Male	Hispanic/Latino	ACG2021	1	8	B	
+47	Male	White	ACG2021	1	8	A	
+46	Female	White	ACG2021	1	8	F	
+48	Male	White	ACG2021	3	8	A	
+47	Female	White	ACG2021	1	8	A	
+50	Female	Black/African American	ACG2021	1	8	B	
+41	Female	White	ACG2021	1	8	WF	
+44	Female	Hispanic/Latino	ACG2021	3	8	D	
+61	Male	White	ACG2021	1	8	A	
+53	Female	White	ACG2021	1	8	A	
+41	Female	White	ACG2021	1	8	A	
+42	Male	Not Specified	ACG2021	1	8	B	
+63	Male	White	ACG2021	2	8	A	
+48	Female	White	ACG2021	2	8	WF	
+40	Female	White	ACG2021	2	8	A	
+43	Female	White	ACG2021	1	8	A	
+44	Male	White	ACG2021	1	8	A	
+43	Female	White	ACG2021	1	8	F	
+39	Male	White	ACG2021	1	8	C	
+40	Female	White	ACG2021	1	8	A	
+41	Female	White	ACG2021	1	8	D	
+41	Female	White	ACG2021	1	8	D	
+58	Female	White	ACG2021	1	8	A	
+42	Male	White	ACG2021	1	8	F	
+45	Female	White	ACG2021	3	8	B	
+51	Male	Black/African American	ACG2021	1	8	C	
+41	Female	White	ACG2021	1	8	A	
+48	Male	White	ACG2021	3	8	A	
+38	Female	Hispanic/Latino	ACG2021	1	8	A	
+40	Male	White	ACG2021	1	8	B	
+45	Male	White	ACG2021	3	8	A	
+47	Male	White	ACG2021	1	8	A	
+61	Female	White	ACG2021	3	8	W	
+61	Female	White	ACG2021	2	8	A	
+40	Male	White	ACG2021	1	8	B	
+37	Male	White	ACG2021	1	8	A	
+41	Female	White	ACG2021	1	8	WF	
+41	Male	White	ACG2021	1	8	F	
+41	Male	White	ACG2021	2	8	C	
+40	Female	White	ACG2021	1	8	C	
+39	Female	Black/African American	ACG2021	2	8	F	
+39	Female	Black/African American	ACG2021	2	8	B	
+47	Female	Black/African American	ACG2021	3	8	F	
+43	Male	Black/African American	ACG2021	2	8	B	
+40	Female	White	ACG2021	1	8	A	
+48	Female	White	ACG2021	3	8	C	
+47	Male	Black/African American	ACG2021	2	8	C	
+40	Female	White	ACG2021	1	8	F	
+40	Female	White	ACG2021	1	8	C	
+47	Female	White	ACG2021	3	8	C	
+38	Male	White	ACG2021	1	8	A	
+39	Female	Not Specified	ACG2021	1	8	B	
+57	Female	White	ACG2021	2	8	A	
+45	Male	White	ACG2021	3	8	C	
+35	Male	White	ACG2021	1	8	WF	
+36	Male	White	ACG2021	1	8	C	
+37	Female	Hispanic/Latino	ACG2021	1	8	B	
+35	Female	Black/African American	ACG2021	1	8	D	
+38	Female	White	ACG2021	1	8	B	
+51	Female	Hispanic/Latino	ACG2021	1	8	A	
+36	Male	White	ACG2021	1	8	B	
+39	Male	Hispanic/Latino	ACG2021	1	8	A	
+33	Male	White	ACG2021	1	8	A	
+48	Female	White	ACG2021	1	8	A	
+40	Female	Black/African American	ACG2021	3	8	B	
+34	Female	White	ACG2021	1	8	B	
+42	Female	White	ACG2021	3	8	C	
+57	Female	White	ACG2021	3	8	A	
+36	Male	White	ACG2021	1	8	A	
+33	Male	White	ACG2021	1	8	A	
+46	Male	White	ACG2021	1	8	B	
+37	Female	Black/African American	ACG2021	3	8	B	
+33	Female	White	ACG2021	1	8	A	
+32	Female	White	ACG2021	1	8	A	
+32	Female	White	ACG2021	1	8	B	
+33	Female	White	ACG2021	1	8	B	
+31	Female	Black/African American	ACG2021	1	8	C	
+33	Female	White	ACG2021	1	8	C	
+33	Female	White	ACG2021	1	8	B	
+36	Male	Black/African American	ACG2021	1	8	F	
+30	Female	White	ACG2021	2	8	B	
+32	Male	White	ACG2021	3	8	W	
+29	Female	White	ACG2021	1	8	A	
+29	Female	Hispanic/Latino	ACG2021	3	8	C	
+32	Female	White	ACG2021	1	8	A	
+23	Female	White	ACG2021	1	8	C	
+50	Male	Black/African American	ACG2021	1	8	B	
+41	Female	White	ACG2021	2	8	C	
+32	Male	White	ACG2021	1	8	F	
+65	Male	White	ACG2021	1	8	W	
+32	Male	White	ACG2021	2	8	F	
+45	Female	White	ACG2021	1	8	D	
+30	Female	White	ACG2021	3	8	A	
+28	Female	White	ACG2021	1	8	B	
+46	Male	Asian	ACG2021	1	8	A	
+52	Female	White	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	8	A	
+19	Male	White	ACG2021	2	8	A	
+20	Female	Not Specified	ACG2021	1	8	A	
+39	Female	White	ACG2021	1	8	A	
+35	Female	White	ACG2021	1	8	A	
+42	Female	White	ACG2021	1	8	A	
+31	Female	Hispanic/Latino	ACG2021	1	8	A	
+32	Male	White	ACG2021	3	8	A	
+42	Male	Black/African American	ACG2021	1	8	B	
+23	Female	Multi-Ethnic	ACG2021	1	8	A	
+30	Female	Asian	ACG2021	1	8	B	
+37	Female	Hispanic/Latino	ACG2021	2	8	A	
+36	Female	White	ACG2021	1	8	A	
+30	Male	White	ACG2021	2	8	C	
+31	Unknown	Hispanic/Latino	ACG2021	1	8	D	
+29	Female	White	ACG2021	2	8	A	
+29	Male	Hispanic/Latino	ACG2021	1	8	C	
+45	Male	White	ACG2021	2	8	C	
+39	Female	Asian	ACG2021	1	8	C	
+32	Female	Hispanic/Latino	ACG2021	1	8	A	
+32	Male	White	ACG2021	1	8	D	
+39	Female	White	ACG2021	3	8	A	
+32	Unknown	White	ACG2021	1	8	D	
+32	Male	Not Specified	ACG2021	2	8	A	
+32	Male	White	ACG2021	2	8	B	
+40	Female	White	ACG2021	1	8	D	
+33	Male	White	ACG2021	1	8	A	
+38	Male	Black/African American	ACG2021	3	8	C	
+30	Male	Hispanic/Latino	ACG2021	3	8	W	
+29	Female	White	ACG2021	3	8	A	
+31	Female	White	ACG2021	1	8	A	
+29	Male	White	ACG2021	1	8	C	
+33	Male	White	ACG2021	3	8	B	
+42	Female	White	ACG2021	1	8	B	
+46	Female	White	ACG2021	1	8	A	
+28	Unknown	Black/African American	ACG2021	3	8	B	
+41	Male	White	ACG2021	1	8	A	
+28	Male	White	ACG2021	2	8	W	
+31	Male	White	ACG2021	1	8	B	
+30	Female	White	ACG2021	1	8	F	
+33	Male	White	ACG2021	3	8	B	
+28	Male	White	ACG2021	1	8	B	
+29	Female	White	ACG2021	1	8	A	
+30	Female	White	ACG2021	1	8	C	
+49	Female	Asian	ACG2021	1	8	B	
+36	Male	White	ACG2021	1	8	W	
+46	Female	White	ACG2021	1	8	A	
+32	Male	White	ACG2021	1	8	A	
+29	Male	White	ACG2021	1	8	C	
+31	Female	Black/African American	ACG2021	3	8	C	
+30	Female	Asian	ACG2021	2	8	B	
+20	Female	White	ACG2021	2	8	D	
+38	Male	White	ACG2021	1	8	A	
+42	Female	White	ACG2021	3	8	A	
+41	Female	Hispanic/Latino	ACG2021	1	8	F	
+35	Female	Hispanic/Latino	ACG2021	2	8	WF	
+36	Female	White	ACG2021	1	8	W	
+36	Female	White	ACG2021	1	8	B	
+37	Male	White	ACG2021	1	8	WF	
+36	Female	White	ACG2021	3	8	B	
+33	Female	White	ACG2021	1	8	A	
+36	Male	White	ACG2021	1	8	A	
+33	Female	White	ACG2021	1	8	A	
+33	Female	Black/African American	ACG2021	1	8	WF	
+35	Female	Black/African American	ACG2021	2	8	D	
+32	Female	White	ACG2021	1	8	B	
+59	Female	White	ACG2021	1	8	A	
+35	Female	Black/African American	ACG2021	1	8	B	
+32	Male	White	ACG2021	1	8	W	
+48	Female	White	ACG2021	2	8	A	
+36	Female	White	ACG2021	1	8	A	
+38	Male	White	ACG2021	2	8	A	
+43	Female	White	ACG2021	1	8	W	
+34	Female	White	ACG2021	1	8	A	
+41	Female	White	ACG2021	1	8	W	
+41	Female	White	ACG2021	1	8	B	
+32	Female	Hispanic/Latino	ACG2021	3	8	C	
+33	Female	White	ACG2021	1	8	B	
+43	Female	Hispanic/Latino	ACG2021	2	8	W	
+31	Female	Hispanic/Latino	ACG2021	2	8	A	
+56	Female	Hispanic/Latino	ACG2021	2	8	B	
+25	Female	Hispanic/Latino	ACG2021	2	8	A	
+23	Male	Multi-Ethnic	ACG2021	1	8	B	
+24	Male	White	ACG2021	2	8	B	
+25	Male	White	ACG2021	1	8	W	
+26	Male	White	ACG2021	1	8	F	
+36	Female	Black/African American	ACG2021	1	8	F	
+24	Female	Hispanic/Latino	ACG2021	2	8	W	
+26	Male	White	ACG2021	1	8	WF	
+35	Female	White	ACG2021	1	8	B	
+26	Female	White	ACG2021	2	8	F	
+24	Female	White	ACG2021	2	8	B	
+33	Male	White	ACG2021	1	8	B	
+35	Female	White	ACG2021	1	8	B	
+46	Male	White	ACG2021	3	8	B	
+30	Male	Hispanic/Latino	ACG2021	2	8	A	
+33	Female	White	ACG2021	1	8	B	
+30	Male	White	ACG2021	1	8	C	
+32	Male	White	ACG2021	2	8	B	
+42	Female	White	ACG2021	1	8	A	
+49	Female	Black/African American	ACG2021	1	8	WF	
+34	Male	White	ACG2021	3	8	A	
+55	Female	White	ACG2021	3	8	C	
+46	Female	White	ACG2021	3	8	C	
+32	Female	Black/African American	ACG2021	2	8	D	
+38	Female	American Indian/Alaska Native	ACG2021	1	8	B	
+21	Female	White	ACG2021	1	8	A	
+23	Male	White	ACG2021	1	8	B	
+24	Female	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	2	8	A	
+24	Female	White	ACG2021	3	8	B	
+59	Female	White	ACG2021	1	8	W	
+34	Male	White	ACG2021	3	8	C	
+30	Female	White	ACG2021	3	8	F	
+23	Male	White	ACG2021	2	8	B	
+30	Female	White	ACG2021	3	8	B	
+32	Female	White	ACG2021	1	8	A	
+25	Male	White	ACG2021	2	8	A	
+30	Male	White	ACG2021	1	8	B	
+55	Male	Asian	ACG2021	3	8	A	
+53	Female	White	ACG2021	1	8	WF	
+27	Female	White	ACG2021	1	8	B	
+24	Male	White	ACG2021	3	8	A	
+26	Unknown	White	ACG2021	1	8	W	
+23	Female	White	ACG2021	1	8	C	
+31	Unknown	Black/African American	ACG2021	1	8	WF	
+44	Male	White	ACG2021	1	8	B	
+29	Female	White	ACG2021	1	8	B	
+23	Unknown	White	ACG2021	1	8	F	
+24	Female	White	ACG2021	1	8	B	
+36	Female	Black/African American	ACG2021	1	8	WF	
+50	Female	White	ACG2021	1	8	D	
+30	Female	White	ACG2021	1	8	B	
+33	Female	White	ACG2021	1	8	WF	
+25	Male	White	ACG2021	3	8	A	
+25	Male	White	ACG2021	2	8	B	
+28	Female	White	ACG2021	2	8	C	
+24	Male	White	ACG2021	2	8	B	
+33	Male	Hispanic/Latino	ACG2021	1	8	C	
+30	Male	White	ACG2021	1	8	A	
+40	Male	White	ACG2021	1	8	A	
+52	Female	White	ACG2021	1	8	A	
+25	Female	Black/African American	ACG2021	3	8	A	
+44	Unknown	White	ACG2021	1	8	F	
+29	Female	White	ACG2021	1	8	WF	
+25	Male	Asian	ACG2021	3	8	B	
+25	Unknown	Not Specified	ACG2021	2	8	A	
+25	Male	White	ACG2021	3	8	A	
+25	Female	White	ACG2021	1	8	A	
+49	Female	White	ACG2021	3	8	F	
+49	Female	White	ACG2021	2	8	F	
+31	Male	White	ACG2021	1	8	A	
+26	Unknown	Multi-Ethnic	ACG2021	1	8	F	
+27	Female	Black/African American	ACG2021	1	8	B	
+24	Male	Asian	ACG2021	2	8	B	
+24	Female	Not Specified	ACG2021	1	8	A	
+24	Male	Hispanic/Latino	ACG2021	2	8	A	
+24	Male	White	ACG2021	2	8	A	
+24	Male	Multi-Ethnic	ACG2021	2	8	C	
+23	Female	Asian	ACG2021	1	8	C	
+44	Female	White	ACG2021	1	8	C	
+32	Female	Asian	ACG2021	3	8	A	
+24	Female	White	ACG2021	2	8	C	
+24	Male	White	ACG2021	2	8	B	
+23	Male	White	ACG2021	3	8	W	
+25	Male	Hispanic/Latino	ACG2021	3	8	WF	
+31	Male	White	ACG2021	1	8	B	
+44	Female	Black/African American	ACG2021	1	8	W	
+32	Female	White	ACG2021	1	8	B	
+21	Male	Asian	ACG2021	1	8	A	
+28	Female	White	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	8	B	
+29	Male	Black/African American	ACG2021	1	8	W	
+49	Female	White	ACG2021	3	8	B	
+39	Male	Black/African American	ACG2021	3	8	C	
+26	Male	White	ACG2021	1	8	A	
+24	Female	White	ACG2021	1	8	A	
+31	Female	White	ACG2021	1	8	F	
+21	Male	White	ACG2021	2	8	A	
+23	Male	Hispanic/Latino	ACG2021	1	8	A	
+26	Female	White	ACG2021	1	8	A	
+47	Female	Hispanic/Latino	ACG2021	1	8	F	
+19	Female	White	ACG2021	3	8	B	
+22	Male	White	ACG2021	2	8	A	
+29	Male	White	ACG2021	1	8	B	
+23	Female	Black/African American	ACG2021	1	8	WF	
+22	Female	Hispanic/Latino	ACG2021	1	8	B	
+24	Female	White	ACG2021	2	8	C	
+34	Male	Hispanic/Latino	ACG2021	1	8	C	
+22	Female	White	ACG2021	3	8	C	
+26	Male	White	ACG2021	2	8	D	
+20	Female	White	ACG2021	1	8	A	
+21	Male	Hispanic/Latino	ACG2021	3	8	B	
+48	Female	Black/African American	ACG2021	1	8	B	
+31	Male	White	ACG2021	2	8	A	
+25	Female	White	ACG2021	1	8	C	
+29	Female	Multi-Ethnic	ACG2021	1	8	C	
+36	Male	Black/African American	ACG2021	2	8	C	
+25	Female	White	ACG2021	1	8	B	
+25	Female	White	ACG2021	2	8	B	
+29	Female	Black/African American	ACG2021	1	8	W	
+26	Male	Hispanic/Latino	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	F	
+25	Male	White	ACG2021	1	8	W	
+21	Male	Black/African American	ACG2021	3	8	D	
+21	Female	White	ACG2021	2	8	A	
+36	Female	Black/African American	ACG2021	1	8	B	
+28	Male	Hispanic/Latino	ACG2021	3	8	W	
+21	Male	White	ACG2021	1	8	A	
+29	Female	Not Specified	ACG2021	2	8	A	
+38	Female	White	ACG2021	1	8	B	
+20	Male	Asian	ACG2021	3	8	F	
+28	Female	Hispanic/Latino	ACG2021	1	8	W	
+35	Female	White	ACG2021	1	8	A	
+20	Female	White	ACG2021	2	8	A	
+30	Male	Hispanic/Latino	ACG2021	1	8	F	
+18	Female	White	ACG2021	1	8	A	
+25	Female	White	ACG2021	1	8	D	
+42	Female	White	ACG2021	1	8	A	
+19	Female	White	ACG2021	3	8	A	
+21	Male	Asian	ACG2021	3	8	B	
+36	Male	White	ACG2021	1	8	B	
+29	Female	White	ACG2021	3	8	A	
+21	Male	White	ACG2021	2	8	A	
+27	Female	White	ACG2021	1	8	A	
+19	Female	White	ACG2021	3	8	B	
+19	Male	Hispanic/Latino	ACG2021	3	8	B	
+22	Male	Black/African American	ACG2021	1	8	WF	
+60	Male	Black/African American	ACG2021	1	8	C	
+22	Male	Hispanic/Latino	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	C	
+22	Male	White	ACG2021	3	8	B	
+22	Male	White	ACG2021	2	8	F	
+19	Female	White	ACG2021	3	8	A	
+19	Female	White	ACG2021	3	8	C	
+27	Female	Hispanic/Latino	ACG2021	1	8	C	
+27	Female	Hispanic/Latino	ACG2021	1	8	A	
+27	Unknown	White	ACG2021	3	8	B	
+28	Female	Black/African American	ACG2021	1	8	F	
+26	Female	American Indian/Alaska Native	ACG2021	1	8	B	
+51	Female	White	ACG2021	2	8	B	
+23	Female	White	ACG2021	3	8	B	
+19	Female	White	ACG2021	3	8	C	
+35	Male	White	ACG2021	1	8	B	
+23	Female	White	ACG2021	1	8	B	
+21	Female	White	ACG2021	3	8	D	
+23	Female	Multi-Ethnic	ACG2021	3	8	F	
+23	Female	Multi-Ethnic	ACG2021	1	8	C	
+30	Male	White	ACG2021	3	8	A	
+31	Male	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	C	
+22	Female	White	ACG2021	2	8	C	
+19	Male	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	2	8	C	
+36	Male	White	ACG2021	3	8	A	
+39	Female	Black/African American	ACG2021	1	8	F	
+46	Female	Black/African American	ACG2021	1	8	A	
+20	Female	White	ACG2021	3	8	B	
+31	Male	White	ACG2021	1	8	B	
+33	Female	Hispanic/Latino	ACG2021	1	8	B	
+24	Male	Hispanic/Latino	ACG2021	2	8	B	
+21	Male	White	ACG2021	3	8	B	
+30	Male	White	ACG2021	1	8	B	
+48	Female	White	ACG2021	3	8	A	
+66	Male	White	ACG2021	1	8	WF	
+22	Male	White	ACG2021	2	8	C	
+28	Female	Not Specified	ACG2021	2	8	B	
+43	Female	White	ACG2021	1	8	C	
+33	Female	White	ACG2021	1	8	A	
+29	Female	Hispanic/Latino	ACG2021	1	8	B	
+20	Male	White	ACG2021	2	8	WF	
+22	Male	White	ACG2021	1	8	C	
+46	Female	Hispanic/Latino	ACG2021	1	8	A	
+23	Male	Multi-Ethnic	ACG2021	1	8	A	
+23	Male	White	ACG2021	1	8	B	
+24	Male	White	ACG2021	2	8	A	
+46	Male	White	ACG2021	1	8	W	
+25	Male	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	F	
+21	Male	Multi-Ethnic	ACG2021	1	8	A	
+27	Male	White	ACG2021	1	8	B	
+21	Male	White	ACG2021	1	8	A	
+22	Unknown	Multi-Ethnic	ACG2021	1	8	A	
+21	Female	White	ACG2021	3	8	W	
+21	Male	White	ACG2021	1	8	B	
+21	Female	White	ACG2021	3	8	W	
+22	Male	Hispanic/Latino	ACG2021	3	8	A	
+27	Unknown	Black/African American	ACG2021	1	8	W	
+27	Male	White	ACG2021	1	8	B	
+31	Female	White	ACG2021	1	8	B	
+22	Male	White	ACG2021	1	8	A	
+26	Female	White	ACG2021	1	8	F	
+32	Male	White	ACG2021	1	8	A	
+24	Male	Multi-Ethnic	ACG2021	2	8	W	
+22	Male	White	ACG2021	3	8	B	
+44	Female	Black/African American	ACG2021	1	8	B	
+23	Female	White	ACG2021	1	8	B	
+23	Male	Black/African American	ACG2021	1	8	A	
+49	Unknown	Black/African American	ACG2021	1	8	B	
+21	Female	White	ACG2021	2	8	F	
+43	Female	White	ACG2021	1	8	WF	
+22	Male	Black/African American	ACG2021	3	8	W	
+20	Male	White	ACG2021	3	8	A	
+22	Male	Hispanic/Latino	ACG2021	1	8	W	
+19	Unknown	White	ACG2021	3	8	B	
+22	Male	White	ACG2021	2	8	B	
+21	Female	White	ACG2021	1	8	C	
+35	Female	White	ACG2021	1	8	A	
+29	Male	Multi-Ethnic	ACG2021	1	8	B	
+28	Male	White	ACG2021	1	8	C	
+20	Male	Not Specified	ACG2021	1	8	C	
+21	Male	White	ACG2021	2	8	A	
+20	Male	Asian	ACG2021	1	8	C	
+20	Male	White	ACG2021	3	8	A	
+42	Male	Not Specified	ACG2021	1	8	B	
+27	Female	White	ACG2021	1	8	A	
+39	Male	White	ACG2021	1	8	A	
+52	Male	White	ACG2021	3	8	A	
+24	Male	White	ACG2021	2	8	A	
+22	Male	White	ACG2021	1	8	B	
+24	Female	White	ACG2021	1	8	A	
+25	Female	White	ACG2021	1	8	A	
+22	Male	Black/African American	ACG2021	3	8	F	
+31	Male	White	ACG2021	3	8	W	
+67	Male	White	ACG2021	2	8	A	
+28	Female	White	ACG2021	1	8	A	
+59	Female	Not Specified	ACG2021	1	8	B	
+48	Male	Not Specified	ACG2021	1	8	A	
+55	Male	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+27	Male	White	ACG2021	1	8	A	
+23	Male	White	ACG2021	3	8	B	
+23	Female	White	ACG2021	1	8	A	
+21	Female	Hispanic/Latino	ACG2021	2	8	A	
+39	Male	White	ACG2021	1	8	W	
+37	Male	White	ACG2021	1	8	B	
+21	Female	White	ACG2021	3	8	A	
+21	Male	White	ACG2021	1	8	F	
+24	Male	White	ACG2021	1	8	B	
+28	Female	Hispanic/Latino	ACG2021	3	8	C	
+36	Male	White	ACG2021	1	8	B	
+33	Female	Not Specified	ACG2021	1	8	C	
+20	Male	White	ACG2021	3	8	C	
+21	Male	Hispanic/Latino	ACG2021	3	8	C	
+22	Female	Multi-Ethnic	ACG2021	2	8	C	
+22	Female	White	ACG2021	1	8	F	
+21	Male	White	ACG2021	2	8	D	
+45	Female	White	ACG2021	1	8	B	
+28	Female	White	ACG2021	3	8	A	
+20	Female	White	ACG2021	1	8	W	
+46	Male	White	ACG2021	3	8	W	
+58	Male	White	ACG2021	1	8	B	
+56	Female	White	ACG2021	3	8	B	
+32	Male	Hispanic/Latino	ACG2021	2	8	F	
+48	Unknown	White	ACG2021	2	8	B	
+21	Male	Multi-Ethnic	ACG2021	1	8	C	
+41	Female	Asian	ACG2021	2	8	W	
+34	Male	White	ACG2021	1	8	A	
+21	Male	Hispanic/Latino	ACG2021	1	8	C	
+21	Female	Black/African American	ACG2021	3	8	D	
+25	Male	Hispanic/Latino	ACG2021	2	8	A	
+41	Male	White	ACG2021	1	8	W	
+38	Female	Hispanic/Latino	ACG2021	1	8	F	
+21	Male	White	ACG2021	1	8	B	
+27	Male	Asian	ACG2021	2	8	C	
+53	Female	White	ACG2021	1	8	A	
+24	Male	Asian	ACG2021	2	8	A	
+35	Male	White	ACG2021	1	8	A	
+38	Male	White	ACG2021	1	8	A	
+45	Female	White	ACG2021	1	8	A	
+26	Female	White	ACG2021	3	8	A	
+22	Male	White	ACG2021	1	8	D	
+26	Female	White	ACG2021	1	8	F	
+28	Female	White	ACG2021	1	8	F	
+22	Male	White	ACG2021	1	8	A	
+30	Male	White	ACG2021	1	8	F	
+44	Male	Black/African American	ACG2021	1	8	W	
+21	Male	White	ACG2021	2	8	F	
+21	Male	White	ACG2021	3	8	C	
+23	Male	White	ACG2021	1	8	WF	
+49	Male	White	ACG2021	3	8	B	
+24	Male	Black/African American	ACG2021	1	8	B	
+44	Male	Black/African American	ACG2021	1	8	D	
+27	Female	White	ACG2021	1	8	A	
+27	Male	White	ACG2021	3	8	W	
+30	Male	White	ACG2021	1	8	W	
+27	Male	White	ACG2021	3	8	W	
+38	Female	White	ACG2021	1	8	C	
+22	Female	White	ACG2021	2	8	A	
+36	Male	Hispanic/Latino	ACG2021	1	8	B	
+29	Female	Black/African American	ACG2021	1	8	F	
+29	Female	White	ACG2021	1	8	B	
+25	Male	White	ACG2021	1	8	B	
+22	Female	White	ACG2021	3	8	D	
+21	Male	White	ACG2021	2	8	B	
+28	Female	Hispanic/Latino	ACG2021	2	8	C	
+21	Male	White	ACG2021	1	8	A	
+27	Female	White	ACG2021	1	8	A	
+35	Female	White	ACG2021	1	8	A	
+54	Female	Not Specified	ACG2021	1	8	A	
+59	Female	Hispanic/Latino	ACG2021	2	8	F	
+23	Male	Black/African American	ACG2021	3	8	C	
+33	Male	Black/African American	ACG2021	1	8	B	
+22	Male	White	ACG2021	2	8	B	
+22	Male	White	ACG2021	3	8	A	
+35	Female	Black/African American	ACG2021	1	8	W	
+25	Male	Hispanic/Latino	ACG2021	1	8	W	
+26	Male	Hispanic/Latino	ACG2021	1	8	B	
+27	Female	White	ACG2021	3	8	A	
+21	Male	White	ACG2021	1	8	F	
+35	Female	White	ACG2021	1	8	B	
+20	Female	Hispanic/Latino	ACG2021	1	8	B	
+38	Male	Black/African American	ACG2021	1	8	W	
+38	Male	Black/African American	ACG2021	1	8	A	
+56	Female	White	ACG2021	1	8	A	
+49	Female	White	ACG2021	1	8	C	
+27	Male	Black/African American	ACG2021	1	8	C	
+26	Male	White	ACG2021	1	8	A	
+25	Male	White	ACG2021	3	8	F	
+32	Female	White	ACG2021	1	8	A	
+31	Male	Hispanic/Latino	ACG2021	1	8	F	
+31	Male	Hispanic/Latino	ACG2021	1	8	B	
+27	Male	Asian	ACG2021	1	8	D	
+22	Unknown	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	2	8	A	
+23	Male	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+51	Male	White	ACG2021	1	8	A	
+38	Female	Hispanic/Latino	ACG2021	1	8	C	
+31	Female	Asian	ACG2021	1	8	B	
+21	Male	White	ACG2021	1	8	B	
+20	Female	Black/African American	ACG2021	1	8	WF	
+25	Male	White	ACG2021	1	8	WF	
+22	Male	White	ACG2021	1	8	A	
+21	Male	Not Specified	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	B	
+22	Male	Asian	ACG2021	1	8	B	
+25	Female	White	ACG2021	1	8	A	
+34	Male	White	ACG2021	2	8	WF	
+23	Female	Not Specified	ACG2021	1	8	A	
+43	Female	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+20	Male	Hispanic/Latino	ACG2021	2	8	B	
+21	Female	White	ACG2021	1	8	B	
+29	Female	White	ACG2021	2	8	A	
+33	Female	White	ACG2021	1	8	B	
+30	Female	White	ACG2021	1	8	B	
+35	Female	Not Specified	ACG2021	1	8	A	
+60	Female	White	ACG2021	1	8	A	
+24	Male	White	ACG2021	2	8	B	
+27	Female	White	ACG2021	1	8	A	
+22	Male	Black/African American	ACG2021	1	8	B	
+63	Male	Black/African American	ACG2021	3	8	C	
+26	Female	White	ACG2021	1	8	B	
+32	Male	Hispanic/Latino	ACG2021	1	8	A	
+25	Female	White	ACG2021	2	8	A	
+25	Male	White	ACG2021	1	8	B	
+33	Female	Hispanic/Latino	ACG2021	1	8	B	
+31	Male	Asian	ACG2021	1	8	WF	
+49	Female	White	ACG2021	1	8	A	
+40	Female	White	ACG2021	3	8	A	
+42	Female	Hispanic/Latino	ACG2021	1	8	A	
+49	Male	White	ACG2021	3	8	A	
+31	Female	White	ACG2021	1	8	WF	
+33	Male	White	ACG2021	1	8	A	
+29	Male	Asian	ACG2021	1	8	A	
+25	Male	Multi-Ethnic	ACG2021	2	8	A	
+39	Male	Black/African American	ACG2021	1	8	B	
+22	Male	White	ACG2021	3	8	F	
+28	Male	White	ACG2021	2	8	A	
+25	Unknown	White	ACG2021	2	8	B	
+52	Female	Black/African American	ACG2021	1	8	WF	
+46	Male	Hispanic/Latino	ACG2021	1	8	B	
+25	Female	White	ACG2021	2	8	B	
+27	Female	White	ACG2021	1	8	C	
+27	Female	Hispanic/Latino	ACG2021	1	8	F	
+25	Female	White	ACG2021	1	8	D	
+21	Female	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	A	
+23	Female	Hispanic/Latino	ACG2021	1	8	A	
+66	Male	White	ACG2021	1	8	W	
+44	Female	White	ACG2021	1	8	C	
+59	Female	White	ACG2021	3	8	A	
+76	Male	White	ACG2021	3	8	A	
+22	Male	White	ACG2021	2	8	F	
+39	Female	Black/African American	ACG2021	1	8	W	
+22	Male	White	ACG2021	1	8	A	
+18	Female	White	ACG2021	1	8	B	
+42	Female	White	ACG2021	1	8	A	
+30	Female	Hispanic/Latino	ACG2021	1	8	W	
+22	Male	White	ACG2021	1	8	B	
+37	Female	Black/African American	ACG2021	1	8	WF	
+26	Unknown	Black/African American	ACG2021	3	8	A	
+39	Female	Hispanic/Latino	ACG2021	1	8	A	
+22	Female	White	ACG2021	2	8	W	
+26	Male	White	ACG2021	1	8	C	
+28	Female	Hispanic/Latino	ACG2021	1	8	A	
+29	Male	Asian	ACG2021	1	8	A	
+23	Male	White	ACG2021	1	8	A	
+36	Male	White	ACG2021	1	8	F	
+36	Male	White	ACG2021	1	8	B	
+23	Male	White	ACG2021	1	8	A	
+21	Female	Asian	ACG2021	1	8	F	
+29	Female	Black/African American	ACG2021	1	8	W	
+29	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	2	8	A	
+29	Male	Black/African American	ACG2021	1	8	A	
+35	Male	White	ACG2021	2	8	B	
+34	Female	White	ACG2021	1	8	B	
+22	Male	White	ACG2021	2	8	A	
+60	Female	White	ACG2021	3	8	A	
+30	Female	Hispanic/Latino	ACG2021	1	8	B	
+31	Female	White	ACG2021	1	8	A	
+52	Female	White	ACG2021	1	8	F	
+27	Female	White	ACG2021	2	8	A	
+55	Female	White	ACG2021	2	8	A	
+28	Female	White	ACG2021	2	8	A	
+29	Female	White	ACG2021	1	8	A	
+32	Female	White	ACG2021	1	8	F	
+40	Female	White	ACG2021	1	8	A	
+31	Female	Multi-Ethnic	ACG2021	1	8	B	
+44	Female	Black/African American	ACG2021	1	8	F	
+30	Female	White	ACG2021	1	8	A	
+31	Female	White	ACG2021	1	8	B	
+27	Female	White	ACG2021	1	8	WF	
+35	Male	White	ACG2021	1	8	F	
+31	Male	White	ACG2021	2	8	A	
+33	Female	Hispanic/Latino	ACG2021	2	8	WF	
+29	Male	White	ACG2021	1	8	A	
+29	Male	White	ACG2021	2	8	A	
+22	Female	White	ACG2021	1	8	A	
+27	Male	White	ACG2021	3	8	C	
+37	Unknown	Black/African American	ACG2021	1	8	B	
+35	Male	Hispanic/Latino	ACG2021	1	8	B	
+46	Male	White	ACG2021	1	8	F	
+36	Female	White	ACG2021	1	8	A	
+39	Female	White	ACG2021	1	8	A	
+34	Male	White	ACG2021	1	8	F	
+20	Female	White	ACG2021	3	8	A	
+30	Female	Hispanic/Latino	ACG2021	3	8	A	
+30	Male	Hispanic/Latino	ACG2021	1	8	C	
+29	Female	White	ACG2021	1	8	B	
+31	Unknown	White	ACG2021	1	8	A	
+31	Female	White	ACG2021	1	8	WF	
+27	Male	Not Specified	ACG2021	1	8	F	
+32	Male	Asian	ACG2021	3	8	C	
+28	Female	White	ACG2021	2	8	C	
+30	Female	Black/African American	ACG2021	3	8	B	
+31	Female	White	ACG2021	2	8	B	
+27	Male	White	ACG2021	3	8	A	
+23	Female	White	ACG2021	1	8	F	
+26	Male	White	ACG2021	3	8	B	
+27	Male	White	ACG2021	1	8	A	
+29	Female	White	ACG2021	2	8	B	
+30	Female	White	ACG2021	1	8	A	
+30	Female	White	ACG2021	2	8	A	
+21	Male	White	ACG2021	1	8	A	
+30	Female	White	ACG2021	1	8	W	
+30	Male	White	ACG2021	1	8	B	
+35	Female	White	ACG2021	3	8	C	
+34	Male	White	ACG2021	1	8	D	
+29	Male	Hispanic/Latino	ACG2021	3	8	A	
+30	Male	White	ACG2021	3	8	B	
+28	Unknown	White	ACG2021	1	8	A	
+27	Female	White	ACG2021	2	8	A	
+28	Female	White	ACG2021	1	8	A	
+30	Female	Asian	ACG2021	1	8	C	
+38	Male	White	ACG2021	2	8	A	
+44	Male	White	ACG2021	2	8	B	
+48	Male	White	ACG2021	3	8	A	
+29	Unknown	White	ACG2021	1	8	C	
+36	Male	White	ACG2021	1	8	C	
+28	Male	White	ACG2021	3	8	D	
+34	Male	White	ACG2021	3	8	F	
+34	Male	White	ACG2021	1	8	F	
+29	Unknown	White	ACG2021	1	8	A	
+27	Female	Black/African American	ACG2021	2	8	B	
+37	Female	Black/African American	ACG2021	1	8	F	
+39	Male	White	ACG2021	3	8	B	
+33	Male	Black/African American	ACG2021	2	8	D	
+29	Female	White	ACG2021	1	8	B	
+30	Male	White	ACG2021	3	8	A	
+26	Male	White	ACG2021	3	8	A	
+22	Male	White	ACG2021	1	8	B	
+22	Male	White	ACG2021	3	8	B	
+29	Female	White	ACG2021	1	8	F	
+29	Female	White	ACG2021	3	8	B	
+26	Male	White	ACG2021	2	8	B	
+28	Male	White	ACG2021	3	8	C	
+29	Male	White	ACG2021	1	8	A	
+29	Female	Black/African American	ACG2021	3	8	D	
+27	Female	White	ACG2021	1	8	A	
+29	Female	White	ACG2021	1	8	B	
+28	Male	White	ACG2021	1	8	C	
+26	Male	Multi-Ethnic	ACG2021	1	8	C	
+44	Female	White	ACG2021	1	8	A	
+26	Male	White	ACG2021	3	8	B	
+34	Female	White	ACG2021	1	8	F	
+29	Female	Hispanic/Latino	ACG2021	2	8	C	
+34	Male	White	ACG2021	1	8	D	
+25	Male	Black/African American	ACG2021	1	8	C	
+45	Male	Hispanic/Latino	ACG2021	2	8	A	
+29	Female	White	ACG2021	1	8	W	
+32	Male	Hispanic/Latino	ACG2021	1	8	C	
+56	Female	Hispanic/Latino	ACG2021	1	8	A	
+35	Male	White	ACG2021	1	8	W	
+30	Unknown	White	ACG2021	1	8	F	
+29	Female	Hispanic/Latino	ACG2021	1	8	D	
+34	Female	Asian	ACG2021	1	8	B	
+29	Male	White	ACG2021	1	8	F	
+33	Female	White	ACG2021	1	8	WF	
+30	Female	Black/African American	ACG2021	1	8	B	
+43	Male	White	ACG2021	3	8	D	
+29	Male	Black/African American	ACG2021	1	8	F	
+28	Female	Black/African American	ACG2021	1	8	C	
+57	Female	Hispanic/Latino	ACG2021	2	8	B	
+28	Male	White	ACG2021	1	8	WF	
+28	Male	White	ACG2021	3	8	B	
+30	Female	White	ACG2021	1	8	D	
+30	Female	White	ACG2021	1	8	F	
+27	Female	White	ACG2021	1	8	B	
+27	Female	American Indian/Alaska Native	ACG2021	1	8	W	
+45	Male	White	ACG2021	1	8	A	
+29	Female	White	ACG2021	1	8	B	
+41	Male	Black/African American	ACG2021	1	8	WF	
+28	Female	White	ACG2021	2	8	B	
+26	Female	White	ACG2021	1	8	B	
+32	Female	White	ACG2021	1	8	B	
+28	Female	White	ACG2021	3	8	A	
+34	Male	White	ACG2021	1	8	F	
+53	Male	Hispanic/Latino	ACG2021	2	8	C	
+27	Female	Black/African American	ACG2021	1	8	W	
+27	Female	Black/African American	ACG2021	1	8	D	
+46	Female	Black/African American	ACG2021	1	8	W	
+27	Female	White	ACG2021	1	8	D	
+29	Female	Hispanic/Latino	ACG2021	2	8	D	
+29	Female	Hispanic/Latino	ACG2021	2	8	W	
+28	Female	White	ACG2021	1	8	C	
+50	Female	White	ACG2021	1	8	C	
+27	Female	White	ACG2021	1	8	A	
+31	Female	White	ACG2021	1	8	B	
+26	Female	White	ACG2021	1	8	B	
+45	Male	Black/African American	ACG2021	1	8	F	
+25	Female	White	ACG2021	1	8	C	
+28	Female	Black/African American	ACG2021	2	8	B	
+40	Male	Not Specified	ACG2021	1	8	A	
+28	Female	Hispanic/Latino	ACG2021	1	8	F	
+28	Female	Hispanic/Latino	ACG2021	1	8	W	
+28	Female	White	ACG2021	1	8	C	
+27	Male	Black/African American	ACG2021	1	8	B	
+48	Female	White	ACG2021	1	8	C	
+30	Female	Black/African American	ACG2021	3	8	A	
+26	Female	White	ACG2021	1	8	D	
+28	Female	Black/African American	ACG2021	1	8	C	
+28	Male	White	ACG2021	1	8	B	
+28	Female	Hispanic/Latino	ACG2021	1	8	C	
+26	Female	Black/African American	ACG2021	1	8	B	
+27	Female	White	ACG2021	3	8	B	
+27	Female	White	ACG2021	1	8	B	
+26	Male	Hispanic/Latino	ACG2021	3	8	F	
+26	Male	Hispanic/Latino	ACG2021	3	8	C	
+26	Female	Black/African American	ACG2021	1	8	B	
+26	Female	White	ACG2021	3	8	A	
+26	Female	White	ACG2021	1	8	A	
+27	Unknown	Asian	ACG2021	3	8	B	
+26	Male	White	ACG2021	2	8	A	
+41	Male	Hispanic/Latino	ACG2021	3	8	A	
+27	Male	White	ACG2021	1	8	A	
+25	Male	White	ACG2021	1	8	B	
+28	Male	White	ACG2021	1	8	F	
+27	Male	White	ACG2021	1	8	B	
+35	Male	Black/African American	ACG2021	2	8	B	
+26	Female	White	ACG2021	1	8	B	
+29	Female	White	ACG2021	1	8	C	
+26	Male	White	ACG2021	1	8	A	
+26	Male	White	ACG2021	3	8	WF	
+26	Male	Black/African American	ACG2021	3	8	B	
+27	Male	White	ACG2021	1	8	C	
+26	Male	White	ACG2021	2	8	A	
+27	Male	White	ACG2021	2	8	A	
+38	Female	Not Specified	ACG2021	2	8	A	
+26	Female	Black/African American	ACG2021	1	8	D	
+26	Female	Black/African American	ACG2021	1	8	F	
+26	Female	White	ACG2021	1	8	A	
+27	Female	White	ACG2021	2	8	A	
+27	Female	White	ACG2021	1	8	B	
+26	Male	White	ACG2021	1	8	B	
+26	Female	Hispanic/Latino	ACG2021	1	8	A	
+46	Female	Black/African American	ACG2021	1	8	A	
+27	Male	White	ACG2021	2	8	C	
+26	Male	White	ACG2021	2	8	F	
+24	Male	White	ACG2021	1	8	D	
+25	Female	White	ACG2021	1	8	B	
+27	Male	White	ACG2021	2	8	W	
+26	Female	White	ACG2021	2	8	B	
+35	Female	White	ACG2021	1	8	B	
+36	Female	Asian	ACG2021	3	8	D	
+26	Female	White	ACG2021	1	8	A	
+28	Female	White	ACG2021	1	8	W	
+27	Female	Hispanic/Latino	ACG2021	1	8	A	
+23	Male	Asian	ACG2021	1	8	W	
+45	Female	White	ACG2021	3	8	A	
+26	Female	White	ACG2021	1	8	A	
+46	Female	Hispanic/Latino	ACG2021	1	8	A	
+27	Male	White	ACG2021	1	8	W	
+27	Male	White	ACG2021	3	8	A	
+46	Female	Not Specified	ACG2021	2	8	A	
+27	Male	White	ACG2021	1	8	A	
+28	Male	Asian	ACG2021	1	8	A	
+43	Male	White	ACG2021	1	8	A	
+31	Female	Hispanic/Latino	ACG2021	1	8	B	
+32	Female	White	ACG2021	1	8	C	
+31	Male	Hispanic/Latino	ACG2021	1	8	F	
+50	Female	Hispanic/Latino	ACG2021	1	8	C	
+30	Female	White	ACG2021	1	8	B	
+34	Female	White	ACG2021	1	8	WF	
+29	Female	Black/African American	ACG2021	1	8	A	
+30	Female	White	ACG2021	1	8	A	
+25	Male	White	ACG2021	3	8	B	
+25	Male	White	ACG2021	1	8	WF	
+25	Male	White	ACG2021	3	8	D	
+29	Female	Black/African American	ACG2021	1	8	W	
+24	Female	White	ACG2021	1	8	F	
+24	Female	White	ACG2021	1	8	C	
+26	Male	White	ACG2021	1	8	F	
+24	Female	Black/African American	ACG2021	1	8	F	
+25	Female	White	ACG2021	1	8	C	
+25	Female	White	ACG2021	1	8	B	
+24	Male	White	ACG2021	1	8	A	
+30	Female	Hispanic/Latino	ACG2021	1	8	W	
+24	Female	Multi-Ethnic	ACG2021	1	8	W	
+22	Female	Asian	ACG2021	1	8	A	
+23	Female	Black/African American	ACG2021	3	8	D	
+23	Female	Hispanic/Latino	ACG2021	1	8	B	
+25	Male	Asian	ACG2021	3	8	B	
+24	Female	White	ACG2021	1	8	C	
+23	Male	White	ACG2021	1	8	B	
+25	Female	Black/African American	ACG2021	2	8	C	
+29	Male	White	ACG2021	1	8	A	
+31	Male	Hispanic/Latino	ACG2021	1	8	B	
+46	Male	Not Specified	ACG2021	1	8	B	
+26	Female	White	ACG2021	1	8	W	
+25	Female	White	ACG2021	1	8	A	
+35	Male	Hispanic/Latino	ACG2021	1	8	D	
+28	Female	White	ACG2021	1	8	B	
+31	Male	Black/African American	ACG2021	1	8	D	
+26	Male	White	ACG2021	2	8	B	
+28	Female	White	ACG2021	1	8	W	
+27	Male	White	ACG2021	1	8	B	
+26	Male	White	ACG2021	1	8	C	
+24	Female	White	ACG2021	1	8	F	
+26	Male	Black/African American	ACG2021	1	8	F	
+23	Male	Hispanic/Latino	ACG2021	3	8	A	
+25	Male	White	ACG2021	1	8	W	
+22	Male	White	ACG2021	1	8	A	
+26	Female	White	ACG2021	1	8	A	
+25	Male	White	ACG2021	1	8	B	
+29	Male	White	ACG2021	1	8	B	
+33	Unknown	Hispanic/Latino	ACG2021	1	8	C	
+26	Female	Asian	ACG2021	2	8	B	
+26	Female	White	ACG2021	2	8	C	
+26	Male	Not Specified	ACG2021	1	8	F	
+48	Unknown	American Indian/Alaska Native	ACG2021	2	8	B	
+32	Male	White	ACG2021	2	8	W	
+32	Male	White	ACG2021	1	8	B	
+26	Female	White	ACG2021	1	8	F	
+26	Female	White	ACG2021	3	8	C	
+26	Male	White	ACG2021	2	8	A	
+26	Male	Asian	ACG2021	3	8	C	
+25	Female	Not Specified	ACG2021	1	8	B	
+26	Male	White	ACG2021	1	8	A	
+25	Male	Not Specified	ACG2021	1	8	C	
+27	Female	Black/African American	ACG2021	1	8	W	
+29	Male	White	ACG2021	1	8	A	
+34	Female	White	ACG2021	1	8	WF	
+46	Male	White	ACG2021	1	8	A	
+32	Female	White	ACG2021	1	8	B	
+32	Male	Multi-Ethnic	ACG2021	1	8	C	
+25	Female	White	ACG2021	2	8	F	
+41	Female	White	ACG2021	1	8	C	
+22	Female	White	ACG2021	2	8	B	
+52	Female	Black/African American	ACG2021	1	8	C	
+25	Female	White	ACG2021	1	8	W	
+22	Male	White	ACG2021	3	8	A	
+22	Female	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	3	8	B	
+22	Male	White	ACG2021	3	8	C	
+54	Female	White	ACG2021	1	8	W	
+22	Male	White	ACG2021	2	8	WF	
+32	Female	White	ACG2021	1	8	F	
+39	Female	Multi-Ethnic	ACG2021	1	8	W	
+21	Male	Hispanic/Latino	ACG2021	1	8	B	
+40	Female	White	ACG2021	1	8	F	
+21	Male	White	ACG2021	2	8	B	
+20	Male	White	ACG2021	1	8	A	
+22	Male	Not Specified	ACG2021	1	8	B	
+22	Male	White	ACG2021	3	8	B	
+26	Female	White	ACG2021	1	8	B	
+22	Female	White	ACG2021	2	8	B	
+20	Female	White	ACG2021	3	8	A	
+25	Female	White	ACG2021	1	8	D	
+48	Male	Hispanic/Latino	ACG2021	2	8	B	
+24	Female	White	ACG2021	1	8	B	
+22	Female	White	ACG2021	3	8	A	
+22	Female	White	ACG2021	1	8	C	
+22	Male	White	ACG2021	1	8	B	
+22	Male	Asian	ACG2021	1	8	C	
+26	Female	White	ACG2021	1	8	WF	
+31	Male	White	ACG2021	1	8	C	
+22	Female	Hispanic/Latino	ACG2021	3	8	B	
+26	Male	White	ACG2021	2	8	B	
+22	Female	White	ACG2021	2	8	C	
+38	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	3	8	W	
+21	Female	White	ACG2021	1	8	A	
+63	Male	White	ACG2021	1	8	A	
+24	Unknown	Not Specified	ACG2021	3	8	C	
+21	Female	Black/African American	ACG2021	2	8	B	
+21	Male	Hispanic/Latino	ACG2021	1	8	C	
+23	Female	White	ACG2021	1	8	A	
+33	Male	White	ACG2021	3	8	A	
+23	Female	White	ACG2021	2	8	A	
+22	Female	White	ACG2021	3	8	F	
+22	Female	White	ACG2021	1	8	F	
+31	Male	White	ACG2021	1	8	WF	
+23	Male	White	ACG2021	1	8	C	
+22	Female	Not Specified	ACG2021	2	8	A	
+21	Female	White	ACG2021	3	8	D	
+25	Female	White	ACG2021	1	8	B	
+24	Female	White	ACG2021	1	8	A	
+36	Female	White	ACG2021	1	8	A	
+23	Female	White	ACG2021	3	8	B	
+19	Female	White	ACG2021	1	8	C	
+22	Male	White	ACG2021	3	8	C	
+29	Male	White	ACG2021	1	8	F	
+24	Male	Black/African American	ACG2021	1	8	W	
+23	Male	Hispanic/Latino	ACG2021	1	8	W	
+45	Unknown	Black/African American	ACG2021	1	8	W	
+31	Female	White	ACG2021	3	8	B	
+21	Female	White	ACG2021	1	8	A	
+28	Female	White	ACG2021	1	8	B	
+21	Female	White	ACG2021	1	8	C	
+21	Male	White	ACG2021	1	8	B	
+23	Male	White	ACG2021	1	8	A	
+23	Male	Black/African American	ACG2021	3	8	W	
+21	Female	Black/African American	ACG2021	1	8	D	
+23	Male	White	ACG2021	1	8	A	
+33	Female	White	ACG2021	1	8	A	
+21	Female	Hispanic/Latino	ACG2021	3	8	B	
+21	Male	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	3	8	C	
+32	Female	Hispanic/Latino	ACG2021	1	8	A	
+21	Female	Hispanic/Latino	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	WF	
+27	Male	Black/African American	ACG2021	1	8	C	
+27	Male	White	ACG2021	1	8	C	
+22	Female	Not Specified	ACG2021	3	8	A	
+21	Female	White	ACG2021	1	8	A	
+27	Unknown	Not Specified	ACG2021	3	8	A	
+21	Male	White	ACG2021	2	8	A	
+38	Female	White	ACG2021	3	8	C	
+22	Male	White	ACG2021	1	8	A	
+20	Male	Asian	ACG2021	3	8	A	
+22	Male	White	ACG2021	1	8	D	
+22	Female	Hispanic/Latino	ACG2021	3	8	B	
+23	Female	White	ACG2021	2	8	A	
+27	Male	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	2	8	B	
+26	Male	White	ACG2021	1	8	B	
+33	Male	White	ACG2021	1	8	C	
+22	Male	White	ACG2021	3	8	F	
+22	Male	White	ACG2021	1	8	B	
+22	Male	White	ACG2021	2	8	B	
+21	Male	White	ACG2021	3	8	W	
+22	Male	Asian	ACG2021	2	8	B	
+42	Female	White	ACG2021	1	8	A	
+33	Male	Hispanic/Latino	ACG2021	1	8	A	
+26	Female	Hispanic/Latino	ACG2021	1	8	F	
+26	Female	Hispanic/Latino	ACG2021	1	8	W	
+49	Male	Black/African American	ACG2021	3	8	C	
+33	Female	White	ACG2021	3	8	W	
+21	Female	White	ACG2021	1	8	A	
+32	Male	White	ACG2021	2	8	B	
+24	Male	White	ACG2021	2	8	A	
+21	Female	Hispanic/Latino	ACG2021	2	8	W	
+21	Male	Hispanic/Latino	ACG2021	1	8	A	
+22	Male	White	ACG2021	3	8	W	
+22	Female	Hispanic/Latino	ACG2021	3	8	A	
+21	Male	White	ACG2021	2	8	B	
+22	Male	White	ACG2021	3	8	W	
+22	Male	White	ACG2021	3	8	WF	
+27	Male	White	ACG2021	1	8	C	
+22	Male	White	ACG2021	1	8	B	
+22	Male	White	ACG2021	3	8	B	
+22	Male	White	ACG2021	2	8	A	
+22	Female	White	ACG2021	1	8	A	
+40	Female	Black/African American	ACG2021	2	8	A	
+25	Female	Hispanic/Latino	ACG2021	2	8	WF	
+31	Female	Black/African American	ACG2021	1	8	D	
+19	Female	White	ACG2021	1	8	F	
+22	Male	White	ACG2021	1	8	B	
+20	Male	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	WF	
+24	Male	Asian	ACG2021	1	8	D	
+21	Male	White	ACG2021	3	8	A	
+21	Male	White	ACG2021	1	8	F	
+21	Male	White	ACG2021	1	8	C	
+22	Male	White	ACG2021	2	8	C	
+21	Female	White	ACG2021	2	8	B	
+25	Female	Asian	ACG2021	2	8	B	
+22	Male	White	ACG2021	3	8	W	
+23	Female	White	ACG2021	1	8	A	
+30	Female	White	ACG2021	1	8	C	
+22	Male	Hispanic/Latino	ACG2021	2	8	B	
+25	Male	White	ACG2021	3	8	B	
+21	Female	White	ACG2021	3	8	B	
+26	Female	Multi-Ethnic	ACG2021	1	8	W	
+26	Female	Multi-Ethnic	ACG2021	1	8	A	
+44	Female	Hispanic/Latino	ACG2021	1	8	WF	
+34	Male	White	ACG2021	1	8	A	
+46	Female	White	ACG2021	1	8	B	
+22	Male	White	ACG2021	1	8	B	
+31	Male	White	ACG2021	2	8	A	
+30	Unknown	Not Specified	ACG2021	3	8	F	
+30	Unknown	Not Specified	ACG2021	1	8	A	
+28	Male	White	ACG2021	1	8	A	
+20	Male	White	ACG2021	1	8	B	
+31	Female	White	ACG2021	1	8	B	
+33	Male	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	3	8	A	
+22	Male	White	ACG2021	1	8	B	
+20	Female	White	ACG2021	1	8	A	
+22	Female	Asian	ACG2021	1	8	B	
+21	Female	White	ACG2021	1	8	B	
+23	Female	White	ACG2021	3	8	A	
+27	Female	Asian	ACG2021	2	8	F	
+22	Female	Hispanic/Latino	ACG2021	3	8	F	
+22	Female	Hispanic/Latino	ACG2021	2	8	C	
+27	Male	White	ACG2021	2	8	A	
+58	Male	White	ACG2021	1	8	B	
+22	Female	Hispanic/Latino	ACG2021	1	8	A	
+24	Male	White	ACG2021	1	8	B	
+37	Female	White	ACG2021	1	8	A	
+39	Female	White	ACG2021	1	8	A	
+22	Female	Hispanic/Latino	ACG2021	2	8	A	
+20	Female	Multi-Ethnic	ACG2021	1	8	A	
+46	Female	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	8	B	
+42	Female	Black/African American	ACG2021	1	8	F	
+40	Female	Black/African American	ACG2021	1	8	B	
+19	Male	White	ACG2021	1	8	A	
+35	Female	White	ACG2021	3	8	A	
+21	Unknown	White	ACG2021	1	8	D	
+27	Male	White	ACG2021	3	8	F	
+22	Female	White	ACG2021	1	8	A	
+46	Female	White	ACG2021	1	8	B	
+22	Female	Hispanic/Latino	ACG2021	2	8	C	
+31	Male	White	ACG2021	1	8	B	
+22	Male	Hispanic/Latino	ACG2021	1	8	B	
+22	Male	White	ACG2021	3	8	C	
+22	Male	Hispanic/Latino	ACG2021	2	8	C	
+27	Male	Black/African American	ACG2021	1	8	F	
+27	Male	Black/African American	ACG2021	3	8	F	
+43	Female	Black/African American	ACG2021	1	8	F	
+20	Male	White	ACG2021	2	8	A	
+21	Male	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	3	8	A	
+53	Female	White	ACG2021	3	8	W	
+26	Female	White	ACG2021	1	8	A	
+26	Female	Black/African American	ACG2021	1	8	WF	
+25	Female	White	ACG2021	1	8	C	
+29	Unknown	Black/African American	ACG2021	1	8	W	
+36	Female	White	ACG2021	1	8	C	
+37	Female	White	ACG2021	1	8	W	
+22	Female	Hispanic/Latino	ACG2021	2	8	D	
+46	Male	White	ACG2021	1	8	A	
+31	Male	Black/African American	ACG2021	1	8	F	
+32	Male	White	ACG2021	1	8	A	
+50	Female	Black/African American	ACG2021	1	8	D	
+41	Female	White	ACG2021	1	8	A	
+22	Female	Asian	ACG2021	3	8	B	
+35	Female	Not Specified	ACG2021	1	8	B	
+32	Female	White	ACG2021	3	8	A	
+45	Female	Not Specified	ACG2021	1	8	C	
+35	Male	White	ACG2021	1	8	A	
+29	Female	Not Specified	ACG2021	2	8	A	
+39	Female	White	ACG2021	1	8	A	
+22	Female	Asian	ACG2021	3	8	A	
+23	Female	Asian	ACG2021	1	8	B	
+39	Male	White	ACG2021	1	8	D	
+34	Female	Black/African American	ACG2021	1	8	F	
+34	Male	White	ACG2021	3	8	B	
+34	Female	White	ACG2021	1	8	B	
+23	Female	White	ACG2021	1	8	A	
+23	Male	Hispanic/Latino	ACG2021	2	8	C	
+22	Male	Asian	ACG2021	2	8	B	
+31	Male	Hispanic/Latino	ACG2021	1	8	WF	
+23	Male	White	ACG2021	2	8	C	
+22	Male	Asian	ACG2021	3	8	A	
+24	Female	White	ACG2021	2	8	A	
+22	Male	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	2	8	C	
+22	Male	White	ACG2021	2	8	C	
+24	Male	White	ACG2021	3	8	B	
+22	Male	White	ACG2021	2	8	B	
+30	Female	White	ACG2021	1	8	C	
+24	Male	White	ACG2021	2	8	A	
+22	Female	Multi-Ethnic	ACG2021	1	8	W	
+22	Male	White	ACG2021	1	8	A	
+23	Female	Hispanic/Latino	ACG2021	3	8	F	
+24	Male	White	ACG2021	1	8	B	
+23	Male	White	ACG2021	2	8	A	
+22	Male	White	ACG2021	3	8	C	
+23	Unknown	White	ACG2021	1	8	A	
+54	Female	Black/African American	ACG2021	1	8	B	
+25	Male	White	ACG2021	1	8	A	
+31	Female	White	ACG2021	1	8	F	
+31	Female	White	ACG2021	2	8	C	
+34	Male	Multi-Ethnic	ACG2021	3	8	C	
+39	Male	White	ACG2021	2	8	B	
+27	Female	White	ACG2021	1	8	B	
+33	Male	Hispanic/Latino	ACG2021	2	8	WF	
+51	Female	White	ACG2021	3	8	C	
+28	Male	White	ACG2021	1	8	WF	
+28	Male	White	ACG2021	3	8	F	
+20	Female	Black/African American	ACG2021	2	8	F	
+20	Female	Black/African American	ACG2021	2	8	F	
+33	Male	Black/African American	ACG2021	1	8	W	
+27	Male	White	ACG2021	3	8	W	
+27	Male	White	ACG2021	2	8	B	
+22	Female	White	ACG2021	3	8	A	
+21	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	A	
+23	Male	White	ACG2021	1	8	WF	
+59	Male	White	ACG2021	1	8	A	
+19	Female	Multi-Ethnic	ACG2021	3	8	F	
+32	Female	White	ACG2021	1	8	A	
+36	Female	White	ACG2021	1	8	A	
+22	Female	Hispanic/Latino	ACG2021	3	8	A	
+21	Female	White	ACG2021	1	8	B	
+61	Male	White	ACG2021	3	8	B	
+20	Female	Black/African American	ACG2021	1	8	A	
+34	Female	Black/African American	ACG2021	2	8	C	
+57	Male	White	ACG2021	3	8	WF	
+42	Female	Asian	ACG2021	3	8	A	
+46	Female	White	ACG2021	1	8	A	
+30	Male	Asian	ACG2021	1	8	C	
+63	Female	White	ACG2021	1	8	B	
+38	Male	Black/African American	ACG2021	1	8	B	
+50	Male	White	ACG2021	2	8	A	
+25	Female	White	ACG2021	1	8	B	
+27	Female	Black/African American	ACG2021	1	8	W	
+22	Female	White	ACG2021	3	8	F	
+31	Male	Hispanic/Latino	ACG2021	3	8	C	
+29	Male	White	ACG2021	1	8	B	
+33	Male	White	ACG2021	1	8	B	
+37	Male	Hispanic/Latino	ACG2021	2	8	A	
+28	Male	White	ACG2021	1	8	F	
+48	Female	White	ACG2021	1	8	B	
+42	Female	Black/African American	ACG2021	1	8	WF	
+42	Female	Black/African American	ACG2021	1	8	D	
+29	Female	White	ACG2021	1	8	A	
+25	Female	Hispanic/Latino	ACG2021	1	8	W	
+32	Female	White	ACG2021	1	8	A	
+22	Female	Black/African American	ACG2021	1	8	D	
+42	Male	White	ACG2021	3	8	F	
+21	Male	White	ACG2021	3	8	A	
+20	Male	White	ACG2021	3	8	D	
+23	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	2	8	C	
+20	Female	Multi-Ethnic	ACG2021	1	8	A	
+47	Male	Not Specified	ACG2021	1	8	F	
+22	Male	White	ACG2021	3	8	W	
+22	Male	White	ACG2021	3	8	A	
+20	Female	White	ACG2021	2	8	C	
+30	Male	Black/African American	ACG2021	2	8	B	
+20	Male	Hispanic/Latino	ACG2021	2	8	B	
+22	Male	White	ACG2021	2	8	C	
+23	Male	White	ACG2021	1	8	W	
+57	Unknown	White	ACG2021	1	8	B	
+43	Female	White	ACG2021	1	8	C	
+47	Male	White	ACG2021	1	8	C	
+26	Male	White	ACG2021	1	8	B	
+20	Female	White	ACG2021	3	8	B	
+20	Female	Not Specified	ACG2021	3	8	C	
+23	Female	White	ACG2021	1	8	B	
+23	Male	White	ACG2021	3	8	A	
+36	Female	White	ACG2021	1	8	W	
+54	Male	White	ACG2021	1	8	F	
+38	Female	White	ACG2021	1	8	B	
+20	Female		ACG2021	1	8	C	
+23	Female	White	ACG2021	2	8	A	
+60	Male	White	ACG2021	3	8	F	
+60	Male	White	ACG2021	3	8	A	
+25	Male	White	ACG2021	3	8	B	
+22	Male	Hispanic/Latino	ACG2021	3	8	F	
+31	Male	Hispanic/Latino	ACG2021	1	8	F	
+33	Female	Hispanic/Latino	ACG2021	1	8	B	
+23	Unknown	Not Specified	ACG2021	2	8	A	
+30	Male	Multi-Ethnic	ACG2021	2	8	W	
+39	Male	White	ACG2021	1	8	A	
+59	Male	White	ACG2021	1	8	A	
+37	Male	Black/African American	ACG2021	3	8	B	
+21	Female	White	ACG2021	3	8	C	
+20	Male	White	ACG2021	1	8	F	
+20	Male	White	ACG2021	3	8	B	
+22	Male	White	ACG2021	2	8	B	
+22	Male	Black/African American	ACG2021	1	8	W	
+20	Female	Hispanic/Latino	ACG2021	3	8	A	
+19	Female	Hispanic/Latino	ACG2021	3	8	A	
+22	Male	Black/African American	ACG2021	2	8	B	
+42	Female	Black/African American	ACG2021	1	8	F	
+24	Male	Hispanic/Latino	ACG2021	2	8	B	
+22	Female	Asian	ACG2021	3	8	D	
+28	Female	Hispanic/Latino	ACG2021	3	8	B	
+28	Male	White	ACG2021	3	8	WF	
+28	Male	White	ACG2021	1	8	F	
+19	Female	Hispanic/Latino	ACG2021	2	8	A	
+19	Male	White	ACG2021	3	8	A	
+24	Male	White	ACG2021	1	8	F	
+22	Male	White	ACG2021	2	8	A	
+29	Female	White	ACG2021	1	8	C	
+19	Female	White	ACG2021	1	8	A	
+19	Female	White	ACG2021	3	8	A	
+27	Female	Multi-Ethnic	ACG2021	2	8	A	
+20	Female	Hispanic/Latino	ACG2021	2	8	B	
+21	Male	White	ACG2021	3	8	B	
+26	Male	Hispanic/Latino	ACG2021	2	8	F	
+26	Male	Hispanic/Latino	ACG2021	1	8	B	
+38	Male	White	ACG2021	1	8	A	
+20	Male	White	ACG2021	3	8	A	
+24	Female	White	ACG2021	1	8	WF	
+21	Male	White	ACG2021	1	8	B	
+29	Male	Hispanic/Latino	ACG2021	1	8	D	
+22	Male	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	3	8	W	
+62	Male	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	8	B	
+39	Male	White	ACG2021	3	8	B	
+22	Male	White	ACG2021	3	8	F	
+22	Male	White	ACG2021	2	8	W	
+23	Female	Hispanic/Latino	ACG2021	3	8	C	
+25	Female	White	ACG2021	1	8	B	
+25	Male	White	ACG2021	2	8	C	
+20	Unknown	Not Specified	ACG2021	3	8	C	
+20	Female	Hispanic/Latino	ACG2021	1	8	F	
+20	Female	Hispanic/Latino	ACG2021	2	8	B	
+20	Male	White	ACG2021	1	8	A	
+23	Female	White	ACG2021	2	8	D	
+19	Female	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	3	8	W	
+22	Female	White	ACG2021	3	8	F	
+22	Male	Black/African American	ACG2021	2	8	C	
+22	Female	White	ACG2021	1	8	B	
+20	Female	White	ACG2021	3	8	B	
+21	Male	White	ACG2021	2	8	A	
+50	Male	White	ACG2021	2	8	C	
+51	Female	White	ACG2021	1	8	W	
+21	Female	Not Specified	ACG2021	1	8	B	
+21	Female	White	ACG2021	2	8	A	
+21	Female	White	ACG2021	2	8	A	
+34	Female	White	ACG2021	1	8	F	
+25	Female	White	ACG2021	2	8	A	
+22	Female	White	ACG2021	1	8	F	
+32	Female	White	ACG2021	1	8	A	
+21	Male	Hispanic/Latino	ACG2021	1	8	B	
+22	Male	Multi-Ethnic	ACG2021	3	8	B	
+20	Female	White	ACG2021	1	8	A	
+23	Male	White	ACG2021	1	8	C	
+21	Female	White	ACG2021	1	8	C	
+37	Female	Hispanic/Latino	ACG2021	1	8	C	
+21	Female	White	ACG2021	1	8	A	
+22	Female	Asian	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	8	B	
+19	Female	White	ACG2021	1	8	B	
+21	Male	Hispanic/Latino	ACG2021	3	8	A	
+46	Male	Hispanic/Latino	ACG2021	2	8	A	
+28	Female	White	ACG2021	1	14	WF	
+31	Female	White	ACG2021	1	14	A	
+21	Male	White	ACG2021	1	14	B	
+28	Female	Hispanic/Latino	ACG2021	1	8	F	
+37	Female	White	ACG2021	1	14	A	
+29	Female	White	ACG2021	1	14	F	
+28	Female	White	ACG2021	1	14	F	
+24	Male	White	ACG2021	1	8	B	
+36	Female	Black/African American	ACG2021	1	14	C	
+21	Male	White	ACG2021	1	14	C	
+33	Male	Black/African American	ACG2021	1	14	F	
+53	Male	White	ACG2021	1	8	B	
+30	Female	Hispanic/Latino	ACG2021	1	14	W	
+45	Male	White	ACG2021	1	14	B	
+28	Female	White	ACG2021	1	14	A	
+25	Male	White	ACG2021	1	8	B	
+23	Female	White	ACG2021	1	14	F	
+30	Female	White	ACG2021	1	14	A	
+25	Female	White	ACG2021	1	14	B	
+27	Female	White	ACG2021	1	8	W	
+25	Female	White	ACG2021	1	14	A	
+24	Male	Black/African American	ACG2021	1	14	A	
+25	Female	White	ACG2021	1	14	W	
+28	Male	White	ACG2021	1	8	B	
+27	Female	Hispanic/Latino	ACG2021	1	14	A	
+23	Female	White	ACG2021	1	14	W	
+23	Female	White	ACG2021	1	14	B	
+27	Female	Black/African American	ACG2021	1	8	C	
+20	Female	White	ACG2021	1	14	C	
+49	Unknown	White	ACG2021	1	14	F	
+53	Female	White	ACG2021	1	14	F	
+28	Male	White	ACG2021	1	8	B	
+18	Female	Multi-Ethnic	ACG2021	3	14	A	
+19	Female	White	ACG2021	3	14	A	
+19	Male	Black/African American	ACG2021	3	14	A	
+24	Female	Black/African American	ACG2021	3	8	F	
+38	Female	Hispanic/Latino	ACG2021	3	14	C	
+20	Male	White	ACG2021	3	14	W	
+23	Male	White	ACG2021	3	14	B	
+20	Male	White	ACG2021	3	8	B	
+20	Male	White	ACG2021	3	14	W	
+31	Male	White	ACG2021	3	14	F	
+21	Female	White	ACG2021	3	14	B	
+32	Female	White	ACG2021	3	8	A	
+23	Female	White	ACG2021	3	14	A	
+18	Female	White	ACG2021	3	14	A	
+20	Male	White	ACG2021	3	14	F	
+19	Female	White	ACG2021	3	8	A	
+29	Female	White	ACG2021	3	14	B	
+22	Female	White	ACG2021	3	14	A	
+24	Female	Black/African American	ACG2021	3	14	B	
+17	Female	White	ACG2021	3	8	A	
+36	Male	White	ACG2021	3	14	F	
+23	Male	White	ACG2021	3	14	D	
+22	Male	White	ACG2021	3	14	A	
+19	Female	White	ACG2021	3	8	A	
+20	Male	Black/African American	ACG2021	1	14	C	
+37	Female	Hispanic/Latino	ACG2021	1	14	A	
+26	Female	Hispanic/Latino	ACG2021	1	14	C	
+24	Female	Black/African American	ACG2021	1	8	C	
+47	Male	Hispanic/Latino	ACG2021	1	14	W	
+31	Female	Hispanic/Latino	ACG2021	1	14	B	
+22	Female	White	ACG2021	1	14	B	
+31	Female	White	ACG2021	1	8	A	
+25	Female	White	ACG2021	1	14	B	
+39	Female	White	ACG2021	1	14	A	
+48	Female	Black/African American	ACG2021	1	14	F	
+61	Male	White	ACG2021	1	8	W	
+27	Female	White	ACG2021	1	14	F	
+32	Male	White	ACG2021	1	14	B	
+32	Female	White	ACG2021	1	14	F	
+35	Male	White	ACG2021	1	8	B	
+49	Female	Black/African American	ACG2021	1	14	C	
+22	Female	White	ACG2021	3	14	B	
+22	Female	White	ACG2021	3	14	A	
+22	Male	Not Specified	ACG2021	3	8	F	
+21	Unknown	Multi-Ethnic	ACG2021	3	14	B	
+24	Male	White	ACG2021	3	14	A	
+22	Male	White	ACG2021	3	14	A	
+22	Female	Multi-Ethnic	ACG2021	3	8	A	
+21	Male	White	ACG2021	3	14	A	
+20	Female	White	ACG2021	3	14	A	
+31	Male	Hispanic/Latino	ACG2021	1	14	A	
+25	Male	White	ACG2021	1	8	C	
+32	Female	Hispanic/Latino	ACG2021	1	14	A	
+44	Female	Hispanic/Latino	ACG2021	1	14	A	
+45	Female	White	ACG2021	1	14	B	
+32	Female	White	ACG2021	1	8	A	
+23	Female	Black/African American	ACG2021	1	14	D	
+31	Male	White	ACG2021	1	14	A	
+35	Female	White	ACG2021	1	14	A	
+19	Male	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	14	B	
+22	Female	Hispanic/Latino	ACG2021	1	14	A	
+43	Male	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	8	A	
+20	Male	Not Specified	ACG2021	1	14	A	
+23	Male	White	ACG2021	1	14	C	
+22	Female	White	ACG2021	1	14	F	
+35	Male	White	ACG2021	1	8	W	
+23	Male	Hispanic/Latino	ACG2021	1	14	W	
+30	Female	White	ACG2021	1	14	W	
+25	Male	White	ACG2021	1	14	WF	
+21	Male	Hispanic/Latino	ACG2021	1	8	A	
+24	Male	White	ACG2021	1	14	A	
+42	Male	Black/African American	ACG2021	1	14	C	
+30	Female	Hispanic/Latino	ACG2021	1	14	F	
+31	Female	Black/African American	ACG2021	1	8	B	
+27	Female	White	ACG2021	1	14	F	
+27	Female	White	ACG2021	1	14	W	
+26	Female	White	ACG2021	1	14	B	
+49	Female	White	ACG2021	1	8	A	
+22	Female	Black/African American	ACG2021	1	14	B	
+29	Female	Hispanic/Latino	ACG2021	1	14	A	
+29	Female	Hispanic/Latino	ACG2021	1	14	C	
+49	Female	Black/African American	ACG2021	1	8	W	
+47	Male	White	ACG2021	1	14	WF	
+42	Female	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	14	W	
+23	Male	White	ACG2021	1	8	A	
+25	Female	Hispanic/Latino	ACG2021	1	14	A	
+47	Female	Hispanic/Latino	ACG2021	1	14	W	
+41	Female	Black/African American	ACG2021	1	14	F	
+33	Female	White	ACG2021	1	8	B	
+34	Female	White	ACG2021	1	14	A	
+27	Male	White	ACG2021	1	14	A	
+35	Female	Hispanic/Latino	ACG2021	1	14	A	
+43	Male	Black/African American	ACG2021	1	8	A	
+25	Female	Black/African American	ACG2021	1	14	W	
+28	Female	White	ACG2021	1	14	W	
+33	Female	White	ACG2021	1	14	D	
+21	Male	Hispanic/Latino	ACG2021	1	8	B	
+26	Male	White	ACG2021	1	14	B	
+47	Female	White	ACG2021	1	14	B	
+26	Female	Asian	ACG2021	1	14	B	
+25	Female	Hispanic/Latino	ACG2021	1	8	B	
+20	Female	White	ACG2021	1	14	WF	
+20	Male	White	ACG2021	1	14	B	
+51	Male	White	ACG2021	1	14	A	
+45	Female	White	ACG2021	1	8	C	
+23	Female	White	ACG2021	1	14	WF	
+31	Female	White	ACG2021	1	14	C	
+22	Male	Black/African American	ACG2021	1	14	WF	
+22	Male	Asian	ACG2021	1	8	D	
+41	Male	White	ACG2021	1	14	F	
+30	Male	White	ACG2021	1	14	A	
+29	Male	Hispanic/Latino	ACG2021	1	14	W	
+44	Female	White	ACG2021	1	8	W	
+49	Female	White	ACG2021	1	14	D	
+24	Female	White	ACG2021	1	14	C	
+31	Male	White	ACG2021	2	14	B	
+20	Male	White	ACG2021	2	8	C	
+38	Male	White	ACG2021	2	14	C	
+20	Male	Hispanic/Latino	ACG2021	2	14	B	
+23	Male	White	ACG2021	2	14	B	
+21	Male	White	ACG2021	2	8	A	
+22	Male	White	ACG2021	2	14	B	
+26	Female	White	ACG2021	2	14	B	
+51	Female	White	ACG2021	2	14	B	
+21	Female	Not Specified	ACG2021	2	8	A	
+23	Female	Black/African American	ACG2021	2	14	D	
+50	Male	White	ACG2021	2	14	WF	
+21	Male	Black/African American	ACG2021	2	14	F	
+22	Male	White	ACG2021	2	8	WF	
+22	Female	White	ACG2021	2	14	C	
+31	Male	White	ACG2021	2	14	A	
+34	Female	Hispanic/Latino	ACG2021	2	14	A	
+23	Female	Hispanic/Latino	ACG2021	2	8	W	
+22	Male	White	ACG2021	2	14	B	
+22	Female	White	ACG2021	2	14	D	
+33	Female	White	ACG2021	2	14	B	
+57	Female	White	ACG2021	2	8	W	
+26	Female	Black/African American	ACG2021	2	14	A	
+25	Female	Black/African American	ACG2021	2	14	F	
+44	Female	Black/African American	ACG2021	2	14	D	
+44	Male	Black/African American	ACG2021	2	8	D	
+25	Male	Hispanic/Latino	ACG2021	2	14	C	
+28	Male	White	ACG2021	2	14	W	
+73	Male	Hispanic/Latino	ACG2021	2	14	W	
+55	Female	Black/African American	ACG2021	2	8	B	
+42	Male	White	ACG2021	2	14	WF	
+22	Female	White	ACG2021	1	14	A	
+23	Female	White	ACG2021	1	14	A	
+29	Male	White	ACG2021	1	8	A	
+20	Male	Hispanic/Latino	ACG2021	1	14	A	
+24	Female	White	ACG2021	1	14	A	
+24	Female	White	ACG2021	1	14	F	
+29	Female	White	ACG2021	1	8	A	
+28	Female	White	ACG2021	1	14	WF	
+22	Male	White	ACG2021	1	14	B	
+29	Female	White	ACG2021	1	14	WF	
+27	Female	Hispanic/Latino	ACG2021	1	8	B	
+23	Female	White	ACG2021	1	14	B	
+31	Female	White	ACG2021	1	14	A	
+33	Male	White	ACG2021	1	14	A	
+29	Male	Asian	ACG2021	1	8	B	
+24	Female	White	ACG2021	1	14	C	
+28	Female	White	ACG2021	1	14	WF	
+25	Female	White	ACG2021	1	14	C	
+26	Female	White	ACG2021	1	8	B	
+45	Female	White	ACG2021	1	14	A	
+35	Male	White	ACG2021	1	14	A	
+42	Female	Black/African American	ACG2021	1	14	B	
+47	Female	Black/African American	ACG2021	1	8	WF	
+36	Male	Black/African American	ACG2021	1	14	A	
+28	Female	White	ACG2021	1	14	WF	
+33	Male	White	ACG2021	1	14	F	
+31	Female	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	14	C	
+25	Female	White	ACG2021	1	14	WF	
+44	Female	White	ACG2021	1	14	F	
+25	Male	White	ACG2021	1	8	WF	
+37	Female	White	ACG2021	1	14	W	
+45	Unknown	Black/African American	ACG2021	1	14	WF	
+31	Unknown	Black/African American	ACG2021	3	14	D	
+22	Male	White	ACG2021	3	8	A	
+19	Female	Asian	ACG2021	3	14	C	
+28	Male	White	ACG2021	3	14	F	
+28	Female	White	ACG2021	3	14	W	
+37	Male	White	ACG2021	3	8	F	
+46	Male	White	ACG2021	3	14	W	
+22	Male	White	ACG2021	3	14	B	
+34	Male	Black/African American	ACG2021	3	14	F	
+30	Female	White	ACG2021	3	8	A	
+26	Female	Hispanic/Latino	ACG2021	3	14	WF	
+21	Male	White	ACG2021	3	14	B	
+21	Female	Multi-Ethnic	ACG2021	3	14	B	
+29	Male	Asian	ACG2021	3	8	B	
+21	Female	Hispanic/Latino	ACG2021	3	14	A	
+23	Female	Multi-Ethnic	ACG2021	3	14	C	
+28	Male	White	ACG2021	3	14	W	
+36	Female	White	ACG2021	3	8	A	
+25	Female	Asian	ACG2021	3	14	A	
+22	Female	White	ACG2021	3	14	A	
+19	Female	White	ACG2021	3	14	A	
+21	Male	White	ACG2021	3	8	C	
+23	Male	White	ACG2021	3	14	A	
+22	Male	Hispanic/Latino	ACG2021	3	14	A	
+24	Male	White	ACG2021	3	14	A	
+23	Female	Multi-Ethnic	ACG2021	3	8	A	
+19	Female	Multi-Ethnic	ACG2021	3	14	A	
+19	Male	White	ACG2021	3	14	A	
+27	Male	White	ACG2021	3	14	F	
+26	Male	Hispanic/Latino	ACG2021	3	8	C	
+21	Female	Hispanic/Latino	ACG2021	3	14	A	
+23	Male	White	ACG2021	3	14	A	
+23	Unknown	White	ACG2021	3	14	W	
+23	Male	Hispanic/Latino	ACG2021	3	8	A	
+26	Female	White	ACG2021	1	14	A	
+31	Male	White	ACG2021	3	14	C	
+23	Male	White	ACG2021	3	14	A	
+25	Male	White	ACG2021	3	8	D	
+22	Female	White	ACG2021	3	14	WF	
+22	Male	Hispanic/Latino	ACG2021	3	14	B	
+53	Male	White	ACG2021	3	14	B	
+30	Female	Hispanic/Latino	ACG2021	3	8	A	
+30	Male	White	ACG2021	3	14	A	
+55	Female	White	ACG2021	3	14	A	
+39	Male	Hispanic/Latino	ACG2021	3	14	A	
+22	Male	Hispanic/Latino	ACG2021	3	8	B	
+24	Male	White	ACG2021	3	14	B	
+22	Female	White	ACG2021	3	14	B	
+20	Male	White	ACG2021	3	14	B	
+29	Female	Black/African American	ACG2021	3	8	WF	
+23	Female	Hispanic/Latino	ACG2021	3	14	A	
+28	Male	White	ACG2021	3	14	B	
+51	Male	Black/African American	ACG2021	3	14	B	
+22	Male	White	ACG2021	3	8	F	
+22	Male	Asian	ACG2021	3	14	A	
+50	Female	White	ACG2021	3	14	A	
+23	Male	Hispanic/Latino	ACG2021	3	14	B	
+21	Female	White	ACG2021	3	8	W	
+19	Male	White	ACG2021	3	14	C	
+26	Female	White	ACG2021	3	14	C	
+18	Male	White	ACG2021	3	14	D	
+26	Female	Hispanic/Latino	ACG2021	3	8	B	
+30	Male	White	ACG2021	3	14	A	
+21	Female	White	ACG2021	3	14	F	
+19	Female	White	ACG2021	3	14	A	
+42	Male	White	ACG2021	3	8	F	
+21	Male	White	ACG2021	3	14	B	
+21	Male	Black/African American	ACG2021	3	14	B	
+32	Male	American Indian/Alaska Native	ACG2021	1	14	C	
+22	Male	White	ACG2021	1	8	B	
+25	Female	White	ACG2021	1	14	C	
+23	Male	White	ACG2021	1	14	C	
+25	Male	Hispanic/Latino	ACG2021	1	14	F	
+21	Male	White	ACG2021	1	8	C	
+32	Female	White	ACG2021	1	14	B	
+28	Male	Hispanic/Latino	ACG2021	1	14	C	
+48	Female	White	ACG2021	1	14	B	
+21	Male	White	ACG2021	1	8	B	
+23	Female	White	ACG2021	1	14	A	
+37	Female	White	ACG2021	1	14	A	
+25	Male	Hispanic/Latino	ACG2021	1	14	B	
+58	Female	White	ACG2021	1	8	W	
+23	Male	Hispanic/Latino	ACG2021	1	14	B	
+23	Female	Multi-Ethnic	ACG2021	1	14	W	
+31	Male	White	ACG2021	1	14	B	
+29	Female	White	ACG2021	1	8	B	
+27	Male	Hispanic/Latino	ACG2021	1	14	W	
+22	Female	White	ACG2021	1	14	B	
+36	Male	White	ACG2021	1	14	W	
+35	Female	Black/African American	ACG2021	1	8	A	
+43	Female	Not Specified	ACG2021	1	14	C	
+36	Female	White	ACG2021	1	14	A	
+38	Female	White	ACG2021	1	14	C	
+32	Unknown	Not Specified	ACG2021	1	8	W	
+24	Male	White	ACG2021	1	14	B	
+23	Male	White	ACG2021	1	14	W	
+21	Male	White	ACG2021	1	14	A	
+27	Male	Black/African American	ACG2021	1	8	W	
+45	Female	Black/African American	ACG2021	1	14	A	
+69	Male	White	ACG2021	3	14	B	
+19	Female	Hispanic/Latino	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	8	B	
+20	Female	Hispanic/Latino	ACG2021	1	14	B	
+19	Male	White	ACG2021	1	14	A	
+21	Male	Black/African American	ACG2021	1	14	B	
+20	Female	Hispanic/Latino	ACG2021	1	8	A	
+20	Male	White	ACG2021	1	14	A	
+22	Female	White	ACG2021	1	14	A	
+19	Female	White	ACG2021	1	14	A	
+20	Male	White	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	14	A	
+20	Female	Not Specified	ACG2021	1	14	B	
+33	Female	White	ACG2021	1	14	A	
+37	Male	White	ACG2021	1	8	C	
+20	Female	White	ACG2021	1	14	B	
+20	Female	White	ACG2021	1	14	A	
+22	Male	White	ACG2021	1	14	A	
+19	Male	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	14	A	
+19	Female	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	14	A	
+20	Male	Asian	ACG2021	1	14	A	
+19	Male	Multi-Ethnic	ACG2021	1	8	A	
+20	Male	Asian	ACG2021	1	14	A	
+44	Female	White	ACG2021	1	14	B	
+23	Female	White	ACG2021	1	14	A	
+29	Female	Black/African American	ACG2021	1	8	C	
+35	Male	White	ACG2021	1	14	W	
+48	Female	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	14	B	
+23	Female	Black/African American	ACG2021	3	8	C	
+24	Female	White	ACG2021	3	14	A	
+34	Female	Black/African American	ACG2021	3	14	B	
+19	Male	Hispanic/Latino	ACG2021	3	14	B	
+25	Female	White	ACG2021	3	8	A	
+20	Female	White	ACG2021	3	14	B	
+49	Female	White	ACG2021	3	14	B	
+34	Male	White	ACG2021	3	14	A	
+24	Male	Black/African American	ACG2021	3	8	B	
+30	Female	White	ACG2021	3	14	A	
+19	Female	White	ACG2021	3	14	A	
+46	Female	Hispanic/Latino	ACG2021	3	14	B	
+54	Male	Black/African American	ACG2021	3	8	A	
+64	Female	White	ACG2021	3	14	B	
+19	Female	White	ACG2021	3	14	A	
+21	Male	White	ACG2021	3	14	C	
+43	Female	White	ACG2021	3	8	B	
+40	Female	White	ACG2021	3	14	A	
+20	Female	White	ACG2021	3	14	B	
+39	Female	White	ACG2021	3	14	A	
+20	Female	White	ACG2021	3	8	D	
+23	Female	Hispanic/Latino	ACG2021	3	14	A	
+18	Male	White	ACG2021	3	14	A	
+25	Female	Hispanic/Latino	ACG2021	3	14	C	
+32	Female	White	ACG2021	3	8	C	
+25	Female	Hispanic/Latino	ACG2021	3	14	A	
+39	Female	Black/African American	ACG2021	3	14	WF	
+40	Male	White	ACG2021	3	14	B	
+27	Female	White	ACG2021	3	8	B	
+25	Female	Hispanic/Latino	ACG2021	3	14	A	
+25	Male	White	ACG2021	3	14	C	
+41	Male	White	ACG2021	3	14	B	
+40	Female	White	ACG2021	3	8	A	
+40	Male	Hispanic/Latino	ACG2021	3	14	W	
+28	Female	White	ACG2021	3	14	A	
+25	Female	White	ACG2021	3	14	C	
+49	Male	Hispanic/Latino	ACG2021	3	8	B	
+21	Female	White	ACG2021	3	14	C	
+25	Male	White	ACG2021	3	14	W	
+22	Female	Hispanic/Latino	ACG2021	3	14	F	
+22	Male	White	ACG2021	3	8	C	
+29	Male	White	ACG2021	3	14	B	
+29	Female	White	ACG2021	3	14	A	
+63	Male	White	ACG2021	3	14	C	
+57	Female	White	ACG2021	3	8	A	
+23	Male	Hispanic/Latino	ACG2021	3	14	C	
+22	Male	White	ACG2021	3	14	C	
+20	Male	White	ACG2021	3	14	F	
+20	Male	American Indian/Alaska Native	ACG2021	3	8	C	
+51	Female	White	ACG2021	3	14	A	
+23	Female	White	ACG2021	3	14	C	
+21	Male	White	ACG2021	3	14	W	
+28	Male	White	ACG2021	3	8	WF	
+33	Male	Black/African American	ACG2021	3	14	W	
+32	Female	Hispanic/Latino	ACG2021	3	14	B	
+54	Female	Black/African American	ACG2021	3	14	C	
+45	Female	Black/African American	ACG2021	3	8	B	
+32	Male	Black/African American	ACG2021	3	14	A	
+21	Male	Asian	ACG2021	3	14	B	
+20	Male	Black/African American	ACG2021	3	14	B	
+21	Female	Black/African American	ACG2021	3	8	B	
+28	Female	Hispanic/Latino	ACG2021	3	14	C	
+33	Male	Black/African American	ACG2021	3	14	F	
+38	Female	White	ACG2021	3	14	A	
+21	Male	White	ACG2021	3	8	C	
+43	Female	Black/African American	ACG2021	1	14	C	
+52	Female	White	ACG2021	1	14	A	
+41	Male	Asian	ACG2021	1	14	A	
+41	Female	White	ACG2021	1	8	C	
+23	Female	White	ACG2021	1	14	C	
+33	Female	Hispanic/Latino	ACG2021	1	14	B	
+38	Unknown	White	ACG2021	1	14	A	
+22	Female	Asian	ACG2021	1	8	D	
+32	Female	Hispanic/Latino	ACG2021	1	14	B	
+22	Male	Hispanic/Latino	ACG2021	1	14	B	
+30	Female	Black/African American	ACG2021	1	14	D	
+32	Male	White	ACG2021	1	8	A	
+27	Female	Multi-Ethnic	ACG2021	1	14	B	
+28	Female	White	ACG2021	1	14	F	
+46	Female	Black/African American	ACG2021	1	14	C	
+33	Female	White	ACG2021	1	8	A	
+41	Female	Black/African American	ACG2021	1	14	C	
+25	Male	Hispanic/Latino	ACG2021	1	14	B	
+27	Female	White	ACG2021	1	14	F	
+30	Female	Not Specified	ACG2021	1	8	C	
+24	Male	Asian	ACG2021	1	14	C	
+24	Female	Black/African American	ACG2021	1	14	F	
+22	Female	White	ACG2021	1	14	B	
+25	Male	White	ACG2021	1	8	A	
+22	Male	Asian	ACG2021	1	14	D	
+23	Female	White	ACG2021	1	14	C	
+28	Male	Hispanic/Latino	ACG2021	1	14	A	
+63	Female	White	ACG2021	3	8	C	
+39	Female	White	ACG2021	3	14	A	
+23	Female	Black/African American	ACG2021	3	14	WF	
+29	Female	Black/African American	ACG2021	3	14	C	
+26	Male	White	ACG2021	3	8	B	
+47	Female	White	ACG2021	3	14	A	
+23	Female	Asian	ACG2021	3	14	A	
+53	Male	Black/African American	ACG2021	3	14	WF	
+32	Female	Black/African American	ACG2021	3	8	W	
+22	Male	White	ACG2021	3	14	A	
+50	Male	White	ACG2021	3	14	B	
+21	Female	Multi-Ethnic	ACG2021	3	14	A	
+45	Female	White	ACG2021	3	8	B	
+30	Female	White	ACG2021	3	14	C	
+38	Male	Hispanic/Latino	ACG2021	3	14	C	
+20	Male	Asian	ACG2021	3	14	A	
+25	Male	White	ACG2021	3	8	B	
+30	Male	White	ACG2021	3	14	B	
+23	Female	White	ACG2021	3	14	A	
+22	Male	Black/African American	ACG2021	3	14	B	
+37	Male	White	ACG2021	3	8	A	
+36	Female	Hispanic/Latino	ACG2021	3	14	A	
+21	Male	White	ACG2021	3	14	WF	
+22	Male	White	ACG2021	1	14	A	
+42	Unknown	White	ACG2021	1	8	B	
+26	Female	White	ACG2021	1	14	A	
+23	Male	White	ACG2021	1	14	B	
+21	Female	Asian	ACG2021	1	14	A	
+30	Female	White	ACG2021	3	8	C	
+19	Male	White	ACG2021	3	14	C	
+36	Male	White	ACG2021	3	14	C	
+25	Male	White	ACG2021	3	14	F	
+22	Male	White	ACG2021	3	8	A	
+29	Male	Black/African American	ACG2021	3	14	C	
+36	Female	White	ACG2021	3	14	B	
+20	Male	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	14	A	
+21	Male	White	ACG2021	1	14	A	
+21	Male	White	ACG2021	1	14	A	
+20	Unknown	White	ACG2021	1	8	A	
+20	Male	White	ACG2021	1	14	A	
+19	Male	White	ACG2021	1	14	A	
+19	Male	White	ACG2021	1	14	B	
+29	Male	Not Specified	ACG2021	1	8	C	
+19	Female	White	ACG2021	1	14	A	
+23	Female	Black/African American	ACG2021	1	14	D	
+27	Female	White	ACG2021	1	14	A	
+34	Female	White	ACG2021	1	8	B	
+31	Male	White	ACG2021	1	14	W	
+45	Female	White	ACG2021	1	14	A	
+29	Female	Black/African American	ACG2021	1	14	B	
+29	Male	Hispanic/Latino	ACG2021	1	8	A	
+23	Female	White	ACG2021	1	14	B	
+24	Female	White	ACG2021	1	14	A	
+23	Male	White	ACG2021	1	14	B	
+28	Female	White	ACG2021	1	8	C	
+24	Male	White	ACG2021	1	14	A	
+22	Female	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	14	A	
+22	Male	White	ACG2021	1	8	B	
+53	Male	White	ACG2021	1	14	A	
+23	Unknown	Asian	ACG2021	1	14	A	
+36	Male	Multi-Ethnic	ACG2021	1	14	A	
+33	Male	White	ACG2021	1	8	A	
+35	Male	White	ACG2021	1	14	A	
+21	Female	American Indian/Alaska Native	ACG2021	1	14	C	
+24	Female	Hispanic/Latino	ACG2021	1	14	C	
+35	Female	Black/African American	ACG2021	1	8	D	
+20	Male	White	ACG2021	1	14	A	
+30	Male	Multi-Ethnic	ACG2021	1	14	B	
+47	Female	Hispanic/Latino	ACG2021	1	14	D	
+23	Male	Black/African American	ACG2021	1	8	B	
+20	Female	Asian	ACG2021	1	14	A	
+26	Female	White	ACG2021	1	14	C	
+27	Female	Not Specified	ACG2021	1	14	B	
+40	Male	White	ACG2021	1	8	A	
+38	Female	White	ACG2021	1	14	A	
+30	Male	Black/African American	ACG2021	1	14	A	
+31	Female	White	ACG2021	1	14	A	
+27	Male	White	ACG2021	1	8	B	
+35	Female	Black/African American	ACG2021	1	14	W	
+21	Male	White	ACG2021	1	14	F	
+36	Unknown	Not Specified	ACG2021	1	14	C	
+20	Male	White	ACG2021	1	8	B	
+19	Unknown	Hispanic/Latino	ACG2021	1	14	B	
+21	Male	White	ACG2021	1	14	A	
+20	Female	Hispanic/Latino	ACG2021	1	14	A	
+19	Male	White	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	14	B	
+20	Unknown	White	ACG2021	1	14	A	
+20	Female	Hispanic/Latino	ACG2021	1	14	B	
+22	Male	Asian	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	14	A	
+21	Male	White	ACG2021	1	14	A	
+36	Male	Black/African American	ACG2021	1	14	C	
+31	Female	White	ACG2021	1	8	C	
+32	Female	White	ACG2021	1	14	A	
+23	Female	White	ACG2021	1	14	C	
+24	Male	White	ACG2021	1	14	A	
+31	Female	White	ACG2021	1	8	C	
+21	Male	Hispanic/Latino	ACG2021	1	14	B	
+31	Female	White	ACG2021	1	14	C	
+24	Male	White	ACG2021	1	14	B	
+35	Female	Black/African American	ACG2021	1	8	C	
+23	Female	White	ACG2021	1	14	WF	
+35	Male	Black/African American	ACG2021	1	14	W	
+23	Male	Hispanic/Latino	ACG2021	1	14	W	
+36	Female	White	ACG2021	1	8	A	
+60	Female	Black/African American	ACG2021	1	14	C	
+22	Female	White	ACG2021	1	14	A	
+38	Male	White	ACG2021	1	14	C	
+21	Female	White	ACG2021	2	8	A	
+37	Female	Black/African American	ACG2021	1	14	C	
+29	Female	Hispanic/Latino	ACG2021	1	14	A	
+42	Female	Black/African American	ACG2021	1	14	B	
+36	Female	White	ACG2021	1	8	A	
+26	Male	White	ACG2021	1	14	C	
+29	Female	Hispanic/Latino	ACG2021	1	14	C	
+28	Male	White	ACG2021	1	14	C	
+23	Male	Hispanic/Latino	ACG2021	2	8	B	
+21	Male	White	ACG2021	2	14	A	
+22	Female	White	ACG2021	2	14	B	
+23	Female	White	ACG2021	2	14	B	
+33	Female	Not Specified	ACG2021	2	8	A	
+22	Female	White	ACG2021	2	14	A	
+32	Female	Not Specified	ACG2021	2	14	B	
+33	Female	White	ACG2021	1	14	B	
+54	Male	White	ACG2021	1	8	A	
+44	Female	Black/African American	ACG2021	1	14	B	
+44	Female	White	ACG2021	1	14	B	
+23	Female	White	ACG2021	1	14	B	
+44	Female	Black/African American	ACG2021	1	8	A	
+51	Female	White	ACG2021	1	14	A	
+62	Female	White	ACG2021	1	14	C	
+22	Female	Hispanic/Latino	ACG2021	1	14	C	
+23	Female	White	ACG2021	1	8	B	
+47	Female	White	ACG2021	1	14	A	
+24	Male	White	ACG2021	2	14	B	
+22	Male	American Indian/Alaska Native	ACG2021	2	14	W	
+20	Female	White	ACG2021	2	8	B	
+20	Male	White	ACG2021	2	14	A	
+21	Male	Hispanic/Latino	ACG2021	2	14	D	
+21	Female	White	ACG2021	2	14	A	
+22	Female	Hispanic/Latino	ACG2021	2	8	A	
+21	Female	Asian	ACG2021	2	14	A	
+23	Male	White	ACG2021	2	14	A	
+24	Male	Not Specified	ACG2021	2	14	B	
+21	Female	White	ACG2021	2	8	C	
+25	Male	Hispanic/Latino	ACG2021	2	14	A	
+22	Male	Hispanic/Latino	ACG2021	2	14	A	
+27	Female	Hispanic/Latino	ACG2021	1	14	A	
+58	Female	White	ACG2021	1	8	A	
+36	Female	White	ACG2021	1	14	A	
+24	Female	White	ACG2021	1	14	B	
+40	Female	Hispanic/Latino	ACG2021	1	14	A	
+27	Female	White	ACG2021	1	8	D	
+21	Male	White	ACG2021	1	14	A	
+34	Female	White	ACG2021	1	14	C	
+47	Female	White	ACG2021	1	14	WF	
+48	Male	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	14	W	
+33	Female	White	ACG2021	1	14	B	
+26	Female	White	ACG2021	1	14	B	
+35	Female	White	ACG2021	1	8	B	
+26	Female	Multi-Ethnic	ACG2021	1	14	A	
+27	Female	Hispanic/Latino	ACG2021	1	14	B	
+32	Female	White	ACG2021	1	14	A	
+27	Female	Black/African American	ACG2021	1	8	B	
+28	Female	White	ACG2021	1	14	A	
+22	Female	Black/African American	ACG2021	1	14	B	
+32	Male	Hispanic/Latino	ACG2021	1	14	A	
+22	Male	Black/African American	ACG2021	1	8	W	
+21	Male	White	ACG2021	1	14	F	
+22	Male	White	ACG2021	1	14	A	
+30	Female	Black/African American	ACG2021	1	14	W	
+30	Male	White	ACG2021	1	8	WF	
+25	Female	Not Specified	ACG2021	1	14	B	
+26	Female	White	ACG2021	1	14	W	
+24	Female	Black/African American	ACG2021	1	14	WF	
+38	Female	Hispanic/Latino	ACG2021	1	8	W	
+28	Female	White	ACG2021	1	14	A	
+19	Male	White	ACG2021	2	14	A	
+18	Male	White	ACG2021	2	14	A	
+48	Female	Black/African American	ACG2021	2	8	B	
+23	Male	White	ACG2021	2	14	A	
+22	Male	Hispanic/Latino	ACG2021	2	14	A	
+27	Male	White	ACG2021	2	14	B	
+25	Male	Hispanic/Latino	ACG2021	2	8	A	
+26	Male	White	ACG2021	2	14	C	
+30	Female	White	ACG2021	1	14	A	
+22	Female	Hispanic/Latino	ACG2021	2	14	C	
+52	Female	White	ACG2021	2	8	A	
+38	Male	White	ACG2021	2	14	A	
+23	Female	Multi-Ethnic	ACG2021	2	14	F	
+58	Male	White	ACG2021	1	14	A	
+56	Female	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	2	14	A	
+20	Female	White	ACG2021	2	14	A	
+34	Male	White	ACG2021	1	14	W	
+22	Female	White	ACG2021	2	8	A	
+47	Female	White	ACG2021	2	14	F	
+20	Female	Black/African American	ACG2021	2	14	A	
+19	Female	White	ACG2021	2	14	A	
+20	Male	White	ACG2021	2	8	A	
+22	Female	Asian	ACG2021	2	14	C	
+33	Male	Black/African American	ACG2021	2	14	W	
+21	Female	White	ACG2021	2	14	C	
+48	Male	White	ACG2021	2	8	B	
+45	Female	Black/African American	ACG2021	3	14	W	
+20	Male	White	ACG2021	3	14	B	
+37	Female	Hispanic/Latino	ACG2021	3	14	B	
+20	Male	White	ACG2021	3	8	A	
+27	Male	White	ACG2021	3	14	A	
+20	Male	White	ACG2021	3	14	B	
+34	Female	White	ACG2021	3	14	W	
+27	Female	Multi-Ethnic	ACG2021	3	8	A	
+28	Female	Black/African American	ACG2021	3	14	B	
+29	Unknown	Black/African American	ACG2021	3	14	B	
+25	Female	Hispanic/Latino	ACG2021	3	14	A	
+25	Male	White	ACG2021	2	8	W	
+24	Female	Asian	ACG2021	2	14	C	
+20	Female	Black/African American	ACG2021	2	14	B	
+21	Male	White	ACG2021	2	14	C	
+27	Male	White	ACG2021	3	8	B	
+23	Female	Asian	ACG2021	3	14	A	
+20	Male	White	ACG2021	3	14	D	
+25	Unknown	Black/African American	ACG2021	3	14	B	
+27	Female	Black/African American	ACG2021	3	8	A	
+24	Male	White	ACG2021	2	14	WF	
+28	Female	Hispanic/Latino	ACG2021	2	14	B	
+23	Female	White	ACG2021	2	14	C	
+21	Male	White	ACG2021	2	8	C	
+42	Male	Black/African American	ACG2021	3	14	F	
+31	Female	White	ACG2021	3	14	A	
+28	Male	Hispanic/Latino	ACG2021	2	14	W	
+30	Male	White	ACG2021	2	8	A	
+54	Male	White	ACG2021	2	14	B	
+48	Male	Black/African American	ACG2021	2	14	A	
+24	Male	Hispanic/Latino	ACG2021	3	14	A	
+31	Female	White	ACG2021	3	8	A	
+30	Female	White	ACG2021	3	14	A	
+22	Female	White	ACG2021	3	14	D	
+53	Female	Black/African American	ACG2021	3	14	W	
+28	Male	White	ACG2021	3	8	A	
+20	Female	White	ACG2021	2	14	A	
+19	Female	White	ACG2021	2	14	A	
+21	Female	White	ACG2021	2	14	B	
+21	Unknown	Not Specified	ACG2021	2	8	B	
+20	Female	White	ACG2021	2	14	A	
+20	Male	White	ACG2021	2	14	A	
+20	Male	White	ACG2021	3	14	A	
+36	Female	Black/African American	ACG2021	3	8	WF	
+21	Male	White	ACG2021	1	14	B	
+20	Female	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	14	C	
+20	Female	White	ACG2021	1	8	A	
+21	Male	Black/African American	ACG2021	1	14	A	
+21	Male	White	ACG2021	1	14	A	
+22	Female	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	8	A	
+20	Male	White	ACG2021	1	14	C	
+20	Female	Asian	ACG2021	1	14	A	
+21	Male	White	ACG2021	1	14	A	
+19	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	14	A	
+20	Male	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	14	B	
+19	Female	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	14	C	
+20	Female	White	ACG2021	1	14	A	
+20	Male	White	ACG2021	1	14	A	
+22	Female	White	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	14	A	
+22	Female	White	ACG2021	1	14	C	
+24	Female	Black/African American	ACG2021	1	14	A	
+36	Female	Not Specified	ACG2021	1	8	A	
+24	Male	Black/African American	ACG2021	1	14	W	
+25	Male	Black/African American	ACG2021	1	14	B	
+40	Female	White	ACG2021	1	14	W	
+50	Female	Black/African American	ACG2021	1	8	W	
+24	Female	Asian	ACG2021	1	14	A	
+43	Female	White	ACG2021	1	14	A	
+32	Male	White	ACG2021	2	14	F	
+21	Male	Hispanic/Latino	ACG2021	1	8	B	
+41	Male	White	ACG2021	1	14	A	
+18	Male	Asian	ACG2021	3	14	A	
+21	Male	White	ACG2021	3	14	A	
+18	Female	White	ACG2021	3	8	A	
+19	Male	White	ACG2021	1	14	B	
+28	Female	Multi-Ethnic	ACG2021	1	14	B	
+21	Female	Black/African American	ACG2021	1	14	C	
+21	Male	White	ACG2021	1	8	B	
+20	Male	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	14	A	
+26	Male	White	ACG2021	1	14	W	
+20	Female	White	ACG2021	1	8	WF	
+20	Unknown	Hispanic/Latino	ACG2021	1	14	C	
+32	Female	White	ACG2021	1	14	C	
+27	Male	White	ACG2021	1	14	C	
+44	Male	White	ACG2021	1	8	A	
+26	Female	White	ACG2021	1	14	A	
+22	Male	White	ACG2021	1	14	F	
+26	Female	Multi-Ethnic	ACG2021	1	14	C	
+33	Male	White	ACG2021	1	8	W	
+32	Male	Hispanic/Latino	ACG2021	1	14	C	
+26	Female	White	ACG2021	1	14	A	
+35	Male	American Indian/Alaska Native	ACG2021	1	14	W	
+24	Female	Hispanic/Latino	ACG2021	1	8	B	
+31	Female	White	ACG2021	1	14	A	
+25	Unknown	White	ACG2021	1	14	WF	
+23	Female	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	14	A	
+20	Male	White	ACG2021	1	14	A	
+20	Male	White	ACG2021	1	14	A	
+20	Male	White	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	14	A	
+25	Female	White	ACG2021	1	14	WF	
+24	Male	Hispanic/Latino	ACG2021	1	8	A	
+26	Female	White	ACG2021	1	14	A	
+29	Male	Black/African American	ACG2021	1	14	W	
+37	Female	White	ACG2021	1	14	A	
+35	Male	White	ACG2021	1	8	A	
+24	Female	Not Specified	ACG2021	3	14	B	
+22	Female	White	ACG2021	1	14	A	
+29	Male	White	ACG2021	1	14	B	
+26	Male	White	ACG2021	3	8	W	
+27	Female	Hispanic/Latino	ACG2021	3	14	A	
+31	Female	White	ACG2021	1	14	C	
+21	Male	White	ACG2021	3	14	A	
+49	Female	White	ACG2021	1	8	A	
+24	Male	White	ACG2021	1	14	B	
+22	Female	White	ACG2021	1	14	B	
+20	Female	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	8	A	
+20	Male	White	ACG2021	1	14	A	
+21	Male	White	ACG2021	1	14	A	
+22	Female	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	8	A	
+29	Female	Black/African American	ACG2021	3	14	F	
+33	Male	Asian	ACG2021	1	14	F	
+27	Female	White	ACG2021	1	14	F	
+33	Male	White	ACG2021	3	8	B	
+21	Male	White	ACG2021	1	14	B	
+39	Male	Black/African American	ACG2021	3	14	F	
+33	Female	White	ACG2021	3	14	C	
+31	Female	Hispanic/Latino	ACG2021	1	8	F	
+42	Female	White	ACG2021	1	14	A	
+28	Female	White	ACG2021	1	14	A	
+21	Female	Black/African American	ACG2021	3	14	B	
+34	Female	White	ACG2021	1	8	A	
+33	Female	Multi-Ethnic	ACG2021	1	14	A	
+31	Unknown	White	ACG2021	1	14	F	
+40	Female	White	ACG2021	1	14	A	
+37	Female	White	ACG2021	1	8	A	
+32	Female	Multi-Ethnic	ACG2021	1	14	F	
+42	Female	Hispanic/Latino	ACG2021	1	14	A	
+26	Female	Not Specified	ACG2021	1	14	C	
+20	Unknown	White	ACG2021	1	8	A	
+26	Male	White	ACG2021	1	14	F	
+22	Male	White	ACG2021	2	14	D	
+23	Male	White	ACG2021	3	14	C	
+38	Female	White	ACG2021	1	8	F	
+20	Female	White	ACG2021	1	14	B	
+21	Unknown	Black/African American	ACG2021	1	14	W	
+30	Female	Asian	ACG2021	2	14	A	
+30	Female	White	ACG2021	1	8	A	
+51	Female	White	ACG2021	1	14	A	
+20	Female	Hispanic/Latino	ACG2021	1	14	A	
+57	Female	Hispanic/Latino	ACG2021	1	14	B	
+44	Female	Hispanic/Latino	ACG2021	1	8	B	
+22	Unknown	Not Specified	ACG2021	1	14	A	
+52	Female	White	ACG2021	1	14	B	
+19	Female	White	ACG2021	2	14	A	
+21	Male	White	ACG2021	2	8	A	
+19	Female	White	ACG2021	2	14	A	
+20	Female	White	ACG2021	2	14	B	
+22	Female	White	ACG2021	2	14	F	
+29	Male	White	ACG2021	2	8	A	
+24	Male	White	ACG2021	2	14	C	
+22	Female	White	ACG2021	2	14	A	
+26	Male	White	ACG2021	2	14	C	
+24	Male	Black/African American	ACG2021	2	8	C	
+27	Female	White	ACG2021	2	14	B	
+36	Female	White	ACG2021	2	14	C	
+53	Female	White	ACG2021	2	14	W	
+20	Female	Hispanic/Latino	ACG2021	2	8	A	
+21	Female	White	ACG2021	2	14	WF	
+24	Male	Black/African American	ACG2021	2	14	F	
+39	Female	Black/African American	ACG2021	2	14	W	
+21	Male	White	ACG2021	2	8	A	
+28	Female	White	ACG2021	2	14	B	
+41	Male	White	ACG2021	2	14	C	
+20	Female	Asian	ACG2021	2	14	A	
+29	Female	White	ACG2021	2	8	W	
+46	Female	White	ACG2021	2	14	WF	
+20	Male	White	ACG2021	2	14	F	
+36	Male	Black/African American	ACG2021	2	14	WF	
+29	Female	Hispanic/Latino	ACG2021	2	8	F	
+22	Female	White	ACG2021	2	14	F	
+24	Male	White	ACG2021	2	14	B	
+33	Male	White	ACG2021	2	14	B	
+20	Female	White	ACG2021	2	8	F	
+21	Female	White	ACG2021	2	14	D	
+38	Female	Black/African American	ACG2021	1	14	F	
+46	Male	Black/African American	ACG2021	1	14	B	
+25	Male	Black/African American	ACG2021	1	8	C	
+53	Female	White	ACG2021	2	14	F	
+20	Male	White	ACG2021	2	14	A	
+31	Male	White	ACG2021	2	14	A	
+24	Female	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	14	B	
+30	Female	Hispanic/Latino	ACG2021	1	14	B	
+29	Female	Hispanic/Latino	ACG2021	1	14	C	
+21	Male	White	ACG2021	1	8	A	
+21	Male	Hispanic/Latino	ACG2021	1	14	A	
+21	Male	White	ACG2021	1	14	A	
+26	Male	White	ACG2021	1	14	A	
+33	Female	White	ACG2021	1	8	B	
+29	Male	Hispanic/Latino	ACG2021	1	14	F	
+28	Female	White	ACG2021	1	14	A	
+19	Female	Hispanic/Latino	ACG2021	1	14	C	
+32	Male	White	ACG2021	1	8	B	
+20	Female	White	ACG2021	1	14	B	
+21	Male	Hispanic/Latino	ACG2021	1	14	B	
+24	Female	White	ACG2021	1	14	A	
+21	Female	Black/African American	ACG2021	1	8	C	
+28	Male	White	ACG2021	1	14	A	
+20	Male	White	ACG2021	1	14	A	
+29	Male	White	ACG2021	1	14	F	
+21	Female	White	ACG2021	1	8	A	
+20	Male	White	ACG2021	1	14	B	
+29	Female	White	ACG2021	1	14	A	
+21	Unknown	White	ACG2021	1	14	A	
+49	Male	White	ACG2021	1	8	B	
+54	Male	White	ACG2021	1	14	A	
+25	Male	Hispanic/Latino	ACG2021	1	14	B	
+27	Unknown	White	ACG2021	1	14	W	
+33	Female	White	ACG2021	1	8	W	
+33	Male	White	ACG2021	1	14	A	
+30	Female	White	ACG2021	1	14	C	
+25	Male	White	ACG2021	1	14	A	
+27	Female	White	ACG2021	1	8	A	
+21	Male	Not Specified	ACG2021	1	14	W	
+42	Male	White	ACG2021	1	14	A	
+34	Female	White	ACG2021	1	14	B	
+60	Female	Black/African American	ACG2021	1	8	D	
+20	Female	White	ACG2021	1	14	A	
+22	Male	White	ACG2021	1	14	B	
+43	Female	White	ACG2021	1	14	A	
+26	Female	Hispanic/Latino	ACG2021	1	8	W	
+52	Female	White	ACG2021	1	14	F	
+20	Female	White	ACG2021	1	14	A	
+30	Female	Hispanic/Latino	ACG2021	1	14	W	
+22	Female	Multi-Ethnic	ACG2021	1	8	C	
+31	Female	Black/African American	ACG2021	1	14	B	
+23	Female	Asian	ACG2021	1	14	A	
+21	Male	White	ACG2021	1	14	W	
+36	Male	White	ACG2021	1	8	A	
+26	Female	White	ACG2021	1	14	C	
+26	Female	White	ACG2021	1	14	B	
+23	Male	White	ACG2021	1	14	B	
+41	Male	White	ACG2021	1	8	A	
+23	Female	Asian	ACG2021	1	14	B	
+50	Female	White	ACG2021	1	14	A	
+27	Male	White	ACG2021	1	14	A	
+27	Unknown	Not Specified	ACG2021	1	8	B	
+40	Female	Hispanic/Latino	ACG2021	1	14	A	
+33	Female	White	ACG2021	1	14	B	
+33	Female	Asian	ACG2021	1	14	A	
+20	Male	White	ACG2021	1	8	B	
+20	Female	White	ACG2021	1	14	B	
+21	Male	White	ACG2021	1	14	A	
+34	Female	White	ACG2021	1	14	A	
+21	Male	Asian	ACG2021	1	8	B	
+21	Male	Not Specified	ACG2021	1	14	A	
+34	Female	White	ACG2021	1	14	B	
+22	Male	White	ACG2021	1	14	A	
+27	Male	White	ACG2021	1	8	W	
+23	Female	Multi-Ethnic	ACG2021	1	14	D	
+23	Female	White	ACG2021	1	14	C	
+31	Female	White	ACG2021	1	14	F	
+33	Female	White	ACG2021	1	8	A	
+25	Male	Hispanic/Latino	ACG2021	1	14	A	
+40	Female	White	ACG2021	1	14	W	
+23	Female	White	ACG2021	1	14	A	
+30	Female	Black/African American	ACG2021	1	8	B	
+23	Female	Hispanic/Latino	ACG2021	1	14	B	
+23	Female	White	ACG2021	1	14	B	
+30	Female	White	ACG2021	1	14	A	
+32	Female	White	ACG2021	1	8	D	
+19	Female	Hispanic/Latino	ACG2021	1	14	B	
+53	Female	White	ACG2021	1	14	A	
+45	Male	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	8	B	
+20	Female	Asian	ACG2021	1	14	A	
+21	Male	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	14	A	
+19	Female	White	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	14	A	
+29	Female	White	ACG2021	1	14	B	
+50	Female	Black/African American	ACG2021	1	8	F	
+32	Female	White	ACG2021	1	14	B	
+18	Male	Multi-Ethnic	ACG2021	1	14	D	
+27	Female	Black/African American	ACG2021	1	14	B	
+36	Male	Hispanic/Latino	ACG2021	1	8	A	
+26	Unknown	White	ACG2021	1	14	A	
+39	Female	Hispanic/Latino	ACG2021	1	14	A	
+21	Male	Not Specified	ACG2021	1	14	A	
+20	Male	White	ACG2021	1	8	A	
+19	Female	White	ACG2021	1	14	A	
+38	Male	White	ACG2021	1	14	A	
+20	Male	White	ACG2021	1	14	A	
+19	Female	White	ACG2021	1	8	A	
+20	Male	White	ACG2021	1	14	A	
+26	Male	Hispanic/Latino	ACG2021	1	14	B	
+44	Male	White	ACG2021	1	14	A	
+26	Female	Hispanic/Latino	ACG2021	1	8	F	
+21	Female	White	ACG2021	1	14	C	
+45	Male	White	ACG2021	1	14	A	
+26	Male	White	ACG2021	1	14	A	
+44	Male	Black/African American	ACG2021	1	8	A	
+19	Female	Hispanic/Latino	ACG2021	1	14	D	
+22	Male	Not Specified	ACG2021	1	14	D	
+62	Female	Black/African American	ACG2021	1	14	F	
+26	Female	Black/African American	ACG2021	1	8	W	
+25	Male	Black/African American	ACG2021	1	14	C	
+32	Male	Hispanic/Latino	ACG2021	1	14	B	
+27	Unknown	White	ACG2021	1	14	A	
+30	Male	White	ACG2021	1	8	A	
+19	Female	White	ACG2021	1	14	B	
+21	Female	White	ACG2021	1	14	A	
+20	Male	White	ACG2021	1	14	A	
+21	Female	Asian	ACG2021	1	8	A	
+42	Female	White	ACG2021	1	14	B	
+30	Female	White	ACG2021	1	14	A	
+34	Female	Black/African American	ACG2021	1	14	WF	
+23	Male	White	ACG2021	1	8	B	
+32	Female	White	ACG2021	1	14	F	
+19	Female	White	ACG2021	1	14	B	
+41	Male	White	ACG2021	1	14	F	
+32	Female	White	ACG2021	1	8	F	
+24	Female	White	ACG2021	1	14	C	
+23	Male	White	ACG2021	1	14	C	
+27	Female	White	ACG2021	1	14	B	
+40	Male	Black/African American	ACG2021	1	8	WF	
+42	Female	White	ACG2021	1	14	A	
+22	Male	White	ACG2021	1	14	B	
+26	Male	White	ACG2021	1	14	A	
+35	Male	White	ACG2021	1	8	W	
+19	Female	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	14	WF	
+22	Male	Black/African American	ACG2021	1	14	C	
+27	Female	White	ACG2021	1	8	C	
+28	Female	American Indian/Alaska Native	ACG2021	1	14	A	
+20	Male		ACG2021	1	14	B	
+32	Female	Multi-Ethnic	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	8	W	
+44	Female	White	ACG2021	1	14	A	
+22	Female	White	ACG2021	1	14	WF	
+21	Female	White	ACG2021	1	14	A	
+27	Female	White	ACG2021	1	8	B	
+29	Female	White	ACG2021	1	14	D	
+26	Female	White	ACG2021	1	14	C	
+25	Male	White	ACG2021	1	14	W	
+46	Female	Black/African American	ACG2021	1	8	D	
+28	Female	White	ACG2021	1	14	W	
+47	Female	Hispanic/Latino	ACG2021	1	14	B	
+60	Male	White	ACG2021	1	14	W	
+37	Male	White	ACG2021	1	8	WF	
+35	Female	White	ACG2021	1	14	WF	
+23	Male	Hispanic/Latino	ACG2021	1	14	B	
+38	Unknown	White	ACG2021	1	14	A	
+20	Unknown	Not Specified	ACG2021	1	8	A	
+41	Female	Hispanic/Latino	ACG2021	1	14	B	
+19	Male	White	ACG2021	1	14	A	
+20	Female	Hispanic/Latino	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	8	B	
+21	Male	White	ACG2021	1	14	C	
+21	Male	White	ACG2021	1	14	A	
+40	Female	White	ACG2021	1	14	B	
+30	Female	White	ACG2021	1	8	A	
+34	Female	White	ACG2021	1	14	A	
+34	Male	White	ACG2021	1	14	A	
+24	Female	White	ACG2021	1	14	WF	
+19	Male	White	ACG2021	1	8	A	
+20	Male	White	ACG2021	1	14	A	
+21	Male	White	ACG2021	1	14	A	
+22	Male	Asian	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	8	A	
+20	Male	White	ACG2021	1	14	A	
+19	Male	Hispanic/Latino	ACG2021	1	14	B	
+20	Female	White	ACG2021	1	14	B	
+27	Female	White	ACG2021	1	8	W	
+21	Female	White	ACG2021	1	14	B	
+20	Male	White	ACG2021	1	14	A	
+23	Unknown	Not Specified	ACG2021	1	14	C	
+19	Male	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	14	A	
+22	Male	White	ACG2021	1	14	C	
+21	Female	White	ACG2021	1	14	A	
+19	Female	White	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	14	A	
+21	Male	White	ACG2021	1	14	W	
+21	Female	White	ACG2021	1	14	A	
+22	Female	White	ACG2021	1	8	A	
+22	Unknown	White	ACG2021	1	14	D	
+23	Male	White	ACG2021	1	14	B	
+35	Male	White	ACG2021	1	14	WF	
+29	Female	Black/African American	ACG2021	1	8	F	
+31	Male	White	ACG2021	1	14	B	
+21	Female	White	ACG2021	1	14	A	
+29	Female	White	ACG2021	1	14	B	
+26	Female	White	ACG2021	1	8	B	
+29	Female	White	ACG2021	1	14	B	
+25	Male	Hispanic/Latino	ACG2021	1	14	W	
+25	Male	White	ACG2021	1	14	C	
+33	Male	White	ACG2021	1	8	A	
+23	Male	Asian	ACG2021	1	14	A	
+20	Male	White	ACG2021	1	14	WF	
+20	Female	Hispanic/Latino	ACG2021	1	14	F	
+25	Female	White	ACG2021	1	8	W	
+28	Female	Black/African American	ACG2021	1	14	WF	
+21	Male	Asian	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	14	A	
+23	Female	Asian	ACG2021	1	8	A	
+33	Male	Asian	ACG2021	1	14	A	
+21	Male	White	ACG2021	3	14	B	
+42	Male	Black/African American	ACG2021	1	14	WF	
+40	Female	Hispanic/Latino	ACG2021	1	8	F	
+23	Female	Hispanic/Latino	ACG2021	1	14	W	
+20	Male	White	ACG2021	1	14	A	
+32	Female	Black/African American	ACG2021	1	14	F	
+23	Male	Hispanic/Latino	ACG2021	1	8	C	
+25	Male	White	ACG2021	1	14	A	
+35	Unknown	Black/African American	ACG2021	1	14	B	
+21	Male	White	ACG2021	1	14	WF	
+53	Female	Black/African American	ACG2021	1	8	W	
+37	Female	Black/African American	ACG2021	1	14	B	
+22	Male	White	ACG2021	3	14	F	
+46	Female	White	ACG2021	1	14	A	
+23	Male	Asian	ACG2021	3	8	A	
+21	Female	White	ACG2021	1	14	A	
+24	Male	Black/African American	ACG2021	1	14	A	
+39	Female	Black/African American	ACG2021	1	14	W	
+26	Female	White	ACG2021	1	8	D	
+48	Female	White	ACG2021	1	14	B	
+28	Male	White	ACG2021	1	14	A	
+22	Male	White	ACG2021	1	14	B	
+25	Female	Asian	ACG2021	1	8	B	
+24	Female	Black/African American	ACG2021	1	14	A	
+42	Male	Black/African American	ACG2021	1	14	F	
+22	Male	White	ACG2021	1	14	F	
+23	Female	White	ACG2021	1	8	C	
+19	Male	Black/African American	ACG2021	1	14	C	
+25	Female	Hispanic/Latino	ACG2021	1	14	F	
+40	Male	White	ACG2021	1	14	A	
+39	Female	Hispanic/Latino	ACG2021	1	8	B	
+24	Male	Hispanic/Latino	ACG2021	1	14	B	
+54	Female	White	ACG2021	1	14	B	
+45	Female	White	ACG2021	1	14	A	
+29	Unknown	White	ACG2021	1	8	F	
+23	Female	Hispanic/Latino	ACG2021	1	14	W	
+32	Female	Black/African American	ACG2021	1	14	A	
+27	Male	Black/African American	ACG2021	1	14	F	
+45	Female	White	ACG2021	1	8	A	
+24	Unknown	Black/African American	ACG2021	1	14	D	
+43	Female	White	ACG2021	1	14	B	
+24	Female	White	ACG2021	1	14	W	
+29	Female	White	ACG2021	1	8	B	
+25	Female	Hispanic/Latino	ACG2021	1	14	B	
+47	Female	White	ACG2021	1	14	A	
+25	Female	Hispanic/Latino	ACG2021	1	14	F	
+29	Female	White	ACG2021	1	8	WF	
+28	Male	White	ACG2021	1	14	A	
+32	Male	Not Specified	ACG2021	1	14	C	
+23	Female	White	ACG2021	1	14	A	
+23	Female	Hispanic/Latino	ACG2021	1	8	WF	
+29	Female	Not Specified	ACG2021	3	14	W	
+22	Female	White	ACG2021	3	14	F	
+25	Female	White	ACG2021	3	14	A	
+21	Male	White	ACG2021	3	8	B	
+24	Female	White	ACG2021	3	14	A	
+20	Female	White	ACG2021	3	14	B	
+37	Female	White	ACG2021	3	14	A	
+35	Female	Black/African American	ACG2021	3	8	C	
+30	Male	White	ACG2021	3	14	A	
+49	Female	White	ACG2021	1	14	A	
+38	Female	White	ACG2021	1	14	A	
+23	Male	White	ACG2021	3	8	B	
+39	Female	White	ACG2021	1	14	A	
+28	Unknown	White	ACG2021	1	14	W	
+20	Male	White	ACG2021	1	14	A	
+35	Male	White	ACG2021	3	8	A	
+25	Female	White	ACG2021	3	14	B	
+66	Male	White	ACG2021	3	14	A	
+35	Male	White	ACG2021	3	14	B	
+21	Male	White	ACG2021	3	8	C	
+30	Male	White	ACG2021	3	14	A	
+35	Female	White	ACG2021	1	14	B	
+31	Unknown	White	ACG2021	1	14	F	
+21	Female	Black/African American	ACG2021	3	8	D	
+27	Male	White	ACG2021	3	14	A	
+22	Female	White	ACG2021	3	14	A	
+34	Female	White	ACG2021	1	14	W	
+32	Female	White	ACG2021	3	8	B	
+19	Female	White	ACG2021	1	14	A	
+46	Female	White	ACG2021	1	14	A	
+25	Male	White	ACG2021	3	14	C	
+21	Male	White	ACG2021	1	8	A	
+46	Female	Hispanic/Latino	ACG2021	1	14	A	
+29	Female	White	ACG2021	1	14	A	
+21	Male	White	ACG2021	3	14	C	
+27	Female	White	ACG2021	1	8	B	
+37	Male	Hispanic/Latino	ACG2021	1	14	A	
+21	Male	White	ACG2021	3	14	A	
+54	Male	White	ACG2021	3	14	A	
+23	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	14	B	
+22	Male	White	ACG2021	1	14	A	
+20	Male	White	ACG2021	3	14	B	
+20	Female	White	ACG2021	3	8	A	
+30	Female	White	ACG2021	1	14	A	
+23	Male	White	ACG2021	3	14	B	
+40	Female	White	ACG2021	1	14	F	
+37	Female	White	ACG2021	1	8	A	
+37	Female	Black/African American	ACG2021	3	14	F	
+21	Male	White	ACG2021	3	14	B	
+33	Female	White	ACG2021	1	14	D	
+29	Male	White	ACG2021	1	8	B	
+51	Female	White	ACG2021	1	14	A	
+28	Male	White	ACG2021	1	14	C	
+21	Female	White	ACG2021	1	14	B	
+21	Male	White	ACG2021	1	8	B	
+21	Male	Multi-Ethnic	ACG2021	3	14	B	
+35	Female	Native Hawaiian/Oth Pac Island	ACG2021	1	14	A	
+21	Female	Hispanic/Latino	ACG2021	1	14	C	
+23	Male	White	ACG2021	1	8	B	
+22	Female	Hispanic/Latino	ACG2021	1	14	F	
+25	Female	Black/African American	ACG2021	3	14	A	
+25	Male	White	ACG2021	3	14	WF	
+21	Unknown	White	ACG2021	1	8	A	
+24	Female	Asian	ACG2021	3	14	C	
+25	Unknown	White	ACG2021	1	14	A	
+39	Male	White	ACG2021	3	14	A	
+30	Female	Black/African American	ACG2021	3	8	F	
+37	Male	Hispanic/Latino	ACG2021	3	14	A	
+38	Male	Black/African American	ACG2021	3	14	B	
+22	Female	White	ACG2021	1	14	A	
+22	Female	White	ACG2021	1	8	A	
+26	Female	White	ACG2021	3	14	A	
+25	Male	White	ACG2021	1	14	A	
+25	Female	White	ACG2021	1	14	WF	
+20	Male	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	14	A	
+21	Female	Black/African American	ACG2021	1	14	W	
+20	Female	White	ACG2021	1	14	A	
+23	Male	Hispanic/Latino	ACG2021	1	8	B	
+20	Male	White	ACG2021	1	14	A	
+20	Male	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	14	A	
+19	Female	White	ACG2021	1	8	A	
+20	Unknown	White	ACG2021	1	14	A	
+25	Male	Hispanic/Latino	ACG2021	1	14	C	
+20	Male	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	14	A	
+33	Unknown	White	ACG2021	3	14	A	
+41	Female	White	ACG2021	1	14	W	
+22	Male	White	ACG2021	2	8	F	
+20	Male	White	ACG2021	1	14	A	
+19	Male	White	ACG2021	1	14	B	
+36	Female	White	ACG2021	1	14	A	
+31	Female	White	ACG2021	1	8	B	
+38	Male	Black/African American	ACG2021	3	14	WF	
+24	Female	White	ACG2021	3	14	A	
+30	Female	White	ACG2021	1	14	B	
+39	Female	White	ACG2021	1	8	C	
+26	Female	White	ACG2021	1	14	B	
+48	Female	White	ACG2021	1	14	A	
+24	Female	White	ACG2021	1	14	A	
+25	Male	Multi-Ethnic	ACG2021	1	8	WF	
+21	Female	White	ACG2021	1	14	B	
+26	Female	Asian	ACG2021	1	14	C	
+38	Male	White	ACG2021	1	14	B	
+23	Male	Multi-Ethnic	ACG2021	3	8	C	
+36	Female	White	ACG2021	1	14	B	
+30	Female	White	ACG2021	1	14	A	
+38	Female	Black/African American	ACG2021	1	14	A	
+33	Female	White	ACG2021	1	8	A	
+50	Female	White	ACG2021	1	14	F	
+20	Male	Asian	ACG2021	3	14	B	
+24	Female	Not Specified	ACG2021	3	14	B	
+21	Male	Hispanic/Latino	ACG2021	1	8	B	
+20	Female	White	ACG2021	1	14	A	
+42	Female	White	ACG2021	1	14	A	
+18	Male	White	ACG2021	1	14	A	
+29	Male	White	ACG2021	3	8	A	
+29	Female	Multi-Ethnic	ACG2021	3	14	B	
+42	Male	White	ACG2021	3	14	F	
+21	Female	White	ACG2021	3	14	C	
+24	Male	Black/African American	ACG2021	3	8	B	
+22	Male	White	ACG2021	3	14	B	
+40	Female	White	ACG2021	3	14	A	
+21	Male	White	ACG2021	3	14	B	
+22	Male	White	ACG2021	3	8	A	
+25	Male	White	ACG2021	3	14	A	
+22	Male	White	ACG2021	3	14	B	
+30	Female	Black/African American	ACG2021	1	14	WF	
+18	Female	White	ACG2021	3	8	A	
+21	Male	White	ACG2021	1	14	A	
+21	Male	Not Specified	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	14	A	
+52	Unknown	White	ACG2021	3	8	A	
+20	Male	White	ACG2021	1	14	B	
+21	Female	White	ACG2021	3	14	A	
+21	Male	White	ACG2021	3	14	A	
+22	Male	White	ACG2021	2	8	D	
+24	Female	White	ACG2021	2	14	B	
+44	Male	White	ACG2021	2	14	C	
+23	Female	Not Specified	ACG2021	2	14	A	
+23	Male	Hispanic/Latino	ACG2021	2	8	C	
+31	Female	Not Specified	ACG2021	1	14	D	
+48	Male	White	ACG2021	1	14	F	
+21	Female	White	ACG2021	1	14	F	
+28	Male	White	ACG2021	1	8	W	
+26	Female	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	2	14	C	
+21	Unknown	Black/African American	ACG2021	2	14	A	
+26	Male	White	ACG2021	3	8	B	
+34	Female	White	ACG2021	1	14	A	
+24	Female	Asian	ACG2021	1	14	B	
+20	Male	White	ACG2021	2	14	A	
+28	Female	White	ACG2021	1	8	A	
+22	Female	Multi-Ethnic	ACG2021	1	14	C	
+23	Female	White	ACG2021	1	14	WF	
+37	Male	White	ACG2021	1	14	B	
+26	Male	Hispanic/Latino	ACG2021	2	8	C	
+22	Male	Multi-Ethnic	ACG2021	2	14	C	
+38	Male	White	ACG2021	2	14	A	
+22	Female	White	ACG2021	2	14	F	
+22	Male	Hispanic/Latino	ACG2021	2	8	B	
+27	Female	Hispanic/Latino	ACG2021	1	14	A	
+26	Male	White	ACG2021	1	14	B	
+25	Male	Hispanic/Latino	ACG2021	1	14	A	
+35	Female	Black/African American	ACG2021	1	8	B	
+37	Female	White	ACG2021	1	14	B	
+26	Female	Black/African American	ACG2021	1	14	A	
+23	Female	White	ACG2021	1	14	C	
+26	Female	White	ACG2021	1	8	B	
+56	Female	White	ACG2021	1	14	WF	
+20	Male	Hispanic/Latino	ACG2021	1	14	A	
+24	Male	White	ACG2021	2	14	B	
+21	Female	White	ACG2021	1	8	A	
+45	Male	Hispanic/Latino	ACG2021	1	14	A	
+26	Female	White	ACG2021	2	14	C	
+29	Male	White	ACG2021	2	14	F	
+21	Male	Black/African American	ACG2021	3	8	C	
+24	Male	White	ACG2021	1	14	F	
+19	Female	White	ACG2021	2	14	A	
+22	Female	White	ACG2021	2	14	B	
+20	Female	White	ACG2021	2	8	F	
+20	Female	White	ACG2021	1	14	B	
+22	Male	White	ACG2021	1	14	A	
+22	Unknown	White	ACG2021	1	14	A	
+40	Female	White	ACG2021	1	8	B	
+33	Male	White	ACG2021	1	14	A	
+47	Female	White	ACG2021	2	14	B	
+37	Female	White	ACG2021	1	14	C	
+19	Female	White	ACG2021	2	8	A	
+39	Male	White	ACG2021	2	14	B	
+18	Female	Not Specified	ACG2021	1	14	W	
+37	Female	White	ACG2021	2	14	A	
+24	Female	American Indian/Alaska Native	ACG2021	1	8	W	
+29	Male	Black/African American	ACG2021	1	14	C	
+22	Female	White	ACG2021	1	14	A	
+37	Female	Black/African American	ACG2021	1	14	A	
+22	Male	Hispanic/Latino	ACG2021	2	8	B	
+31	Female	Asian	ACG2021	2	14	A	
+21	Male	Hispanic/Latino	ACG2021	2	14	W	
+28	Male	Black/African American	ACG2021	2	14	F	
+37	Female	White	ACG2021	2	8	A	
+51	Female	White	ACG2021	2	14	A	
+32	Male	Asian	ACG2021	2	14	A	
+22	Female	White	ACG2021	2	14	A	
+21	Female	Hispanic/Latino	ACG2021	2	8	B	
+31	Female	Hispanic/Latino	ACG2021	2	14	C	
+25	Male	White	ACG2021	1	14	C	
+34	Female	White	ACG2021	1	14	A	
+28	Male	White	ACG2021	2	8	C	
+22	Female	White	ACG2021	2	14	W	
+61	Male	White	ACG2021	2	14	D	
+41	Male	Not Specified	ACG2021	2	14	A	
+28	Male	White	ACG2021	2	8	A	
+51	Female	Black/African American	ACG2021	2	14	B	
+26	Female	White	ACG2021	2	14	B	
+24	Female	White	ACG2021	2	14	A	
+27	Male	Hispanic/Latino	ACG2021	2	8	F	
+23	Female	White	ACG2021	2	14	D	
+25	Female	Hispanic/Latino	ACG2021	2	14	A	
+45	Female	White	ACG2021	1	14	F	
+29	Female	White	ACG2021	3	8	C	
+22	Female	White	ACG2021	1	14	B	
+21	Female	White	ACG2021	1	14	A	
+26	Male	White	ACG2021	1	14	B	
+23	Female	White	ACG2021	1	8	A	
+25	Male	White	ACG2021	2	14	D	
+26	Male	Hispanic/Latino	ACG2021	2	14	A	
+34	Male	Hispanic/Latino	ACG2021	2	14	A	
+23	Male	Hispanic/Latino	ACG2021	2	8	F	
+23	Female	Hispanic/Latino	ACG2021	2	14	A	
+29	Female	White	ACG2021	2	14	B	
+24	Male	White	ACG2021	2	14	F	
+30	Male	White	ACG2021	2	8	A	
+28	Female	White	ACG2021	1	14	B	
+34	Female	White	ACG2021	1	14	A	
+28	Female	Asian	ACG2021	1	14	C	
+27	Female	White	ACG2021	1	14	W	
+20	Female	Hispanic/Latino	ACG2021	1	8	C	
+21	Male	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	14	F	
+22	Female	White	ACG2021	1	8	A	
+25	Male	White	ACG2021	1	14	B	
+29	Female	White	ACG2021	1	14	A	
+26	Female	Hispanic/Latino	ACG2021	1	14	B	
+21	Female	White	ACG2021	1	8	A	
+38	Female	White	ACG2021	1	14	W	
+52	Male	White	ACG2021	1	14	B	
+21	Female	White	ACG2021	1	14	A	
+43	Male	Hispanic/Latino	ACG2021	1	8	A	
+44	Female	White	ACG2021	2	14	B	
+25	Female	White	ACG2021	1	14	W	
+37	Male	Black/African American	ACG2021	1	14	F	
+20	Male	Hispanic/Latino	ACG2021	2	8	A	
+25	Male	White	ACG2021	2	14	C	
+20	Male	Hispanic/Latino	ACG2021	2	14	B	
+30	Female	White	ACG2021	2	14	A	
+21	Male	White	ACG2021	2	8	A	
+26	Female	Not Specified	ACG2021	1	14	F	
+20	Female	Asian	ACG2021	1	14	W	
+23	Female	Asian	ACG2021	1	14	A	
+26	Female	Asian	ACG2021	2	8	A	
+39	Female	White	ACG2021	2	14	A	
+20	Female	White	ACG2021	1	14	W	
+22	Male	White	ACG2021	2	14	WF	
+28	Female	White	ACG2021	3	8	F	
+21	Female	Black/African American	ACG2021	3	14	C	
+17	Male	White	ACG2021	3	14	A	
+25	Male	Hispanic/Latino	ACG2021	1	14	B	
+24	Male	Black/African American	ACG2021	1	8	WF	
+50	Female	White	ACG2021	3	14	C	
+28	Female	White	ACG2021	3	14	A	
+20	Male	White	ACG2021	1	14	A	
+25	Female	White	ACG2021	1	8	B	
+22	Female	White	ACG2021	2	14	C	
+27	Male	White	ACG2021	2	14	C	
+20	Male	White	ACG2021	3	14	C	
+22	Female	White	ACG2021	3	8	W	
+21	Male	Hispanic/Latino	ACG2021	1	14	A	
+27	Female	White	ACG2021	1	14	F	
+37	Female	Black/African American	ACG2021	1	14	A	
+21	Male	Hispanic/Latino	ACG2021	1	8	B	
+38	Male	White	ACG2021	1	14	A	
+27	Female	White	ACG2021	1	14	B	
+44	Female	Black/African American	ACG2021	1	14	A	
+22	Male	White	ACG2021	3	8	WF	
+18	Female	Not Specified	ACG2021	3	14	C	
+31	Male	White	ACG2021	1	14	B	
+36	Female	Hispanic/Latino	ACG2021	1	14	D	
+33	Male	Black/African American	ACG2021	3	8	C	
+40	Male	Hispanic/Latino	ACG2021	1	14	B	
+47	Female	White	ACG2021	1	14	W	
+27	Male	Black/African American	ACG2021	1	14	B	
+22	Female	Hispanic/Latino	ACG2021	1	8	C	
+36	Female	White	ACG2021	1	14	A	
+47	Male	Black/African American	ACG2021	3	14	A	
+30	Female	White	ACG2021	1	14	A	
+32	Female	White	ACG2021	1	8	A	
+35	Female	Black/African American	ACG2021	1	14	B	
+27	Female	White	ACG2021	1	14	A	
+43	Female	White	ACG2021	1	14	A	
+22	Female	White	ACG2021	3	8	W	
+52	Female	White	ACG2021	1	14	WF	
+34	Female	White	ACG2021	3	14	B	
+21	Female	White	ACG2021	1	14	A	
+19	Male	Black/African American	ACG2021	3	8	W	
+19	Female	Asian	ACG2021	3	14	A	
+21	Male	White	ACG2021	1	14	C	
+22	Female	Black/African American	ACG2021	3	14	B	
+35	Male	Hispanic/Latino	ACG2021	1	8	A	
+55	Female	White	ACG2021	3	14	A	
+32	Male	Not Specified	ACG2021	1	14	B	
+20	Female	White	ACG2021	3	14	B	
+21	Female	White	ACG2021	1	8	A	
+20	Unknown	White	ACG2021	1	14	A	
+57	Female	White	ACG2021	1	14	A	
+26	Female	White	ACG2021	1	14	C	
+48	Male	White	ACG2021	1	8	WF	
+24	Male	Not Specified	ACG2021	1	14	A	
+27	Female	White	ACG2021	1	14	C	
+32	Female	White	ACG2021	1	14	A	
+30	Male	Asian	ACG2021	3	8	A	
+22	Male	White	ACG2021	1	14	W	
+23	Female	Hispanic/Latino	ACG2021	1	14	C	
+29	Female	White	ACG2021	1	14	A	
+22	Male	Black/African American	ACG2021	1	8	C	
+22	Female	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	14	C	
+25	Female	White	ACG2021	1	14	B	
+20	Male	White	ACG2021	3	8	B	
+36	Female	Hispanic/Latino	ACG2021	1	14	B	
+24	Female	White	ACG2021	1	14	A	
+37	Male	White	ACG2021	1	14	A	
+28	Female	White	ACG2021	1	8	C	
+21	Female	White	ACG2021	1	14	A	
+21	Male	White	ACG2021	1	14	B	
+24	Female	White	ACG2021	1	14	A	
+24	Female	Hispanic/Latino	ACG2021	1	8	C	
+22	Male	White	ACG2021	3	14	D	
+21	Male	White	ACG2021	3	14	B	
+19	Female	White	ACG2021	1	14	A	
+23	Male	Asian	ACG2021	1	8	A	
+22	Male	Hispanic/Latino	ACG2021	1	14	A	
+36	Female	White	ACG2021	1	14	A	
+55	Female	White	ACG2021	1	14	A	
+22	Male	Black/African American	ACG2021	1	8	C	
+45	Female	White	ACG2021	1	14	A	
+29	Female	White	ACG2021	1	14	A	
+32	Female	Hispanic/Latino	ACG2021	1	14	A	
+34	Female	Black/African American	ACG2021	1	8	C	
+36	Male	White	ACG2021	1	14	B	
+40	Female	White	ACG2021	1	14	C	
+26	Female	Black/African American	ACG2021	1	14	A	
+34	Male	White	ACG2021	1	8	B	
+22	Female	White	ACG2021	3	14	B	
+47	Female	Hispanic/Latino	ACG2021	1	14	F	
+32	Female	Black/African American	ACG2021	1	14	F	
+24	Female	White	ACG2021	1	8	A	
+26	Male	White	ACG2021	1	14	W	
+25	Female	Hispanic/Latino	ACG2021	1	14	W	
+22	Male	White	ACG2021	1	14	WF	
+21	Male	White	ACG2021	1	8	B	
+35	Male	White	ACG2021	1	14	W	
+40	Female	American Indian/Alaska Native	ACG2021	1	14	D	
+32	Male	Hispanic/Latino	ACG2021	1	14	B	
+24	Male	White	ACG2021	1	8	B	
+24	Female	Black/African American	ACG2021	1	14	B	
+21	Male	White	ACG2021	1	14	C	
+20	Male	White	ACG2021	1	14	B	
+28	Male	Hispanic/Latino	ACG2021	1	8	B	
+28	Female	White	ACG2021	1	14	B	
+28	Male	White	ACG2021	1	14	W	
+49	Male	Not Specified	ACG2021	1	14	C	
+41	Female	Multi-Ethnic	ACG2021	1	8	C	
+43	Female	Hispanic/Latino	ACG2021	1	14	B	
+34	Female	White	ACG2021	1	14	WF	
+23	Female	White	ACG2021	1	14	W	
+42	Female	Black/African American	ACG2021	1	8	D	
+26	Male	White	ACG2021	1	14	A	
+21	Female	Black/African American	ACG2021	1	14	D	
+27	Female	White	ACG2021	1	14	B	
+33	Female	White	ACG2021	1	8	F	
+41	Male	White	ACG2021	1	14	A	
+32	Female	White	ACG2021	1	14	C	
+37	Male	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	8	C	
+24	Female	White	ACG2021	1	14	D	
+54	Female	White	ACG2021	1	14	D	
+24	Male	White	ACG2021	1	14	W	
+23	Female	White	ACG2021	2	8	A	
+39	Male	White	ACG2021	2	14	WF	
+21	Male	White	ACG2021	2	14	A	
+20	Male	White	ACG2021	2	14	B	
+24	Female	White	ACG2021	2	8	C	
+33	Male	Black/African American	ACG2021	2	14	A	
+22	Male	American Indian/Alaska Native	ACG2021	2	14	C	
+22	Male	Multi-Ethnic	ACG2021	2	14	A	
+44	Male	Black/African American	ACG2021	2	8	WF	
+22	Male	White	ACG2021	2	14	C	
+21	Female	White	ACG2021	2	14	A	
+24	Male	White	ACG2021	2	14	F	
+49	Female	White	ACG2021	1	8	C	
+25	Male	Hispanic/Latino	ACG2021	1	14	A	
+32	Female	Asian	ACG2021	2	14	A	
+26	Female	Black/African American	ACG2021	1	14	D	
+25	Male	Hispanic/Latino	ACG2021	1	8	C	
+35	Male	White	ACG2021	1	14	F	
+31	Male	Black/African American	ACG2021	1	14	WF	
+45	Male	Black/African American	ACG2021	2	14	C	
+20	Male	Hispanic/Latino	ACG2021	1	8	WF	
+44	Male	White	ACG2021	2	14	C	
+51	Female	White	ACG2021	3	14	B	
+23	Male	White	ACG2021	3	14	A	
+21	Female	White	ACG2021	3	8	B	
+31	Female	White	ACG2021	3	14	B	
+21	Female	White	ACG2021	3	14	A	
+29	Unknown	White	ACG2021	3	14	A	
+21	Female	White	ACG2021	3	8	A	
+22	Male	White	ACG2021	3	14	A	
+24	Female	White	ACG2021	3	14	A	
+24	Female	White	ACG2021	3	14	B	
+36	Female	White	ACG2021	3	8	A	
+24	Male	Asian	ACG2021	3	14	A	
+21	Male	White	ACG2021	3	14	A	
+22	Male	Black/African American	ACG2021	3	14	B	
+21	Male	White	ACG2021	3	8	B	
+24	Male	Hispanic/Latino	ACG2021	3	14	B	
+29	Female	White	ACG2021	3	14	A	
+21	Male	White	ACG2021	3	14	B	
+21	Male	White	ACG2021	3	8	F	
+23	Male	White	ACG2021	3	14	A	
+21	Male	White	ACG2021	3	14	B	
+24	Male	White	ACG2021	3	14	B	
+64	Male	White	ACG2021	3	8	F	
+27	Male	Not Specified	ACG2021	3	14	B	
+41	Male	White	ACG2021	3	14	F	
+20	Male	White	ACG2021	3	14	F	
+23	Male	White	ACG2021	3	8	B	
+19	Female	White	ACG2021	3	14	A	
+27	Male	White	ACG2021	3	14	C	
+24	Male	Hispanic/Latino	ACG2021	1	14	D	
+43	Female	White	ACG2021	1	8	A	
+24	Male	White	ACG2021	1	14	W	
+27	Female	Black/African American	ACG2021	1	14	B	
+43	Female	White	ACG2021	1	14	C	
+24	Female	Hispanic/Latino	ACG2021	1	8	A	
+21	Male	Not Specified	ACG2021	1	14	B	
+35	Female	Asian	ACG2021	2	14	A	
+20	Male	Hispanic/Latino	ACG2021	2	14	B	
+23	Male	Asian	ACG2021	1	8	B	
+25	Female	White	ACG2021	1	14	WF	
+20	Female	Hispanic/Latino	ACG2021	1	14	WF	
+30	Female	Multi-Ethnic	ACG2021	1	14	B	
+19	Male	White	ACG2021	1	8	A	
+25	Male	Hispanic/Latino	ACG2021	1	14	B	
+36	Male	Black/African American	ACG2021	3	14	A	
+31	Female	Black/African American	ACG2021	3	14	C	
+23	Female	White	ACG2021	3	8	B	
+19	Female	White	ACG2021	3	14	A	
+20	Female	Hispanic/Latino	ACG2021	3	14	A	
+19	Male	Black/African American	ACG2021	3	14	D	
+19	Male	White	ACG2021	3	8	B	
+29	Female	Black/African American	ACG2021	3	14	C	
+22	Male	Black/African American	ACG2021	3	14	B	
+43	Male	White	ACG2021	3	14	A	
+23	Male	Black/African American	ACG2021	3	8	B	
+27	Male	White	ACG2021	3	14	A	
+22	Female	White	ACG2021	3	14	B	
+31	Male	Black/African American	ACG2021	3	14	A	
+22	Male	White	ACG2021	3	8	B	
+23	Female	Black/African American	ACG2021	3	14	C	
+25	Male	White	ACG2021	3	14	A	
+30	Male	Hispanic/Latino	ACG2021	3	14	B	
+21	Female	Hispanic/Latino	ACG2021	3	8	A	
+21	Male	White	ACG2021	3	14	WF	
+20	Female	White	ACG2021	3	14	B	
+51	Female	American Indian/Alaska Native	ACG2021	3	14	D	
+25	Female	White	ACG2021	3	8	A	
+19	Male	Asian	ACG2021	3	14	A	
+19	Female	Multi-Ethnic	ACG2021	3	14	B	
+18	Female	Hispanic/Latino	ACG2021	3	14	A	
+19	Male	White	ACG2021	3	8	A	
+19	Male	White	ACG2021	3	14	A	
+24	Male	White	ACG2021	3	14	B	
+18	Female	White	ACG2021	3	14	A	
+19	Female	White	ACG2021	3	8	C	
+19	Female	Hispanic/Latino	ACG2021	1	14	W	
+27	Female	White	ACG2021	1	14	A	
+20	Male	White	ACG2021	1	14	A	
+24	Female	White	ACG2021	1	8	C	
+20	Male	White	ACG2021	1	14	B	
+30	Female	Black/African American	ACG2021	1	14	B	
+28	Female	White	ACG2021	1	14	D	
+31	Female	White	ACG2021	1	8	A	
+28	Female	White	ACG2021	1	14	A	
+21	Female	Asian	ACG2021	1	14	C	
+28	Female	White	ACG2021	1	14	D	
+21	Female	White	ACG2021	1	8	B	
+29	Female	White	ACG2021	1	14	C	
+21	Female	White	ACG2021	1	14	A	
+42	Female	White	ACG2021	1	14	A	
+32	Female	White	ACG2021	1	8	A	
+43	Female	Black/African American	ACG2021	1	14	W	
+44	Female	Black/African American	ACG2021	1	14	F	
+26	Female	Black/African American	ACG2021	1	14	WF	
+58	Female	White	ACG2021	1	8	A	
+25	Female	Hispanic/Latino	ACG2021	1	14	A	
+32	Male	Hispanic/Latino	ACG2021	1	14	WF	
+35	Male	Hispanic/Latino	ACG2021	1	14	WF	
+41	Male	Hispanic/Latino	ACG2021	1	8	A	
+19	Male	White	ACG2021	1	14	A	
+23	Female	White	ACG2021	1	14	W	
+19	Male	Not Specified	ACG2021	1	14	A	
+21	Female	Black/African American	ACG2021	1	8	F	
+32	Male	Hispanic/Latino	ACG2021	1	14	A	
+28	Female	White	ACG2021	1	14	D	
+26	Male	White	ACG2021	1	14	A	
+19	Male	White	ACG2021	1	8	A	
+18	Male	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	14	B	
+19	Male	White	ACG2021	1	14	A	
+19	Unknown	Not Specified	ACG2021	1	8	B	
+21	Female	White	ACG2021	1	14	A	
+22	Male	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	14	A	
+20	Female	Hispanic/Latino	ACG2021	1	8	A	
+20	Male	White	ACG2021	1	14	B	
+19	Unknown	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	8	A	
+36	Male	White	ACG2021	1	14	F	
+25	Female	White	ACG2021	1	14	B	
+28	Female	White	ACG2021	1	14	C	
+20	Male	White	ACG2021	1	8	A	
+30	Male	White	ACG2021	1	14	B	
+21	Female	White	ACG2021	1	14	B	
+32	Male	Hispanic/Latino	ACG2021	1	14	B	
+22	Male	White	ACG2021	1	8	A	
+20	Male	White	ACG2021	1	14	C	
+21	Female	White	ACG2021	1	14	A	
+28	Female	White	ACG2021	1	14	B	
+22	Male	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	14	F	
+21	Male	White	ACG2021	1	14	A	
+22	Male	Hispanic/Latino	ACG2021	1	14	B	
+21	Male	White	ACG2021	1	8	B	
+24	Male	White	ACG2021	1	14	B	
+22	Male	Hispanic/Latino	ACG2021	1	14	A	
+26	Male	White	ACG2021	1	14	C	
+26	Female	White	ACG2021	1	8	B	
+35	Female	White	ACG2021	1	14	A	
+24	Unknown	Black/African American	ACG2021	1	14	F	
+35	Male	Hispanic/Latino	ACG2021	1	14	F	
+25	Female	White	ACG2021	1	8	W	
+22	Female	White	ACG2021	1	14	C	
+21	Female	White	ACG2021	1	14	A	
+22	Female	White	ACG2021	1	14	B	
+20	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	14	A	
+21	Male	White	ACG2021	1	14	B	
+20	Female	White	ACG2021	1	8	B	
+20	Female	Hispanic/Latino	ACG2021	1	14	A	
+19	Female	White	ACG2021	1	14	B	
+20	Female	White	ACG2021	1	14	A	
+20	Male	Hispanic/Latino	ACG2021	1	8	A	
+19	Female	White	ACG2021	1	14	A	
+22	Female	White	ACG2021	1	14	A	
+19	Male	White	ACG2021	1	14	C	
+20	Female	White	ACG2021	1	8	B	
+20	Female	White	ACG2021	1	14	A	
+22	Female	White	ACG2021	1	14	A	
+22	Female	White	ACG2021	1	14	B	
+35	Male	Black/African American	ACG2021	1	8	B	
+19	Male	White	ACG2021	1	14	A	
+18	Male	White	ACG2021	1	14	B	
+19	Female	White	ACG2021	1	14	A	
+19	Female	White	ACG2021	1	8	A	
+27	Female	Not Specified	ACG2021	1	14	WF	
+25	Female	White	ACG2021	1	14	B	
+19	Female	White	ACG2021	1	14	B	
+26	Female	White	ACG2021	1	8	B	
+21	Male	Not Specified	ACG2021	1	14	B	
+22	Female	White	ACG2021	1	14	A	
+23	Female	Multi-Ethnic	ACG2021	1	14	B	
+21	Male	White	ACG2021	1	8	B	
+41	Female	White	ACG2021	2	14	A	
+22	Female	Hispanic/Latino	ACG2021	2	14	A	
+23	Female	Hispanic/Latino	ACG2021	2	14	A	
+43	Male	Hispanic/Latino	ACG2021	2	8	B	
+47	Female	White	ACG2021	2	14	W	
+22	Male	White	ACG2021	2	14	B	
+28	Male	Hispanic/Latino	ACG2021	2	14	A	
+25	Male	White	ACG2021	2	8	A	
+25	Female	Asian	ACG2021	2	14	A	
+24	Female	Hispanic/Latino	ACG2021	2	14	A	
+25	Female	White	ACG2021	2	14	A	
+37	Female	White	ACG2021	2	8	A	
+37	Female	White	ACG2021	2	14	A	
+33	Female	Black/African American	ACG2021	2	14	B	
+38	Male	White	ACG2021	2	14	A	
+40	Male	White	ACG2021	2	8	B	
+29	Female	Hispanic/Latino	ACG2021	2	14	A	
+24	Male	Hispanic/Latino	ACG2021	2	14	B	
+27	Female	Asian	ACG2021	2	14	A	
+36	Female	White	ACG2021	2	8	C	
+23	Male	White	ACG2021	2	14	B	
+23	Female	White	ACG2021	2	14	C	
+25	Male	White	ACG2021	2	14	D	
+26	Male	White	ACG2021	2	8	B	
+25	Male	Not Specified	ACG2021	2	14	B	
+22	Female	White	ACG2021	2	14	B	
+30	Female	Black/African American	ACG2021	2	14	D	
+56	Male	White	ACG2021	2	8	A	
+24	Female	White	ACG2021	2	14	C	
+22	Male	White	ACG2021	2	14	B	
+23	Female	White	ACG2021	2	14	W	
+27	Female	White	ACG2021	2	8	B	
+21	Unknown	White	ACG2021	2	14	A	
+35	Male	Hispanic/Latino	ACG2021	2	14	C	
+21	Female	Black/African American	ACG2021	2	14	C	
+28	Female	Hispanic/Latino	ACG2021	2	8	D	
+25	Female	White	ACG2021	2	14	A	
+35	Male	White	ACG2021	2	14	A	
+26	Female	White	ACG2021	2	14	WF	
+31	Male	White	ACG2021	2	8	W	
+28	Male	White	ACG2021	2	14	A	
+34	Male	White	ACG2021	2	14	A	
+33	Male	Black/African American	ACG2021	2	14	C	
+19	Female	White	ACG2021	2	8	WF	
+27	Male	White	ACG2021	2	14	C	
+27	Female	Hispanic/Latino	ACG2021	2	14	A	
+24	Male	White	ACG2021	2	14	B	
+47	Female	Asian	ACG2021	2	8	A	
+47	Female	White	ACG2021	2	14	A	
+20	Female	White	ACG2021	2	14	A	
+27	Male	White	ACG2021	2	14	C	
+22	Male	Asian	ACG2021	2	8	B	
+19	Male	White	ACG2021	2	14	A	
+32	Female	White	ACG2021	2	14	B	
+33	Female	White	ACG2021	2	14	A	
+21	Male	White	ACG2021	2	8	B	
+22	Unknown	White	ACG2021	2	14	A	
+24	Male	White	ACG2021	2	14	C	
+25	Male	White	ACG2021	2	14	C	
+20	Male	White	ACG2021	2	8	A	
+27	Female	Multi-Ethnic	ACG2021	2	14	B	
+22	Male	White	ACG2021	2	14	B	
+21	Female	White	ACG2021	2	14	B	
+22	Male	White	ACG2021	2	8	A	
+19	Female	Black/African American	ACG2021	2	14	B	
+17	Female	White	ACG2021	2	14	A	
+24	Male	White	ACG2021	2	14	F	
+25	Male	White	ACG2021	2	8	A	
+22	Male	Multi-Ethnic	ACG2021	2	14	F	
+20	Male	Hispanic/Latino	ACG2021	2	14	C	
+55	Female	Hispanic/Latino	ACG2021	2	14	F	
+20	Female	White	ACG2021	2	8	A	
+20	Female	White	ACG2021	2	14	A	
+20	Female	White	ACG2021	2	14	A	
+35	Male	White	ACG2021	2	14	A	
+21	Female	White	ACG2021	2	8	B	
+21	Male	White	ACG2021	2	14	WF	
+20	Female	White	ACG2021	2	14	A	
+21	Male	Hispanic/Latino	ACG2021	2	14	B	
+21	Male	White	ACG2021	2	8	A	
+21	Male	Hispanic/Latino	ACG2021	2	14	A	
+20	Male	White	ACG2021	2	14	C	
+22	Female	White	ACG2021	2	14	B	
+21	Female	White	ACG2021	2	8	C	
+21	Female	White	ACG2021	2	14	A	
+20	Male	White	ACG2021	2	14	C	
+20	Female	White	ACG2021	2	14	B	
+27	Female	Hispanic/Latino	ACG2021	2	8	F	
+24	Female	Hispanic/Latino	ACG2021	2	14	B	
+21	Male	White	ACG2021	2	14	WF	
+21	Male	White	ACG2021	2	14	B	
+22	Male	White	ACG2021	2	8	F	
+51	Female	White	ACG2021	2	14	F	
+32	Female	Hispanic/Latino	ACG2021	2	14	C	
+29	Female	Not Specified	ACG2021	1	14	W	
+25	Female	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	14	C	
+25	Female	White	ACG2021	1	14	C	
+35	Female	Black/African American	ACG2021	1	14	F	
+21	Female	Multi-Ethnic	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	14	A	
+23	Female	White	ACG2021	1	14	B	
+23	Male	Black/African American	ACG2021	1	14	F	
+20	Male	Black/African American	ACG2021	1	8	A	
+20	Male	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	14	A	
+21	Male	White	ACG2021	1	14	A	
+31	Female	White	ACG2021	1	8	B	
+22	Male	White	ACG2021	1	14	A	
+23	Female	Hispanic/Latino	ACG2021	1	14	W	
+21	Male	White	ACG2021	1	14	C	
+26	Female	White	ACG2021	1	8	F	
+23	Female	Multi-Ethnic	ACG2021	1	14	W	
+46	Female	Black/African American	ACG2021	1	14	C	
+52	Female	White	ACG2021	1	14	B	
+27	Male	White	ACG2021	1	8	B	
+26	Female	Black/African American	ACG2021	1	14	C	
+30	Female	White	ACG2021	1	14	F	
+23	Female	White	ACG2021	1	14	B	
+49	Male	White	ACG2021	1	8	A	
+37	Male	Black/African American	ACG2021	1	14	A	
+34	Female	Hispanic/Latino	ACG2021	1	14	B	
+46	Female	White	ACG2021	1	14	A	
+53	Male	White	ACG2021	1	8	B	
+68	Female	White	ACG2021	1	14	A	
+23	Female	Multi-Ethnic	ACG2021	1	14	C	
+27	Male	White	ACG2021	1	14	C	
+31	Male	Hispanic/Latino	ACG2021	1	8	A	
+29	Male	Black/African American	ACG2021	1	14	W	
+23	Female	White	ACG2021	1	14	A	
+30	Male	White	ACG2021	1	14	A	
+21	Unknown	Not Specified	ACG2021	1	8	A	
+41	Female	White	ACG2021	1	14	A	
+29	Male	White	ACG2021	1	14	C	
+33	Male	White	ACG2021	1	14	F	
+27	Female	White	ACG2021	1	8	A	
+24	Male	White	ACG2021	1	14	A	
+52	Female	Black/African American	ACG2021	1	14	B	
+47	Male	Black/African American	ACG2021	1	14	C	
+18	Female	Multi-Ethnic	ACG2021	2	8	A	
+47	Male	White	ACG2021	1	14	F	
+27	Male	White	ACG2021	1	14	A	
+27	Male	White	ACG2021	1	14	F	
+27	Female	White	ACG2021	1	8	W	
+21	Male	White	ACG2021	1	14	B	
+33	Female	White	ACG2021	1	14	B	
+37	Female	White	ACG2021	1	14	C	
+28	Female	White	ACG2021	1	8	A	
+22	Female	Asian	ACG2021	1	14	C	
+22	Male	White	ACG2021	1	14	B	
+30	Male	White	ACG2021	1	14	B	
+64	Male	Hispanic/Latino	ACG2021	1	8	F	
+32	Male	Black/African American	ACG2021	1	14	A	
+31	Male	White	ACG2021	1	14	A	
+22	Male	White	ACG2021	1	14	B	
+44	Male	Black/African American	ACG2021	1	8	F	
+21	Female	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	14	A	
+19	Male	White	ACG2021	1	14	A	
+22	Female	White	ACG2021	1	8	A	
+19	Female	White	ACG2021	1	14	B	
+25	Female	White	ACG2021	1	14	WF	
+19	Male	Hispanic/Latino	ACG2021	1	14	A	
+19	Female	White	ACG2021	1	8	A	
+20	Female	White	ACG2021	1	14	B	
+21	Female	Black/African American	ACG2021	1	14	B	
+20	Female	White	ACG2021	1	14	A	
+22	Unknown	White	ACG2021	1	8	A	
+30	Female	White	ACG2021	1	14	W	
+26	Female	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	14	B	
+51	Female	Black/African American	ACG2021	1	8	C	
+44	Female	Hispanic/Latino	ACG2021	1	14	A	
+40	Female	White	ACG2021	1	14	F	
+28	Female	White	ACG2021	1	14	B	
+40	Male	Black/African American	ACG2021	1	8	W	
+39	Female	Black/African American	ACG2021	1	14	C	
+21	Male	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	14	B	
+30	Male	White	ACG2021	1	8	A	
+35	Male	White	ACG2021	1	14	A	
+29	Female	White	ACG2021	1	14	C	
+44	Female	White	ACG2021	1	14	A	
+30	Male	White	ACG2021	1	8	C	
+34	Female	White	ACG2021	1	14	A	
+29	Male	White	ACG2021	1	14	B	
+30	Female	Hispanic/Latino	ACG2021	1	14	B	
+35	Female	Black/African American	ACG2021	1	8	A	
+23	Male	White	ACG2021	1	14	B	
+45	Male	White	ACG2021	1	14	A	
+26	Female	White	ACG2021	1	14	A	
+22	Female	Hispanic/Latino	ACG2021	2	8	C	
+42	Female	White	ACG2021	1	14	B	
+31	Male	White	ACG2021	1	14	B	
+34	Male	Hispanic/Latino	ACG2021	1	14	C	
+44	Male	White	ACG2021	1	8	A	
+22	Female	Not Specified	ACG2021	1	14	A	
+27	Female	White	ACG2021	1	14	B	
+34	Female	Hispanic/Latino	ACG2021	1	14	C	
+41	Female	White	ACG2021	1	8	A	
+31	Female	Not Specified	ACG2021	1	14	D	
+30	Male	Hispanic/Latino	ACG2021	1	14	W	
+30	Male	White	ACG2021	1	14	W	
+29	Female	Black/African American	ACG2021	1	8	W	
+58	Female	Black/African American	ACG2021	1	14	WF	
+45	Male	Black/African American	ACG2021	1	14	W	
+20	Male	White	ACG2021	1	14	B	
+41	Male	White	ACG2021	1	8	W	
+34	Male	Hispanic/Latino	ACG2021	1	14	A	
+40	Female	White	ACG2021	1	14	B	
+52	Male	Not Specified	ACG2021	1	14	B	
+28	Male	White	ACG2021	1	8	A	
+33	Female	White	ACG2021	1	14	F	
+47	Female	White	ACG2021	1	14	C	
+23	Female	White	ACG2021	1	14	W	
+28	Female	White	ACG2021	1	8	D	
+28	Female	White	ACG2021	1	14	F	
+38	Female	White	ACG2021	1	14	A	
+33	Male	White	ACG2021	1	14	A	
+55	Female	Black/African American	ACG2021	1	8	B	
+22	Female	White	ACG2021	1	14	C	
+42	Female	White	ACG2021	1	14	A	
+23	Male	White	ACG2021	1	14	B	
+23	Male	White	ACG2021	1	8	C	
+38	Male	Black/African American	ACG2021	1	14	F	
+26	Female	White	ACG2021	1	14	B	
+47	Male	White	ACG2021	1	14	WF	
+23	Male	White	ACG2021	1	8	A	
+28	Male	Hispanic/Latino	ACG2021	2	14	WF	
+27	Female	White	ACG2021	1	14	A	
+39	Male	Black/African American	ACG2021	1	14	A	
+23	Female	White	ACG2021	1	8	B	
+28	Female	White	ACG2021	1	14	B	
+36	Female	Hispanic/Latino	ACG2021	1	14	B	
+37	Male	Black/African American	ACG2021	1	14	W	
+25	Female	White	ACG2021	1	8	B	
+30	Unknown	White	ACG2021	1	14	C	
+20	Male	White	ACG2021	1	14	A	
+44	Male	Black/African American	ACG2021	1	14	WF	
+55	Male	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	2	14	A	
+38	Female	Black/African American	ACG2021	1	14	A	
+26	Male	White	ACG2021	2	14	A	
+30	Male	White	ACG2021	2	8	B	
+26	Male	White	ACG2021	1	14	C	
+24	Female	White	ACG2021	2	14	F	
+22	Male	White	ACG2021	1	14	B	
+24	Female	White	ACG2021	1	8	A	
+26	Female	White	ACG2021	1	14	C	
+31	Male	Hispanic/Latino	ACG2021	1	14	W	
+23	Male	White	ACG2021	1	14	A	
+21	Male	Hispanic/Latino	ACG2021	2	8	A	
+20	Male	Black/African American	ACG2021	2	14	W	
+22	Female	White	ACG2021	2	14	C	
+39	Female	White	ACG2021	2	14	F	
+22	Female	White	ACG2021	1	8	W	
+22	Male	Not Specified	ACG2021	2	14	B	
+27	Male	White	ACG2021	2	14	A	
+26	Female	White	ACG2021	2	14	B	
+19	Male	White	ACG2021	2	8	W	
+34	Male	White	ACG2021	2	14	W	
+18	Male	White	ACG2021	2	14	B	
+33	Male	White	ACG2021	2	14	F	
+28	Female	White	ACG2021	2	8	F	
+18	Male	White	ACG2021	2	14	B	
+20	Male	White	ACG2021	2	14	F	
+21	Female	White	ACG2021	2	14	B	
+31	Male	White	ACG2021	2	8	A	
+21	Male	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	14	A	
+21	Unknown	White	ACG2021	1	14	A	
+22	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	14	A	
+20	Unknown	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	14	A	
+19	Female	White	ACG2021	1	8	A	
+24	Female	Hispanic/Latino	ACG2021	1	14	B	
+31	Female	Hispanic/Latino	ACG2021	1	14	A	
+43	Unknown	White	ACG2021	1	14	A	
+29	Female	Not Specified	ACG2021	1	8	F	
+24	Female	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	14	C	
+20	Female	Hispanic/Latino	ACG2021	1	14	D	
+46	Female	White	ACG2021	1	14	F	
+41	Female	White	ACG2021	1	8	A	
+66	Male	White	ACG2021	1	14	A	
+18	Male	White	ACG2021	1	14	A	
+22	Male	Black/African American	ACG2021	2	14	F	
+42	Female	White	ACG2021	1	8	B	
+24	Male	Black/African American	ACG2021	1	14	B	
+20	Male	White	ACG2021	1	14	A	
+21	Female	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	8	A	
+21	Female	White	ACG2021	1	14	A	
+20	Female	White	ACG2021	1	14	A	
+21	Male	White	ACG2021	1	14	B	
+20	Female	White	ACG2021	1	8	A	
+21	Male	White	ACG2021	1	14	C	
+30	Female	Black/African American	ACG2021	2	14	A	
+56	Male	Black/African American	ACG2021	2	14	F	
+33	Female	White	ACG2021	1	8	W	
+39	Female	Asian	ACG2021	1	14	A	
+21	Female	Hispanic/Latino	ACG2021	1	14	D	
+54	Male	White	ACG2021	1	14	B	
+20	Male	White	ACG2021	1	8	F	
+29	Female	White	ACG2021	1	14	F	
+36	Male	White	ACG2021	1	14	A	
+26	Male	White	ACG2021	1	14	W	
+24	Male	Not Specified	ACG2021	1	8	A	
+21	Female	Black/African American	ACG2021	1	14	WF	
+19	Male	Not Specified	ACG2021	1	14	W	
+38	Female	Hispanic/Latino	ACG2021	1	14	D	
+33	Male	White	ACG2021	2	8	B	
+48	Female	White	ACG2021	2	14	A	
+34	Male	White	ACG2021	1	14	F	
+28	Female	Hispanic/Latino	ACG2021	1	14	B	
+35	Female	White	ACG2021	1	8	W	
+25	Male	Hispanic/Latino	ACG2021	1	14	A	
+31	Male	White	ACG2021	1	14	C	
+29	Unknown	White	ACG2021	1	14	B	
+20	Male	White	ACG2021	1	8	WF	
+58	Female	Black/African American	ACG2021	1	14	F	
+24	Male	Hispanic/Latino	ACG2021	1	14	D	
+30	Female	White	ACG2021	1	14	C	
+23	Male	Hispanic/Latino	ACG2021	1	8	F	
+22	Male	White	ACG2021	1	14	W	
+30	Female	White	ACG2021	1	14	WF	
+29	Female	White	ACG2021	1	14	B	
+59	Female	White	ACG2021	1	8	C	
+48	Female	White	ACG2021	1	14	A	
+21	Female	Black/African American	ACG2021	1	14	D	
+22	Male	White	ACG2021	1	14	B	
+54	Male	Black/African American	ACG2021	1	8	WF	
+59	Male	White	ACG2021	1	14	B	
+27	Male	Hispanic/Latino	ACG2021	2	14	A	
+53	Male	Hispanic/Latino	ACG2021	2	14	A	
+23	Male	Hispanic/Latino	ACG2021	2	8	B	
+22	Male	Black/African American	ACG2021	2	14	B	
+23	Female	White	ACG2021	1	14	W	
+25	Female	Asian	ACG2021	2	14	A	
+23	Female	Black/African American	ACG2021	2	8	C	
+43	Male	White	ACG2021	2	14	D	
+21	Female	White	ACG2021	2	14	C	
+48	Female	White	ACG2021	2	14	B	
+27	Female	White	ACG2021	2	8	A	
+31	Male	White	ACG2021	2	14	B	
+22	Male	White	ACG2021	2	14	C	
+28	Male	White	ACG2021	2	14	A	
+31	Male	Black/African American	ACG2021	2	8	WF	
+20	Female	White	ACG2021	2	14	A	
+31	Male	Hispanic/Latino	ACG2021	2	14	C	
+25	Male	White	ACG2021	1	14	A	
+33	Female	Hispanic/Latino	ACG2021	2	8	B	
+23	Female	Black/African American	ACG2021	2	14	W	
+25	Female	White	ACG2021	2	14	F	
+20	Female	White	ACG2021	1	14	A	
+21	Male	White	ACG2021	1	8	B	
+48	Male	White	ACG2021	2	14	B	
+22	Female	White	ACG2021	2	14	C	
+26	Male	White	ACG2021	2	14	B	
+27	Male	Black/African American	ACG2021	2	8	B	
+32	Female	White	ACG2021	2	14	A	
+21	Male	Multi-Ethnic	ACG2021	2	14	A	
+44	Male	White	ACG2021	2	14	A	
+21	Female	White	ACG2021	2	8	A	
+24	Male	White	ACG2021	2	14	A	
+24	Male	White	ACG2021	2	14	B	
+48	Male	White	ACG2021	2	14	A	
+21	Female	Asian	ACG2021	2	8	A	
+22	Female	White	ACG2021	2	14	B	
+35	Female	Hispanic/Latino	ACG2021	2	14	D	
+34	Female	Multi-Ethnic	ACG2021	2	14	B	
+22	Male	Black/African American	ACG2021	2	8	C	
+41	Female	White	ACG2021	2	14	A	
+24	Female	Asian	ACG2021	2	14	A	
+23	Female	White	ACG2021	2	14	B	
+60	Male	White	ACG2021	2	8	A	
+29	Female	White	ACG2021	2	14	C	
+35	Male	Black/African American	ACG2021	2	14	D	
+27	Male	Hispanic/Latino	ACG2021	2	14	B	
+53	Male	Black/African American	ACG2021	2	8	C	
+36	Male	Black/African American	ACG2021	2	14	B	
+31	Male	White	ACG2021	2	14	B	
+19	Male	White	ACG2021	2	14	B	
+26	Female	White	ACG2021	2	8	B	
+27	Male	Not Specified	ACG2021	2	14	B	
+25	Male	White	ACG2021	2	14	A	
+22	Female	White	ACG2021	2	14	B	
+27	Female	Black/African American	ACG2021	2	8	W	
+21	Male	Black/African American	ACG2021	2	14	B	
+22	Male	White	ACG2021	2	14	W	
+30	Male	White	ACG2021	2	14	A	
+19	Male	White	ACG2021	2	8	WF	
+27	Male	White	ACG2021	2	14	A	
+32	Male	White	ACG2021	2	14	A	
+24	Female	Asian	ACG2021	2	14	B	
+26	Male	Multi-Ethnic	ACG2021	2	8	C	
+20	Female	White	ACG2021	1	14	W	
+60	Female	Not Specified	ACG2021	1	14	F	
+20	Male	Hispanic/Latino	ACG2021	2	14	D	
+30	Female	White	ACG2021	1	8	D	
+23	Female	Hispanic/Latino	ACG2021	1	14	F	
+32	Female	Asian	ACG2021	1	14	B	
+28	Male	Black/African American	ACG2021	1	14	W	
+21	Male	Hispanic/Latino	ACG2021	2	8	B	
+39	Female	Black/African American	ACG2021	1	14	WF	
+19	Male	White	ACG2021	1	14	A	
+44	Female	Hispanic/Latino	ACG2021	1	14	A	
+44	Male	White	ACG2021	1	8	B	
+27	Male	White	ACG2021	1	14	W	
+42	Male	White	ACG2021	1	14	WF	
+33	Unknown	White	ACG2021	1	14	F	
+33	Female	White	ACG2021	1	8	A	
+32	Female	White	ACG2021	1	14	W	
+26	Female	Hispanic/Latino	ACG2021	1	14	B	
+45	Male	Hispanic/Latino	ACG2021	1	14	B	
+28	Female	White	ACG2021	1	8	C	
+36	Female	Hispanic/Latino	ACG2021	1	14	WF	
+26	Female	Black/African American	ACG2021	1	14	C	
+49	Female	Black/African American	ACG2021	1	14	W	
+31	Male	White	ACG2021	1	8	A	
+22	Male	White	ACG2021	1	14	A	
+64	Male	White	ACG2021	2	14	WF	
+38	Female	White	ACG2021	1	14	A	
+35	Male	Asian	ACG2021	1	8	A	
+22	Female	White	ACG2021	1	14	W	
+40	Male	Black/African American	ACG2021	1	14	A	
+33	Female	Black/African American	ACG2021	1	14	B	
+40	Male	White	ACG2021	1	8	B	
+22	Male	White	ACG2021	1	14	W	
+30	Male	Multi-Ethnic	ACG2021	1	14	F	
+26	Female	Hispanic/Latino	ACG2021	1	14	WF	
+32	Male	White	ACG2021	1	8	A	
+22	Female	Multi-Ethnic	ACG2021	1	14	WF	
+22	Female	White	ACG2021	1	14	B	
+23	Male	White	ACG2021	1	14	W	
+25	Female	Black/African American	ACG2021	1	8	B	
+38	Male	Black/African American	ACG2021	1	14	A	
+54	Female	Hispanic/Latino	ACG2021	1	14	A	
+22	Male	White	ACG2021	1	14	A	
+19	Female	White	ACG2021	1	8	A	
+24	Male	White	ACG2021	1	14	B	
+26	Male	White	ACG2021	1	14	C	
+40	Male	White	ACG2021	1	14	W	
+22	Female	Black/African American	ACG2021	1	8	C	
+26	Male	White	ACG2021	1	14	W	
+29	Female	Black/African American	ACG2021	1	14	B	
+48	Female	White	ACG2021	1	14	A	
+23	Female	Black/African American	ACG2021	1	8	W	
+28	Female	Black/African American	ACG2021	1	14	A	
+40	Female	Black/African American	ACG2021	1	14	W	
+29	Female	White	ACG2021	2	14	B	
+21	Male	White	ACG2021	2	8	F	
+23	Female	Multi-Ethnic	ACG2021	2	14	B	
+28	Unknown	White	ACG2021	2	14	B	
+23	Male	White	ACG2021	2	14	B	
+23	Male	White	ACG2021	2	8	D	
+27	Female	Hispanic/Latino	ACG2021	2	14	C	
+27	Male	White	ACG2021	2	14	A	
+29	Male	White	ACG2021	2	14	B	
+21	Female	White	ACG2021	2	8	WF	
+21	Male	White	ACG2021	2	14	D	
+24	Female	Hispanic/Latino	ACG2021	1	14	F	
+25	Male	White	ACG2021	1	14	A	
+58	Female	White	ACG2021	1	8	B	
+37	Female	Hispanic/Latino	ACG2021	1	14	F	
+23	Male	Asian	ACG2021	2	14	C	
+23	Male	White	ACG2021	1	14	WF	
+51	Female	White	ACG2021	1	8	F	
+22	Male	White	ACG2021	1	14	C	
+26	Female	Hispanic/Latino	ACG2021	1	14	B	
+56	Male	Black/African American	ACG2021	1	14	A	
+39	Female	Hispanic/Latino	ACG2021	1	8	F	
+30	Female	Black/African American	ACG2021	1	14	WF	
+22	Male	White	ACG2021	2	14	B	
