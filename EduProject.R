@@ -126,3 +126,59 @@ t.test(edudata2$GPA,macData2$GPA)
 
 #Conclusion: We are 95% certain students in ACG2021 scored on average between (.653 - .815) higher..
 #..than the students taking MAC2233
+
+###############PSY1012##################
+
+#import data
+library(readr)
+psyData <- read_csv("C:/Users/Dnllz/Downloads/2014- 2015  PSY.csv", 
+                           col_types = cols(Age = col_skip(), Gender = col_skip(), 
+                                            `Instruction Mode Group` = col_skip(), 
+                                            `Subject Catalog Nbr` = col_skip()))
+
+#Rename column headings
+names(psyData) <- c("ethnicity", "session", "grade")
+psyData$GPA <- ifelse(psyData$grade == "A",4,ifelse(psyData$grade == "B",3, 
+                                                    ifelse(psyData$grade == "C",2,
+                                                           ifelse(psyData$grade == "D",1,0))))
+
+#Trimming data to only contain the ethnicities we want to test.
+psyData2 <- rbind(psyData[psyData$ethnicity == "Asian",], 
+                  psyData[psyData$ethnicity == "White",], 
+                  psyData[psyData$ethnicity == "Black/African American",])
+
+#creating models to test
+psymodel1 <- glm(GPA~ethnicity*session,family = poisson,data = psyData2)
+psymodel2 <- glm(GPA~ethnicity+session,family = poisson,data = psyData2)
+psymodel3 <- glm(GPA~ethnicity,family = poisson,data = psyData2)
+psymodel4 <- glm(GPA~session,family = poisson,data = psyData2)
+
+#testing to find best model
+anova(psymodel1,psymodel2,test = "Chisq") #pvalue = .3978: model2 is proven a better fit
+anova(psymodel2,psymodel3,test = "Chisq") #pvalue = 0.000278: model2 is proven a better fit
+anova(psymodel2,psymodel4,test = "Chisq") #pvalue = approximately 0: model2 is proven a better fit
+
+###model2 is the best fit model.
+coefficients(psymodel2)
+# estimated grade = 1.046 - .39(Black) -0.071(white) - .015(Session10) -0.0014(Session12)+.083(session120W)..
+#..-0.075(Session122W)+0.089(session8)+0.097(Session8W12)-0.11(sessionDD)-0.684(sessionWEK)
+# Where:
+# Black {1 = Black, 0 = not Black}
+# White {1 = white, 0 = not white}
+# Session10 {1 = Session10, 0 = Not Session12}
+# Session12 {1 = Session12, 0 = NOt Session12}
+# Session120W {1 = Session120W, 0 = NOt Session120W}
+# Session122W {1 = Session122w, 0 = NOt Session122w}
+# Session8 {1 = Session8, 0 = NOt Session8}
+# Session8W12 {1 = Session8W12, 0 = NOt Session8W12}
+# SessionDD {1 = SessionDD, 0 = NOt SessionDD}
+# SessionWEK {1 = SessionWEK, 0 = NOt SessionWEK}
+
+#Determining 95% confidence intervals:
+confint(psymodel2)
+#sufficient evidence to show a significant difference for: All ethnicities, Session120W, Session122W..
+#..sessionWEK
+
+###Conclusion:
+#White students obtained an average grade less than asian students, and black students received the lowest average grade..
+#Students in sessionWEK performed the worst, where as students in session120W performed the best. 
