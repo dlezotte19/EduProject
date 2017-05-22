@@ -238,3 +238,115 @@ confint(eocmodel2)
 #White students obtained an average grade .14 of a letter grade less than asian students, and black students received am average grade .33 of a letter..
 #grade less than asian students. Students in sessionExpression performed the worst(.39 of a letter grade than session 10), where as students in session..
 #Weekend performed the best(.309 of a letter grade higher than session10)
+
+
+##############################ENC data###########################
+
+#import data
+library(readr)
+encData <- read_csv("C:/Users/Dnllz/Downloads/ENCdata.csv", 
+                    col_types = cols(Age = col_skip(), Gender = col_skip(), 
+                                     `Instruction Mode Group` = col_skip(), 
+                                     `Session Description` = col_character(), 
+                                     `Subject Catalog Nbr` = col_skip()))
+
+#convert numberic ethnicity code to descriptive ethnicity.
+encData$ethnicity <- ifelse(encData$`Ethnic Group Description` == "1","White",
+                            ifelse(encData$`Ethnic Group Description` == "2","Asian", 
+                                ifelse(encData$`Ethnic Group Description` == "3", "Black/African American",encData$`Ethnic Group Description`)))
+
+#changing column headers and adding gpa column.
+names(encData) <- c("ethnicityD", "session", "grade","ethnicity")
+encData$GPA <- ifelse(encData$grade == "A",4,ifelse(encData$grade == "B",3, 
+                                                    ifelse(encData$grade == "C",2,
+                                                           ifelse(encData$grade == "D",1,0))))
+#Trimming data to only contain the ethnicities we want to test.
+encData2 <- rbind(encData[encData$ethnicity == "Asian",], 
+                  encData[encData$ethnicity == "White",], 
+                  encData[encData$ethnicity == "Black/African American",])
+
+#creating models to test
+encmodel1 <- glm(GPA~ethnicity*session,family = poisson,data = encData2)
+encmodel2 <- glm(GPA~ethnicity+session,family = poisson,data = encData2)
+encmodel3 <- glm(GPA~ethnicity,family = poisson,data = encData2)
+encmodel4 <- glm(GPA~session,family = poisson,data = encData2)
+
+#testing to find best model
+anova(encmodel1,encmodel2,test = "Chisq") #pvalue = .047: model 1 and model 2 fit similiarly well.
+anova(encmodel2,encmodel3,test = "Chisq") #pvalue = appromimately 0: model2 is proven a better fit
+anova(encmodel2,encmodel4,test = "Chisq") #pvalue = approximately 0: model2 is proven a better fit
+
+###Decided on model 2 for analysis
+coefficients(encmodel2)
+# estimated grade = .982 - .023(Black) + 0.057(white) - .2195(session12) - 0.363(session6) -.2211(session8)..
+# +.152(sessionDynamic)
+# Where:
+# Black {1 = Black, 0 = not Black}
+# White {1 = white, 0 = not white}
+# Session12 {1 = Session12, 0 = NOt Session12}
+# Session6 {1 = Session6, 0 = NOt Session6}
+# Session8 {1 = Session8, 0 = NOt Session8}
+# SessionDynamic {1 = SessionDynamic, 0 = NOt SessionDynamic}
+
+
+#Determining 95% confidence intervals:
+confint(encmodel2)
+#sufficient evidence to show a significant difference for: White Vs Asian,session8,session12,session6
+
+###Conclusion:
+#White students recieved an average grade .05 letter grade higher than Asian students.
+#There is not sufficient evidence to show black students scored any differently than Asian or White students.
+#Students in session12 recieved a letter grade .21 lower than session10.
+#Students in session8 recieved a letter grade .22 lower than session10.
+#Students in session6 recieved a letter grade .36 lower than session10.(worst performing session)
+
+
+###########Comparing classes with a T-test########
+t.test(edudata2$GPA,macData2$GPA)
+
+#Conclusion: We are 95% certain students in ACG2021 scored on average between (.653 - .815) higher..
+#..than the students taking MAC2233
+
+t.test(edudata2$GPA,psyData2$GPA)
+#Conclusion: We are 95% certain students in ACG2021 scored on average between (.026 - .146) higher..
+#..than the students taking psy1012
+
+t.test(edudata2$GPA,eocData2$GPA)
+#Conclusion: We are 95% certain students in ACG2021 scored on average between (.21 - .35) higher..
+#..than the students taking eoc2013
+
+t.test(edudata2$GPA,encData2$GPA)
+#Conclusion: We are 95% certain students in ACG2021 scored on average between (.294 - .405) higher..
+#..than the students taking enc1101.
+
+
+
+t.test(macData2$GPA,psyData2$GPA)
+#Conclusion: We are 95% certain students in MAC233 scored on average between (.575 - .721) lower..
+#..than the students taking psy1012
+
+t.test(macData2$GPA,eocData2$GPA)
+#Conclusion: We are 95% certain students in MAC2233 scored on average between (.368 - .531) lower..
+#..than the students taking eoc2013
+
+t.test(macData2$GPA,encData2$GPA)
+#Conclusion: We are 95% certain students in MAC2233 scored on average between (.315 - .453) lower..
+#..than the students taking enc1101.
+
+
+
+t.test(psyData2$GPA,eocData2$GPA)
+#Conclusion: We are 95% certain students in PSY1012 scored on average between (.139 - .259) higher..
+#..than the students taking eoc2013
+
+t.test(psyData2$GPA,encData2$GPA)
+#Conclusion: We are 95% certain students in PSY1012 scored on average between (.222 - .306) higher..
+#..than the students taking enc1101.
+
+
+
+t.test(eocData2$GPA,encData2$GPA)
+#Conclusion: We are 95% certain students in EOC2013 scored on average between (.010 - .121) higher..
+#..than the students taking enc1101.
+
+
