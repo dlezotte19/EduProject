@@ -180,5 +180,61 @@ confint(psymodel2)
 #..sessionWEK
 
 ###Conclusion:
-#White students obtained an average grade less than asian students, and black students received the lowest average grade..
-#Students in sessionWEK performed the worst, where as students in session120W performed the best. 
+#White students obtained an average grade of .07 a letter grade less than asian students, and black students received average grade .39 of a letter grade
+#less than asain students. Students in sessionWEK performed the worst(.69 of a letter grade lower than session 1), where as students in session120W performed the best..
+#(.083 of a ltter grade higher than session 1 students)
+
+########################EOC data################################
+
+
+##importing data
+library(readr)
+eocData <- read_csv("C:/Users/Dnllz/Downloads/ecoData.csv", 
+                    col_types = cols(Age = col_skip(), Gender = col_skip(), 
+                                     `Instruction Mode Group` = col_skip(), 
+                                     `Session Description` = col_character(), 
+                                     `Subject Catalog Nbr` = col_skip(), 
+                                     X4 = col_skip()))
+
+#changing column headers and adding gpa column.
+names(eocData) <- c("ethnicity", "session", "grade")
+eocData$GPA <- ifelse(eocData$grade == "A",4,ifelse(eocData$grade == "B",3, 
+                                                    ifelse(eocData$grade == "C",2,
+                                                           ifelse(eocData$grade == "D",1,0))))
+#Trimming data to only contain the ethnicities we want to test.
+eocData2 <- rbind(eocData[eocData$ethnicity == "Asian",], 
+                  eocData[eocData$ethnicity == "White",], 
+                  eocData[eocData$ethnicity == "Black/African American",])
+
+#creating models to test
+eocmodel1 <- glm(GPA~ethnicity*session,family = poisson,data = eocData2)
+eocmodel2 <- glm(GPA~ethnicity+session,family = poisson,data = eocData2)
+eocmodel3 <- glm(GPA~ethnicity,family = poisson,data = eocData2)
+eocmodel4 <- glm(GPA~session,family = poisson,data = eocData2)
+
+#testing to find best model
+anova(eocmodel1,eocmodel2,test = "Chisq") #pvalue = .6202: model2 is proven a better fit
+anova(eocmodel2,eocmodel3,test = "Chisq") #pvalue = appromimately 0: model2 is proven a better fit
+anova(eocmodel2,eocmodel4,test = "Chisq") #pvalue = approximately 0: model2 is proven a better fit
+
+###model2 is the best fit model.
+coefficients(eocmodel2)
+# estimated grade = 1.09 - .329(Black) -0.1459(white) - .006(session10) - 0.045(session12) -.204(session8)..
+# -.3901(sessionExpress) + .3088(sessionWeekend)
+# Where:
+# Black {1 = Black, 0 = not Black}
+# White {1 = white, 0 = not white}
+# Session10 {1 = Session10, 0 = Not Session12}
+# Session12 {1 = Session12, 0 = NOt Session12}
+# Session8 {1 = Session8, 0 = NOt Session8}
+# SessionExpress {1 = SessionExpress, 0 = NOt SessionEspress}
+# SessionWeekend {1 = Sessionweekend, 0 = NOt Session}
+
+#Determining 95% confidence intervals:
+confint(eocmodel2)
+#sufficient evidence to show a significant difference for: All ethnicities,session8,sessionExpress,sessionWeekend
+
+###Conclusion:
+#White students obtained an average grade .14 of a letter grade less than asian students, and black students received am average grade .33 of a letter..
+#grade less than asian students. Students in sessionExpression performed the worst(.39 of a letter grade than session 10), where as students in session..
+#Weekend performed the best(.309 of a letter grade higher than session10)
