@@ -371,4 +371,4 @@ mergedSamples <- data.frame("psyGrade" = psySample, "acgGrade" = acgSample)
 plot(mergedSamples)
 
 ggscatter(mergedSamples,mergedSamples$psyGrade, mergedSamples$acgGrade,
-          xlab = "psyGrades", ylab = "acgGrades")
+          xlab = "psyGrades", ylab = "acgGrades") + stat_sum()
