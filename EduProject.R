@@ -365,16 +365,8 @@ cor.test(psySample,acgSample, method = "pearson") #Output: -.0279
 cor.test(psySample,acgSample, method = "kendall") #Output: -.0234
 cor.test(psySample,acgSample, method = "spearman") #Output: -.0284
 
-mydata <-merge(psyData2, edudata2, by=c("grade", "sex")) #Error in fix.by(by.x, x) : 'by' must specify a uniquely valid column
-mydata <- merge(psyData2, edudata2, by.x = "grade", by.y = "sex") #Error in fix.by(by.y, y) : 'by' must specify a uniquely valid column
-#mydata <- merge(psyData2, edudata2, by.x = "grade", by.y = "grade") #code will cause crash
+mergedSamples <- data.frame("psyGrade" = psySample, "acgGrade" = acgSample)
 
+plot(mergedSamples)
 
-ggscatter(psyData2, x = "grade", y = "sex", cor.method = "pearson/kendall/spearman", xlab = "Grades PSY", ylab = "Sex")
-#Error in x - from[1] : non-numeric argument to binary operator
-ggscatter(psyData2, x = "grade", y = "sex", xlab = "Grades PSY", ylab = "Sex")
-#Error in x - from[1] : non-numeric argument to binary operator
-ggscatter(psySample,acgSample, xlab = "Grades PSY", ylab = "Sex")
-#Error: ggplot2 doesn't know how to deal with data of class numeric
-ggscatter(psyData2$grade,edudata2$grade, xlab = "Grades PSY", ylab = "Sex")
-#Error: ggplot2 doesn't know how to deal with data of class character
+ggscatter(mergedSamples,mergedSamples$psyGrade, mergedSamples$acgGrade, xlab = "psyGrades", ylab = "acgGrades")
