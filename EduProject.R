@@ -361,6 +361,7 @@ acgSample <- sample(edudata2$GPA,3000)
 
 cor.test(psySample,acgSample, method = c("pearson", "kendall", "spearman")) #Output:NA. workaround below
 
+#Will var based on sample
 cor.test(psySample,acgSample, method = "pearson") #Output: -.0279
 cor.test(psySample,acgSample, method = "kendall") #Output: -.0234
 cor.test(psySample,acgSample, method = "spearman") #Output: -.0284
@@ -369,4 +370,5 @@ mergedSamples <- data.frame("psyGrade" = psySample, "acgGrade" = acgSample)
 
 plot(mergedSamples)
 
-ggscatter(mergedSamples,mergedSamples$psyGrade, mergedSamples$acgGrade, xlab = "psyGrades", ylab = "acgGrades")
+ggscatter(mergedSamples,mergedSamples$psyGrade, mergedSamples$acgGrade,
+          xlab = "psyGrades", ylab = "acgGrades")
