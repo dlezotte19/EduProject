@@ -372,3 +372,21 @@ plot(mergedSamples)
 
 ggscatter(mergedSamples,mergedSamples$psyGrade, mergedSamples$acgGrade,
           xlab = "psyGrades", ylab = "acgGrades") + stat_sum()
+
+########################filtering points: 0,2,4###################################
+
+psySample2 <- sample(psyData2$GPA[psyData2$GPA == c(0,2,4)],500)
+acgSample2 <- sample(edudata2$GPA[edudata2$GPA == c(0,2,4)],500)
+
+#Will var based on sample
+cor.test(psySample2,acgSample2, method = "pearson") #Output: -.0046
+cor.test(psySample2,acgSample2, method = "kendall") #Output: -.0032
+cor.test(psySample2,acgSample2, method = "spearman") #Output: -.0038
+
+mergedSamples2 <- data.frame("psyGrade" = psySample2, "acgGrade" = acgSample2)
+
+plot(mergedSamples2)
+
+ggscatter(mergedSamples2,mergedSamples2$psyGrade, mergedSamples2$acgGrade,
+          xlab = "psyGrades", ylab = "acgGrades") + stat_sum()
+
